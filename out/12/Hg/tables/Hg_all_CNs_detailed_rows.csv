@@ -1,0 +1,190 @@
+material_id,chem_formula,R0,B,CN_raw,mean_charge,min_charge,max_charge,chemenv,Hg_wyckoff,num_Hg_chemenvs,CN,element,charge_range,is_single_charge
+mp-10798,HgSeO3,0.6083633723632165,1.653190125355405,[7.0],2.0,2.0,2.0,Pentagonal bipyramid,4e,1,7.0,Hg,0.0,True
+mp-11691,Nd2HgO4,0.8399480920859237,2.2653379701982,[4.0],2.0,2.0,2.0,Linear,2i,1,4.0,Hg,0.0,True
+mp-11706,Ho2HgO4,1.079150935020518,1.8167255085901184,[4.0],2.0,2.0,2.0,See-saw,2i,1,4.0,Hg,0.0,True
+mp-1173247,Sr3LaCu2HgBiO10,1.955721383626972,0.9956932459074408,[3.0],2.0,2.0,2.0,Linear,1a,1,3.0,Hg,0.0,True
+mp-1183876,CdHg2SeO6,1.6929182875612026,0.973984185906054,[4.0],2.0,2.0,2.0,See-saw,2i,1,4.0,Hg,0.0,True
+mp-1184786,Hg2P2O7,1.8872029801671533,0.4989499487199104,"[6.0, 7.0]",2.0,2.0,2.0,"Octahedron, Square-face capped trigonal prism",2i,2,6.0,Hg,0.0,True
+mp-1184786,Hg2P2O7,1.8872029801671533,0.4989499487199104,"[6.0, 7.0]",2.0,2.0,2.0,"Octahedron, Square-face capped trigonal prism",2i,2,7.0,Hg,0.0,True
+mp-1190152,SrHgAs2O7,1.6416840324197497,0.7454104732173727,[6.0],2.0,2.0,2.0,Octahedron,2i,1,6.0,Hg,0.0,True
+mp-1190352,HgP2PdO7,1.44952038384909,0.9448849450127594,[6.0],2.0,2.0,2.0,Square plane,2d,1,6.0,Hg,0.0,True
+mp-1190454,BaHgAs2O7,1.837547212770091,0.5812413538059585,[6.0],2.0,2.0,2.0,Octahedron,2i,1,6.0,Hg,0.0,True
+mp-1193677,Hg3As2(HO4)2,2.221631431011548,0.234752140040651,"[1.0, 6.0]",1.5,1.0,2.0,"Triangular non-coplanar, Octahedron","4f, 2e",2,1.0,Hg,1.0,False
+mp-1193677,Hg3As2(HO4)2,2.221631431011548,0.234752140040651,"[1.0, 6.0]",1.5,1.0,2.0,"Triangular non-coplanar, Octahedron","4f, 2e",2,6.0,Hg,1.0,False
+mp-1194584,Hg3Te2SeO10,2.3289384891526064,0.1713601018998631,"[6.0, 8.0]",2.0,2.0,2.0,"Dodecahedron with triangular faces, Octahedron, Square-face capped trigonal prism",2a,3,6.0,Hg,0.0,True
+mp-1194584,Hg3Te2SeO10,2.3289384891526064,0.1713601018998631,"[6.0, 8.0]",2.0,2.0,2.0,"Dodecahedron with triangular faces, Octahedron, Square-face capped trigonal prism",2a,3,8.0,Hg,0.0,True
+mp-1194904,CuHg(SeO3)2,2.055312658312326,0.4559463678221547,[8.0],2.0,2.0,2.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,8.0,Hg,0.0,True
+mp-1198489,Hg3H4(IO6)2,2.169474412220231,0.2138914440254806,"[2.0, 3.0, 4.0]",2.0,2.0,2.0,"Face-capped octahedron, Square-face capped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",4e,3,2.0,Hg,0.0,True
+mp-1198489,Hg3H4(IO6)2,2.169474412220231,0.2138914440254806,"[2.0, 3.0, 4.0]",2.0,2.0,2.0,"Face-capped octahedron, Square-face capped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",4e,3,3.0,Hg,0.0,True
+mp-1198489,Hg3H4(IO6)2,2.169474412220231,0.2138914440254806,"[2.0, 3.0, 4.0]",2.0,2.0,2.0,"Face-capped octahedron, Square-face capped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",4e,3,4.0,Hg,0.0,True
+mp-1202858,Hg2GeS6Cl2O21,2.45327254943755,0.2255282562445614,"[4.0, 5.0]",2.0,2.0,2.0,"Cube, Square-face capped trigonal prism",4e,2,4.0,Hg,0.0,True
+mp-1202858,Hg2GeS6Cl2O21,2.45327254943755,0.2255282562445614,"[4.0, 5.0]",2.0,2.0,2.0,"Cube, Square-face capped trigonal prism",4e,2,5.0,Hg,0.0,True
+mp-1203433,Hg3AsO5,2.106390425078348,0.3922496626766993,"[4.0, 5.0, 6.0]",1.6666666666666667,1.0,2.0,"Tetrahedron, Square pyramid, Octahedron",4e,3,4.0,Hg,1.0,False
+mp-1203433,Hg3AsO5,2.106390425078348,0.3922496626766993,"[4.0, 5.0, 6.0]",1.6666666666666667,1.0,2.0,"Tetrahedron, Square pyramid, Octahedron",4e,3,5.0,Hg,1.0,False
+mp-1203433,Hg3AsO5,2.106390425078348,0.3922496626766993,"[4.0, 5.0, 6.0]",1.6666666666666667,1.0,2.0,"Tetrahedron, Square pyramid, Octahedron",4e,3,6.0,Hg,1.0,False
+mp-1205446,Hg8Br3O4,1.5248168979428358,1.110336212673736,"[1.0, 2.0, 1.0, 2.0, 2.0, 3.0, 4.0]",1.4285714285714286,1.0,2.0,"Single neighbor, Linear, See-saw, T-shaped, Angular",4e,5,1.0,Hg,1.0,False
+mp-1205446,Hg8Br3O4,1.5248168979428358,1.110336212673736,"[1.0, 2.0, 1.0, 2.0, 2.0, 3.0, 4.0]",1.4285714285714286,1.0,2.0,"Single neighbor, Linear, See-saw, T-shaped, Angular",4e,5,2.0,Hg,1.0,False
+mp-1205446,Hg8Br3O4,1.5248168979428358,1.110336212673736,"[1.0, 2.0, 1.0, 2.0, 2.0, 3.0, 4.0]",1.4285714285714286,1.0,2.0,"Single neighbor, Linear, See-saw, T-shaped, Angular",4e,5,1.0,Hg,1.0,False
+mp-1205446,Hg8Br3O4,1.5248168979428358,1.110336212673736,"[1.0, 2.0, 1.0, 2.0, 2.0, 3.0, 4.0]",1.4285714285714286,1.0,2.0,"Single neighbor, Linear, See-saw, T-shaped, Angular",4e,5,2.0,Hg,1.0,False
+mp-1205446,Hg8Br3O4,1.5248168979428358,1.110336212673736,"[1.0, 2.0, 1.0, 2.0, 2.0, 3.0, 4.0]",1.4285714285714286,1.0,2.0,"Single neighbor, Linear, See-saw, T-shaped, Angular",4e,5,2.0,Hg,1.0,False
+mp-1205446,Hg8Br3O4,1.5248168979428358,1.110336212673736,"[1.0, 2.0, 1.0, 2.0, 2.0, 3.0, 4.0]",1.4285714285714286,1.0,2.0,"Single neighbor, Linear, See-saw, T-shaped, Angular",4e,5,3.0,Hg,1.0,False
+mp-1205446,Hg8Br3O4,1.5248168979428358,1.110336212673736,"[1.0, 2.0, 1.0, 2.0, 2.0, 3.0, 4.0]",1.4285714285714286,1.0,2.0,"Single neighbor, Linear, See-saw, T-shaped, Angular",4e,5,4.0,Hg,1.0,False
+mp-1208167,VAg2HgO4,2.2029204968325047,0.2398276621700822,[3.0],1.0,1.0,1.0,Triangular non-coplanar,8e,1,3.0,Hg,0.0,True
+mp-1208895,Sm2HgO4,0.91888780163147,2.1165711911005927,[4.0],2.0,2.0,2.0,Linear,2i,1,4.0,Hg,0.0,True
+mp-1212477,Hg3BI2(OF2)2,2.078886070806806,0.1123134847828628,"[2.0, 2.0, 2.0]",2.0,2.0,2.0,"See-saw, T-shaped",4e,2,2.0,Hg,0.0,True
+mp-1212477,Hg3BI2(OF2)2,2.078886070806806,0.1123134847828628,"[2.0, 2.0, 2.0]",2.0,2.0,2.0,"See-saw, T-shaped",4e,2,2.0,Hg,0.0,True
+mp-1212477,Hg3BI2(OF2)2,2.078886070806806,0.1123134847828628,"[2.0, 2.0, 2.0]",2.0,2.0,2.0,"See-saw, T-shaped",4e,2,2.0,Hg,0.0,True
+mp-1218732,Sr7Cu2HgBiSbO15,4.510412590990402,-2.7751154995635985,[4.0],2.0,2.0,2.0,Linear,2e,1,4.0,Hg,0.0,True
+mp-1228161,Ba6Ca3Cu6Hg3O19,1.645026858663531,1.2410554781290248,"[3.0, 4.0]",2.0,2.0,2.0,"T-shaped, Square plane","1a, 2i",2,3.0,Hg,0.0,True
+mp-1228161,Ba6Ca3Cu6Hg3O19,1.645026858663531,1.2410554781290248,"[3.0, 4.0]",2.0,2.0,2.0,"T-shaped, Square plane","1a, 2i",2,4.0,Hg,0.0,True
+mp-1228371,Ba8Ca4Cu8Hg4O25,1.7045751676447078,1.269512641434814,[3.0],2.0,2.0,2.0,T-shaped,4j,1,3.0,Hg,0.0,True
+mp-1228760,Ba6Ca6Cu9Hg3O25,1.6437253194740962,1.258620551801327,"[3.0, 4.0]",2.0,2.0,2.0,"T-shaped, Square plane","1c, 2i",2,3.0,Hg,0.0,True
+mp-1228760,Ba6Ca6Cu9Hg3O25,1.6437253194740962,1.258620551801327,"[3.0, 4.0]",2.0,2.0,2.0,"T-shaped, Square plane","1c, 2i",2,4.0,Hg,0.0,True
+mp-1229053,AgHgAsO4,0.9976709035220728,1.5165739270973813,[6.0],2.0,2.0,2.0,Trigonal prism,2a,1,6.0,Hg,0.0,True
+mp-1229082,Ba6Ca12Cu15Hg3O37,1.6406071463190317,1.2407495510535824,"[3.0, 4.0]",2.0,2.0,2.0,"T-shaped, Square plane","1a, 2i",2,3.0,Hg,0.0,True
+mp-1229082,Ba6Ca12Cu15Hg3O37,1.6406071463190317,1.2407495510535824,"[3.0, 4.0]",2.0,2.0,2.0,"T-shaped, Square plane","1a, 2i",2,4.0,Hg,0.0,True
+mp-1229139,Ba10Ca5Cu10Hg5O31,1.8091405628992976,1.0881746701373245,"[2.0, 3.0]",2.0,2.0,2.0,"T-shaped, Linear","1a, 2i",2,2.0,Hg,0.0,True
+mp-1229139,Ba10Ca5Cu10Hg5O31,1.8091405628992976,1.0881746701373245,"[2.0, 3.0]",2.0,2.0,2.0,"T-shaped, Linear","1a, 2i",2,3.0,Hg,0.0,True
+mp-1229200,Ba10Cu5Hg5O21,1.8144615710257528,1.0932086461802353,"[2.0, 3.0]",2.0,2.0,2.0,"T-shaped, Linear","1a, 2i",2,2.0,Hg,0.0,True
+mp-1229200,Ba10Cu5Hg5O21,1.8144615710257528,1.0932086461802353,"[2.0, 3.0]",2.0,2.0,2.0,"T-shaped, Linear","1a, 2i",2,3.0,Hg,0.0,True
+mp-1229281,Ba6Ca15Cu18Hg3O43,1.640412734406532,1.248618221534788,"[3.0, 4.0]",2.0,2.0,2.0,"T-shaped, Square plane","1a, 2i",2,3.0,Hg,0.0,True
+mp-1229281,Ba6Ca15Cu18Hg3O43,1.640412734406532,1.248618221534788,"[3.0, 4.0]",2.0,2.0,2.0,"T-shaped, Square plane","1a, 2i",2,4.0,Hg,0.0,True
+mp-13803,Nb2Hg2O7,2.029080654503692,0.3715974878834608,[8.0],2.0,2.0,2.0,Hexagonal bipyramid,4d,1,8.0,Hg,0.0,True
+mp-14469,KHg(PO3)3,2.05107647567242,0.3348094075398745,[6.0],2.0,2.0,2.0,Octahedron,4a,1,6.0,Hg,0.0,True
+mp-15994,Hg(PO3)2,1.7044459809249943,0.6415182608615853,[6.0],2.0,2.0,2.0,Trigonal prism,8c,1,6.0,Hg,0.0,True
+mp-16585,HgB4O7,2.210658237337891,0.0655261627138071,[4.0],2.0,2.0,2.0,Pentagonal bipyramid,8c,1,4.0,Hg,0.0,True
+mp-18901,VAgHgO4,2.83009498051504,-0.2952536627424803,[6.0],2.0,2.0,2.0,"Tetrahedron, Trigonal prism","1a, 1b",2,6.0,Hg,0.0,True
+mp-19132,HgWO4,3.574977460595245,-0.8225763835896771,[6.0],2.0,2.0,2.0,Octahedron,2d,1,6.0,Hg,0.0,True
+mp-19155,CrHgO4,1.7925899442977244,0.6643359988688717,[7.0],2.0,2.0,2.0,Pentagonal bipyramid,4e,1,7.0,Hg,0.0,True
+mp-19363,HgMoO4,3.500634651907585,-0.8072040917912606,[6.0],2.0,2.0,2.0,Octahedron,2d,1,6.0,Hg,0.0,True
+mp-19380,CrHgO4,2.2588385614643376,0.0676615963442426,[6.0],2.0,2.0,2.0,Octahedron,2a,1,6.0,Hg,0.0,True
+mp-22999,Hg3(ClO)2,0.1891415583486494,3.1022378527416,"[2.0, 3.0]",2.0,2.0,2.0,"Square pyramid, Linear","2a, 4e",2,2.0,Hg,0.0,True
+mp-22999,Hg3(ClO)2,0.1891415583486494,3.1022378527416,"[2.0, 3.0]",2.0,2.0,2.0,"Square pyramid, Linear","2a, 4e",2,3.0,Hg,0.0,True
+mp-23358,Hg5(ClO2)2,0.6789869613684651,2.5117702009509086,"[2.0, 4.0, 4.0]",2.0,2.0,2.0,"Tetrahedron, See-saw, Linear","4j, 4g, 2b",3,2.0,Hg,0.0,True
+mp-23358,Hg5(ClO2)2,0.6789869613684651,2.5117702009509086,"[2.0, 4.0, 4.0]",2.0,2.0,2.0,"Tetrahedron, See-saw, Linear","4j, 4g, 2b",3,4.0,Hg,0.0,True
+mp-23358,Hg5(ClO2)2,0.6789869613684651,2.5117702009509086,"[2.0, 4.0, 4.0]",2.0,2.0,2.0,"Tetrahedron, See-saw, Linear","4j, 4g, 2b",3,4.0,Hg,0.0,True
+mp-23395,Hg2ClO,1.934892478237014,0.5841334031887397,"[2.0, 2.0, 2.0]",1.6666666666666667,1.0,2.0,"See-saw, Triangular non-coplanar, Linear","4f, 2e, 2d",3,2.0,Hg,1.0,False
+mp-23395,Hg2ClO,1.934892478237014,0.5841334031887397,"[2.0, 2.0, 2.0]",1.6666666666666667,1.0,2.0,"See-saw, Triangular non-coplanar, Linear","4f, 2e, 2d",3,2.0,Hg,1.0,False
+mp-23395,Hg2ClO,1.934892478237014,0.5841334031887397,"[2.0, 2.0, 2.0]",1.6666666666666667,1.0,2.0,"See-saw, Triangular non-coplanar, Linear","4f, 2e, 2d",3,2.0,Hg,1.0,False
+mp-23407,Hg(IO3)2,2.457962671081245,0.0716218888305722,[8.0],2.0,2.0,2.0,Dodecahedron with triangular faces - p2345 plane normalized,2a,1,8.0,Hg,0.0,True
+mp-23543,Hg5(BrO2)2,0.6097023854327682,2.661671598094076,"[2.0, 4.0, 4.0]",2.0,2.0,2.0,"See-saw, Linear","4j, 4g, 2a",2,2.0,Hg,0.0,True
+mp-23543,Hg5(BrO2)2,0.6097023854327682,2.661671598094076,"[2.0, 4.0, 4.0]",2.0,2.0,2.0,"See-saw, Linear","4j, 4g, 2a",2,4.0,Hg,0.0,True
+mp-23543,Hg5(BrO2)2,0.6097023854327682,2.661671598094076,"[2.0, 4.0, 4.0]",2.0,2.0,2.0,"See-saw, Linear","4j, 4g, 2a",2,4.0,Hg,0.0,True
+mp-23644,Hg3AsClO4,1.8275066206898416,1.1525241214773234,[3.0],2.0,2.0,2.0,See-saw,12b,1,3.0,Hg,0.0,True
+mp-24216,ZnHgAsHO5,1.7221727833821858,0.59960382272527,[7.0],2.0,2.0,2.0,Square-face capped trigonal prism,4c,1,7.0,Hg,0.0,True
+mp-24426,HgH2SeO5,2.818958001945851,-0.1909635089649057,[7.0],2.0,2.0,2.0,Square-face capped trigonal prism,4e,1,7.0,Hg,0.0,True
+mp-28318,HgTeO3,2.2971172414814776,0.0781227394634175,"[5.0, 6.0]",2.0,2.0,2.0,"Square-face capped trigonal prism, Octahedron",2i,2,5.0,Hg,0.0,True
+mp-28318,HgTeO3,2.2971172414814776,0.0781227394634175,"[5.0, 6.0]",2.0,2.0,2.0,"Square-face capped trigonal prism, Octahedron",2i,2,6.0,Hg,0.0,True
+mp-28455,Hg2P2O7,1.8450699270672783,0.5530315851558882,[6.0],2.0,2.0,2.0,Octahedron,2i,1,6.0,Hg,0.0,True
+mp-29112,CrHg5O6,2.1269493602648395,0.5251156548960416,"[1.0, 3.0, 6.0]",1.3333333333333333,1.0,2.0,"Triangular non-coplanar, Octahedron","4f, 2a",2,1.0,Hg,1.0,False
+mp-29112,CrHg5O6,2.1269493602648395,0.5251156548960416,"[1.0, 3.0, 6.0]",1.3333333333333333,1.0,2.0,"Triangular non-coplanar, Octahedron","4f, 2a",2,3.0,Hg,1.0,False
+mp-29112,CrHg5O6,2.1269493602648395,0.5251156548960416,"[1.0, 3.0, 6.0]",1.3333333333333333,1.0,2.0,"Triangular non-coplanar, Octahedron","4f, 2a",2,6.0,Hg,1.0,False
+mp-29189,V(HgO2)2,2.008505806485594,0.4013964272323578,"[1.0, 4.0, 6.0]",1.3333333333333333,1.0,2.0,"See-saw, Square pyramid, Octahedron","2c, 2b, 4e",3,1.0,Hg,1.0,False
+mp-29189,V(HgO2)2,2.008505806485594,0.4013964272323578,"[1.0, 4.0, 6.0]",1.3333333333333333,1.0,2.0,"See-saw, Square pyramid, Octahedron","2c, 2b, 4e",3,4.0,Hg,1.0,False
+mp-29189,V(HgO2)2,2.008505806485594,0.4013964272323578,"[1.0, 4.0, 6.0]",1.3333333333333333,1.0,2.0,"See-saw, Square pyramid, Octahedron","2c, 2b, 4e",3,6.0,Hg,1.0,False
+mp-29709,Hg3PO4,1.8604486377642016,0.5791191539580894,[3.0],1.0,1.0,1.0,Triangular non-coplanar,4e,1,3.0,Hg,0.0,True
+mp-29710,Hg4P2O7,1.873688442793955,0.6205024720186703,"[2.0, 3.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4g,2,2.0,Hg,0.0,True
+mp-29710,Hg4P2O7,1.873688442793955,0.6205024720186703,"[2.0, 3.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4g,2,3.0,Hg,0.0,True
+mp-29893,Hg2MoO4,1.432892916496499,0.8462253555812657,"[4.0, 5.0]",1.0,1.0,1.0,See-saw,4e,1,4.0,Hg,0.0,True
+mp-29893,Hg2MoO4,1.432892916496499,0.8462253555812657,"[4.0, 5.0]",1.0,1.0,1.0,See-saw,4e,1,5.0,Hg,0.0,True
+mp-29894,Hg2WO4,2.9675201465675984,-0.4290035377466837,[3.0],1.0,1.0,1.0,See-saw,4f,1,3.0,Hg,0.0,True
+mp-29958,Hg7(PO5)2,2.179554936261728,0.1808052966751926,"[3.0, 4.0, 2.0, 3.0]",1.5,1.0,2.0,"See-saw, Triangular non-coplanar, Linear","2b, 4e",3,3.0,Hg,1.0,False
+mp-29958,Hg7(PO5)2,2.179554936261728,0.1808052966751926,"[3.0, 4.0, 2.0, 3.0]",1.5,1.0,2.0,"See-saw, Triangular non-coplanar, Linear","2b, 4e",3,4.0,Hg,1.0,False
+mp-29958,Hg7(PO5)2,2.179554936261728,0.1808052966751926,"[3.0, 4.0, 2.0, 3.0]",1.5,1.0,2.0,"See-saw, Triangular non-coplanar, Linear","2b, 4e",3,2.0,Hg,1.0,False
+mp-29958,Hg7(PO5)2,2.179554936261728,0.1808052966751926,"[3.0, 4.0, 2.0, 3.0]",1.5,1.0,2.0,"See-saw, Triangular non-coplanar, Linear","2b, 4e",3,3.0,Hg,1.0,False
+mp-30123,Hg2SeO5,1.9211257329021845,0.453650563367791,"[5.0, 6.0]",2.0,2.0,2.0,"Octahedron, Trigonal prism",4e,2,5.0,Hg,0.0,True
+mp-30123,Hg2SeO5,1.9211257329021845,0.453650563367791,"[5.0, 6.0]",2.0,2.0,2.0,"Octahedron, Trigonal prism",4e,2,6.0,Hg,0.0,True
+mp-30890,Hg3SO6,2.0606399785856304,0.3804900495152053,"[6.0, 7.0]",2.0,2.0,2.0,"Face-capped octahedron, Octahedron, Square pyramid",3a,3,6.0,Hg,0.0,True
+mp-30890,Hg3SO6,2.0606399785856304,0.3804900495152053,"[6.0, 7.0]",2.0,2.0,2.0,"Face-capped octahedron, Octahedron, Square pyramid",3a,3,7.0,Hg,0.0,True
+mp-30937,HgClO3,2.5449695993895327,0.0733679179510622,"[2.0, 4.0]",1.0,1.0,1.0,"See-saw, T-shaped",4e,2,2.0,Hg,0.0,True
+mp-30937,HgClO3,2.5449695993895327,0.0733679179510622,"[2.0, 4.0]",1.0,1.0,1.0,"See-saw, T-shaped",4e,2,4.0,Hg,0.0,True
+mp-31132,Hg4OF6,1.4058753964342938,1.0893741263916803,"[1.0, 1.0]",2.0,2.0,2.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism","6c, 2b",2,1.0,Hg,0.0,True
+mp-31132,Hg4OF6,1.4058753964342938,1.0893741263916803,"[1.0, 1.0]",2.0,2.0,2.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism","6c, 2b",2,1.0,Hg,0.0,True
+mp-4445,Hg3AsO4,1.7643148744932833,0.6590968560307024,[3.0],1.0,1.0,1.0,Triangular non-coplanar,4e,1,3.0,Hg,0.0,True
+mp-5363,Hg2TeO5,2.3028695043342235,0.2807107400845576,"[4.0, 7.0]",2.0,2.0,2.0,"Square pyramid, Trigonal prism",4a,2,4.0,Hg,0.0,True
+mp-5363,Hg2TeO5,2.3028695043342235,0.2807107400845576,"[4.0, 7.0]",2.0,2.0,2.0,"Square pyramid, Trigonal prism",4a,2,7.0,Hg,0.0,True
+mp-540645,Hg3(ClO)2,1.9934473732398053,0.5084445506881211,"[2.0, 2.0, 3.0]",2.0,2.0,2.0,"Linear, Tetrahedron, T-shaped, Trigonal bipyramid, Trigonal prism",4e,5,2.0,Hg,0.0,True
+mp-540645,Hg3(ClO)2,1.9934473732398053,0.5084445506881211,"[2.0, 2.0, 3.0]",2.0,2.0,2.0,"Linear, Tetrahedron, T-shaped, Trigonal bipyramid, Trigonal prism",4e,5,2.0,Hg,0.0,True
+mp-540645,Hg3(ClO)2,1.9934473732398053,0.5084445506881211,"[2.0, 2.0, 3.0]",2.0,2.0,2.0,"Linear, Tetrahedron, T-shaped, Trigonal bipyramid, Trigonal prism",4e,5,3.0,Hg,0.0,True
+mp-541164,Hg9(AsO4)4,2.4942788465267984,0.0073214958496388,"[3.0, 4.0, 4.0]",1.3333333333333333,1.0,2.0,See-saw,6b,1,3.0,Hg,1.0,False
+mp-541164,Hg9(AsO4)4,2.4942788465267984,0.0073214958496388,"[3.0, 4.0, 4.0]",1.3333333333333333,1.0,2.0,See-saw,6b,1,4.0,Hg,1.0,False
+mp-541164,Hg9(AsO4)4,2.4942788465267984,0.0073214958496388,"[3.0, 4.0, 4.0]",1.3333333333333333,1.0,2.0,See-saw,6b,1,4.0,Hg,1.0,False
+mp-541193,Hg7Cl2O3,1.6721439111738905,0.8272736593626014,"[1.0, 2.0, 3.0, 2.0]",1.25,1.0,2.0,"Single neighbor, Linear, Angular","4d, 8e, 4a",3,1.0,Hg,1.0,False
+mp-541193,Hg7Cl2O3,1.6721439111738905,0.8272736593626014,"[1.0, 2.0, 3.0, 2.0]",1.25,1.0,2.0,"Single neighbor, Linear, Angular","4d, 8e, 4a",3,2.0,Hg,1.0,False
+mp-541193,Hg7Cl2O3,1.6721439111738905,0.8272736593626014,"[1.0, 2.0, 3.0, 2.0]",1.25,1.0,2.0,"Single neighbor, Linear, Angular","4d, 8e, 4a",3,3.0,Hg,1.0,False
+mp-541193,Hg7Cl2O3,1.6721439111738905,0.8272736593626014,"[1.0, 2.0, 3.0, 2.0]",1.25,1.0,2.0,"Single neighbor, Linear, Angular","4d, 8e, 4a",3,2.0,Hg,1.0,False
+mp-542054,Hg9(PO4)4,2.2533262055516787,0.1477238538412093,"[3.0, 3.0]",1.5,1.0,2.0,"Square pyramid, Triangular non-coplanar",6b,2,3.0,Hg,1.0,False
+mp-542054,Hg9(PO4)4,2.2533262055516787,0.1477238538412093,"[3.0, 3.0]",1.5,1.0,2.0,"Square pyramid, Triangular non-coplanar",6b,2,3.0,Hg,1.0,False
+mp-542115,Hg3Se3O10,2.4935808864948936,0.0062863668689088,"[5.0, 8.0]",2.0,2.0,2.0,"Cube, Square antiprism, Trigonal bipyramid",2a,3,5.0,Hg,0.0,True
+mp-542115,Hg3Se3O10,2.4935808864948936,0.0062863668689088,"[5.0, 8.0]",2.0,2.0,2.0,"Cube, Square antiprism, Trigonal bipyramid",2a,3,8.0,Hg,0.0,True
+mp-553949,Ag2Hg2(TeO4)3,1.926890841081132,0.6416651808735535,[5.0],2.0,2.0,2.0,Trigonal bipyramid,4e,1,5.0,Hg,0.0,True
+mp-554533,Hg2Mo2O7,2.036206194341289,0.7290228882323003,"[1.0, 2.0]",1.0,1.0,1.0,Triangular non-coplanar,2i,1,1.0,Hg,0.0,True
+mp-554533,Hg2Mo2O7,2.036206194341289,0.7290228882323003,"[1.0, 2.0]",1.0,1.0,1.0,Triangular non-coplanar,2i,1,2.0,Hg,0.0,True
+mp-554914,Hg3PO4,2.354140859328936,0.0808226363069158,"[2.0, 3.0]",1.0,1.0,1.0,"Angular, Square pyramid, Triangular non-coplanar",4e,3,2.0,Hg,0.0,True
+mp-554914,Hg3PO4,2.354140859328936,0.0808226363069158,"[2.0, 3.0]",1.0,1.0,1.0,"Angular, Square pyramid, Triangular non-coplanar",4e,3,3.0,Hg,0.0,True
+mp-555759,Re2(HgO2)5,2.195426198669174,0.2792226969091196,"[4.0, 5.0, 6.0]",1.3333333333333333,1.0,2.0,"See-saw, Octahedron","2d, 4e",2,4.0,Hg,1.0,False
+mp-555759,Re2(HgO2)5,2.195426198669174,0.2792226969091196,"[4.0, 5.0, 6.0]",1.3333333333333333,1.0,2.0,"See-saw, Octahedron","2d, 4e",2,5.0,Hg,1.0,False
+mp-555759,Re2(HgO2)5,2.195426198669174,0.2792226969091196,"[4.0, 5.0, 6.0]",1.3333333333333333,1.0,2.0,"See-saw, Octahedron","2d, 4e",2,6.0,Hg,1.0,False
+mp-555918,Hg2SeO3,1.7972049683700604,0.6167988544094822,"[4.0, 5.0]",1.0,1.0,1.0,"See-saw, Square pyramid",4b,2,4.0,Hg,0.0,True
+mp-555918,Hg2SeO3,1.7972049683700604,0.6167988544094822,"[4.0, 5.0]",1.0,1.0,1.0,"See-saw, Square pyramid",4b,2,5.0,Hg,0.0,True
+mp-556308,CrHg(PbO3)2,1.7099506542948697,0.9171335702680776,[4.0],2.0,2.0,2.0,T-shaped,2i,1,4.0,Hg,0.0,True
+mp-556339,Hg3AsO4,2.223730377305666,0.2044612695304832,"[2.0, 3.0]",1.0,1.0,1.0,Triangular non-coplanar,4e,1,2.0,Hg,0.0,True
+mp-556339,Hg3AsO4,2.223730377305666,0.2044612695304832,"[2.0, 3.0]",1.0,1.0,1.0,Triangular non-coplanar,4e,1,3.0,Hg,0.0,True
+mp-556369,CdHg2SeO6,1.86498892043568,0.7322571505763525,"[3.0, 6.0]",2.0,2.0,2.0,"T-shaped, Square plane",2i,2,3.0,Hg,0.0,True
+mp-556369,CdHg2SeO6,1.86498892043568,0.7322571505763525,"[3.0, 6.0]",2.0,2.0,2.0,"T-shaped, Square plane",2i,2,6.0,Hg,0.0,True
+mp-556798,AgHg2PO4,1.7768057812592546,0.5310236084125067,[3.0],1.0,1.0,1.0,Triangular non-coplanar,8i,1,3.0,Hg,0.0,True
+mp-557224,HgSeO3,2.759943617398154,0.0905761003194858,[7.0],2.0,2.0,2.0,Octahedron,4e,1,7.0,Hg,0.0,True
+mp-557250,HgINO3,2.221070680300639,0.326181496898097,[4.0],2.0,2.0,2.0,Hexagonal bipyramid,4c,1,4.0,Hg,0.0,True
+mp-557269,Ba2Hg3(PdO2)7,2.0955274923347327,0.523344120356525,"[2.0, 3.0]",2.0,2.0,2.0,"Triangular non-coplanar, Linear","2i, 1c",2,2.0,Hg,0.0,True
+mp-557269,Ba2Hg3(PdO2)7,2.0955274923347327,0.523344120356525,"[2.0, 3.0]",2.0,2.0,2.0,"Triangular non-coplanar, Linear","2i, 1c",2,3.0,Hg,0.0,True
+mp-557697,Hg2Sb2O7,2.0175515690984,0.3398013127097237,[8.0],2.0,2.0,2.0,Hexagonal bipyramid,4c,1,8.0,Hg,0.0,True
+mp-558188,AgHg2AsO4,1.892972802087047,0.3964464902279992,[3.0],1.0,1.0,1.0,Triangular non-coplanar,8i,1,3.0,Hg,0.0,True
+mp-558585,Hg3PClO4,1.5368725234609568,1.7040747767336817,[3.0],2.0,2.0,2.0,Square pyramid,12b,1,3.0,Hg,0.0,True
+mp-558802,Hg2MoO4,3.0287727910035303,-0.4778056131693472,[3.0],1.0,1.0,1.0,See-saw,4f,1,3.0,Hg,0.0,True
+mp-558934,Hg3ClO,1.6825219365282134,0.8882952527600375,"[1.0, 1.0, 1.0, 2.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4f,2,1.0,Hg,0.0,True
+mp-558934,Hg3ClO,1.6825219365282134,0.8882952527600375,"[1.0, 1.0, 1.0, 2.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4f,2,1.0,Hg,0.0,True
+mp-558934,Hg3ClO,1.6825219365282134,0.8882952527600375,"[1.0, 1.0, 1.0, 2.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4f,2,1.0,Hg,0.0,True
+mp-558934,Hg3ClO,1.6825219365282134,0.8882952527600375,"[1.0, 1.0, 1.0, 2.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4f,2,2.0,Hg,0.0,True
+mp-558945,Hg3AsBrO4,1.7929376632904652,1.2350668873410031,[3.0],2.0,2.0,2.0,See-saw,12b,1,3.0,Hg,0.0,True
+mp-559070,Li2Hg(PO3)4,1.1674408497861473,1.149571699401478,[6.0],2.0,2.0,2.0,Octahedron,4e,1,6.0,Hg,0.0,True
+mp-559462,CrHg3(PbO4)2,2.022461935556612,0.4805803241971847,"[2.0, 5.0]",2.0,2.0,2.0,"T-shaped, Square pyramid, Linear",4e,3,2.0,Hg,0.0,True
+mp-559462,CrHg3(PbO4)2,2.022461935556612,0.4805803241971847,"[2.0, 5.0]",2.0,2.0,2.0,"T-shaped, Square pyramid, Linear",4e,3,5.0,Hg,0.0,True
+mp-559722,Hg3(NO4)2,1.9650129906816736,0.4500601220771152,"[5.0, 7.0]",2.0,2.0,2.0,"Face-capped octahedron, Square pyramid, Pentagonal bipyramid",8c,3,5.0,Hg,0.0,True
+mp-559722,Hg3(NO4)2,1.9650129906816736,0.4500601220771152,"[5.0, 7.0]",2.0,2.0,2.0,"Face-capped octahedron, Square pyramid, Pentagonal bipyramid",8c,3,7.0,Hg,0.0,True
+mp-560316,Hg3SO6,2.097104700851419,0.5012888235841018,"[2.0, 6.0]",2.0,2.0,2.0,"Octahedron, Trigonal prism","6c, 3a",2,2.0,Hg,0.0,True
+mp-560316,Hg3SO6,2.097104700851419,0.5012888235841018,"[2.0, 6.0]",2.0,2.0,2.0,"Octahedron, Trigonal prism","6c, 3a",2,6.0,Hg,0.0,True
+mp-561222,K2HgBr2(NO6)2,3.684555734140024,-0.8220710189658673,[8.0],2.0,2.0,2.0,Cube,2a,1,8.0,Hg,0.0,True
+mp-561361,Hg2Mo2O7,2.0315010850128994,0.8415547487145171,"[1.0, 2.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4f,2,1.0,Hg,0.0,True
+mp-561361,Hg2Mo2O7,2.0315010850128994,0.8415547487145171,"[1.0, 2.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4f,2,2.0,Hg,0.0,True
+mp-565679,Hg4Se4O9,2.5009566237878724,0.0329860634507445,"[3.0, 4.0, 7.0]",2.0,2.0,2.0,no_data,no_data,1,3.0,Hg,0.0,True
+mp-565679,Hg4Se4O9,2.5009566237878724,0.0329860634507445,"[3.0, 4.0, 7.0]",2.0,2.0,2.0,no_data,no_data,1,4.0,Hg,0.0,True
+mp-565679,Hg4Se4O9,2.5009566237878724,0.0329860634507445,"[3.0, 4.0, 7.0]",2.0,2.0,2.0,no_data,no_data,1,7.0,Hg,0.0,True
+mp-605347,HgTe(H2O3)2,2.0467356288615384,-0.0199520595038434,[2.0],2.0,2.0,2.0,Linear,4a,1,2.0,Hg,0.0,True
+mp-616597,ReHgO4,1.4386572102997337,0.7534420587922688,[5.0],1.0,1.0,1.0,Square pyramid,4e,1,5.0,Hg,0.0,True
+mp-642625,Hg12SbBr(ClO3)2,2.115617216994032,0.526229047686522,"[1.0, 1.0, 1.0, 1.0, 2.0, 2.0]",1.0,1.0,1.0,"Single neighbor, Triangular non-coplanar, Angular",3d,3,1.0,Hg,0.0,True
+mp-642625,Hg12SbBr(ClO3)2,2.115617216994032,0.526229047686522,"[1.0, 1.0, 1.0, 1.0, 2.0, 2.0]",1.0,1.0,1.0,"Single neighbor, Triangular non-coplanar, Angular",3d,3,1.0,Hg,0.0,True
+mp-642625,Hg12SbBr(ClO3)2,2.115617216994032,0.526229047686522,"[1.0, 1.0, 1.0, 1.0, 2.0, 2.0]",1.0,1.0,1.0,"Single neighbor, Triangular non-coplanar, Angular",3d,3,1.0,Hg,0.0,True
+mp-642625,Hg12SbBr(ClO3)2,2.115617216994032,0.526229047686522,"[1.0, 1.0, 1.0, 1.0, 2.0, 2.0]",1.0,1.0,1.0,"Single neighbor, Triangular non-coplanar, Angular",3d,3,1.0,Hg,0.0,True
+mp-642625,Hg12SbBr(ClO3)2,2.115617216994032,0.526229047686522,"[1.0, 1.0, 1.0, 1.0, 2.0, 2.0]",1.0,1.0,1.0,"Single neighbor, Triangular non-coplanar, Angular",3d,3,2.0,Hg,0.0,True
+mp-642625,Hg12SbBr(ClO3)2,2.115617216994032,0.526229047686522,"[1.0, 1.0, 1.0, 1.0, 2.0, 2.0]",1.0,1.0,1.0,"Single neighbor, Triangular non-coplanar, Angular",3d,3,2.0,Hg,0.0,True
+mp-667291,ReHg2O5,2.040953524374811,0.406152605332076,"[1.0, 5.0, 5.0, 6.0]",1.5,1.0,2.0,"See-saw, Square pyramid, Octahedron","1a, 2i, 1e",3,1.0,Hg,1.0,False
+mp-667291,ReHg2O5,2.040953524374811,0.406152605332076,"[1.0, 5.0, 5.0, 6.0]",1.5,1.0,2.0,"See-saw, Square pyramid, Octahedron","1a, 2i, 1e",3,5.0,Hg,1.0,False
+mp-667291,ReHg2O5,2.040953524374811,0.406152605332076,"[1.0, 5.0, 5.0, 6.0]",1.5,1.0,2.0,"See-saw, Square pyramid, Octahedron","1a, 2i, 1e",3,5.0,Hg,1.0,False
+mp-667291,ReHg2O5,2.040953524374811,0.406152605332076,"[1.0, 5.0, 5.0, 6.0]",1.5,1.0,2.0,"See-saw, Square pyramid, Octahedron","1a, 2i, 1e",3,6.0,Hg,1.0,False
+mp-754598,Hg3SeO6,2.097246031071799,0.394074735568081,"[2.0, 6.0, 7.0]",2.0,2.0,2.0,"Face-capped octahedron, Square pyramid, Trigonal prism",3a,3,2.0,Hg,0.0,True
+mp-754598,Hg3SeO6,2.097246031071799,0.394074735568081,"[2.0, 6.0, 7.0]",2.0,2.0,2.0,"Face-capped octahedron, Square pyramid, Trigonal prism",3a,3,6.0,Hg,0.0,True
+mp-754598,Hg3SeO6,2.097246031071799,0.394074735568081,"[2.0, 6.0, 7.0]",2.0,2.0,2.0,"Face-capped octahedron, Square pyramid, Trigonal prism",3a,3,7.0,Hg,0.0,True
+mp-756040,Gd2HgO4,0.9666062031949187,2.028383731612501,[4.0],2.0,2.0,2.0,Linear,2i,1,4.0,Hg,0.0,True
+mp-756103,Y2HgO4,1.048964281820762,1.872938200095844,[4.0],2.0,2.0,2.0,See-saw,2i,1,4.0,Hg,0.0,True
+mp-759925,Zn2Hg2H2Se2O11,2.1592890996357443,0.1951488181831187,"[2.0, 6.0]",2.0,2.0,2.0,"See-saw, Octahedron",4d,2,2.0,Hg,0.0,True
+mp-759925,Zn2Hg2H2Se2O11,2.1592890996357443,0.1951488181831187,"[2.0, 6.0]",2.0,2.0,2.0,"See-saw, Octahedron",4d,2,6.0,Hg,0.0,True
+mp-761169,Zn2Hg2H2S2O11,2.1501515165483904,0.2034634689770708,"[2.0, 6.0]",2.0,2.0,2.0,"Linear, Octahedron",4d,2,2.0,Hg,0.0,True
+mp-761169,Zn2Hg2H2S2O11,2.1501515165483904,0.2034634689770708,"[2.0, 6.0]",2.0,2.0,2.0,"Linear, Octahedron",4d,2,6.0,Hg,0.0,True
+mp-772206,Hg2W2O7,2.038964183429264,0.7487583577516126,"[1.0, 2.0]",1.0,1.0,1.0,Angular,2i,1,1.0,Hg,0.0,True
+mp-772206,Hg2W2O7,2.038964183429264,0.7487583577516126,"[1.0, 2.0]",1.0,1.0,1.0,Angular,2i,1,2.0,Hg,0.0,True
+mp-774407,Hg2W2O7,2.0741367426008503,0.7515963602251317,"[1.0, 2.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4f,2,1.0,Hg,0.0,True
+mp-774407,Hg2W2O7,2.0741367426008503,0.7515963602251317,"[1.0, 2.0]",1.0,1.0,1.0,"Triangular non-coplanar, Angular",4f,2,2.0,Hg,0.0,True
+mp-779287,La2HgO4,0.7236081008877853,2.487595081600209,[4.0],2.0,2.0,2.0,Linear,2i,1,4.0,Hg,0.0,True
+mp-8975,Hg3(AsO4)2,1.4803208218593882,0.995658672033955,"[5.0, 7.0]",2.0,2.0,2.0,"Square pyramid, Square-face capped trigonal prism",4e,2,5.0,Hg,0.0,True
+mp-8975,Hg3(AsO4)2,1.4803208218593882,0.995658672033955,"[5.0, 7.0]",2.0,2.0,2.0,"Square pyramid, Square-face capped trigonal prism",4e,2,7.0,Hg,0.0,True
+mp-997000,AgHgO2,2.3655887706625203,0.0599600079275171,[4.0],2.0,2.0,2.0,Square plane,"1c, 1b",1,4.0,Hg,0.0,True

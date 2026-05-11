@@ -1,0 +1,273 @@
+CN,geometry_type,mean_charge,count,n_materials,d_min_mean,d_mean_mean,d_std_mean,bridging_O_fraction_mean,fraction_within_cn_geometry
+1.0,"Octahedron, Metabidiminished icosahedron",1.0,1,1,,,,,1.0
+1.0,"Trigonal bipyramid, Pentagonal pyramid, Trigonal prism, Square pyramid, Octahedron",1.0,1,1,,,,,1.0
+2.0,Linear,1.0,50,3,2.0502233369623113,2.05667232545948,0.0064489884971689684,0.16,1.0
+2.0,"Linear, Octahedron",1.0,42,2,2.1051638796806715,2.1090044124023404,0.0038405327216690867,1.0,0.9767441860465116
+2.0,"Linear, Octahedron",2.0,1,1,2.1819086765540203,2.1819086765540208,4.440892098500626e-16,1.0,0.023255813953488372
+2.0,"Linear, Triangular non-coplanar",1.14,24,2,2.1413037866086735,2.1428126368306777,0.0015088502220044155,1.0,0.4067796610169492
+2.0,"Linear, Triangular non-coplanar",1.08,15,1,2.131332097713408,2.1365416080992605,0.005209510385852963,1.0,0.2542372881355932
+2.0,"Linear, Triangular non-coplanar",1.11,10,1,2.1344757393383986,2.137203817743067,0.0027280784046684247,1.0,0.1694915254237288
+2.0,"Linear, Triangular non-coplanar",1.0,7,2,2.1310430614030125,2.1409567080010294,0.009913646598016782,1.0,0.11864406779661017
+2.0,"Linear, Triangular non-coplanar",1.2,3,1,2.11927684967176,2.1192768496717607,3.573753977745242e-16,1.0,0.05084745762711865
+2.0,"Linear, Trigonal plane",1.5,1,1,,,,,1.0
+2.0,"Linear, Trigonal plane, Square plane",1.5,2,1,2.1145174487321885,2.118231203118741,0.0037137543865520817,1.0,1.0
+2.0,"Linear, Trigonal plane, Triangular non-coplanar",1.0,3,1,2.174904536765752,2.174904536765753,6.781447744218427e-16,1.0,0.5
+2.0,"Linear, Trigonal plane, Triangular non-coplanar",1.2,3,1,2.1450785891576545,2.145726702195398,0.0006481130377434438,1.0,0.5
+2.0,"See-saw, Angular, Triangular non-coplanar",2.4,4,1,2.3551763950529194,2.35517639505292,3.1401849173675503e-16,1.0,1.0
+2.0,"See-saw, Angular, Triangular non-coplanar, Pentagonal plane",1.0,4,1,2.3148009740895223,2.3539030212433136,0.03910204715379123,1.0,1.0
+2.0,"See-saw, Linear",1.0,1,1,,,,,1.0
+2.0,"See-saw, Pentagonal plane, Trigonal prism",1.0,1,1,,,,,1.0
+2.0,"Square plane, Trigonal plane, Pentagonal pyramid, Trigonal prism, Square pyramid",1.0,1,1,,,,,1.0
+2.0,"Square pyramid, Octahedron, T-shaped",1.0,1,1,,,,,1.0
+2.0,"Square pyramid, Triangular non-coplanar",1.0,12,1,2.4507214120779035,2.544883639413401,0.09416222733549763,1.0,1.0
+2.0,"T-shaped, Linear",1.0,32,3,2.141880162866003,2.144101474193078,0.0022213113270751384,1.0,1.0
+2.0,"T-shaped, Linear, Octahedron",1.0,12,1,2.1442045887992887,2.14592787059676,0.0017232817974715201,1.0,1.0
+2.0,"T-shaped, Trigonal plane",1.5,1,1,,,,,1.0
+2.0,"Tetrahedron, Linear",1.0,46,3,2.083047462756296,2.088539251716381,0.005491788960085342,1.0,1.0
+2.0,"Tetrahedron, Linear, Square plane, T-shaped, See-saw, Trigonal bipyramid",1.0,108,1,2.215474641673489,2.2411496933380155,0.025675051664526445,1.0,1.0
+2.0,"Tetrahedron, Linear, T-shaped",1.0,2,1,2.0824862876605135,2.0901710686337482,0.007684780973234551,1.0,1.0
+2.0,"Tetrahedron, Linear, T-shaped, See-saw, Trigonal prism, Square pyramid",1.0,1,1,,,,,1.0
+2.0,"Tetrahedron, See-saw",1.0,4,1,2.342390300297799,2.3943979481468567,0.052007647849057814,1.0,1.0
+2.0,"Tetrahedron, See-saw, Square pyramid, Square plane",1.0,1,1,,,,,1.0
+2.0,"Tetrahedron, See-saw, T-shaped",1.0,1,1,,,,,1.0
+2.0,"Tetrahedron, See-saw, Trigonal prism, Octahedron",1.0,1,1,,,,,1.0
+2.0,"Tetrahedron, T-shaped, See-saw, Trigonal bipyramid",1.0,1,1,,,,,1.0
+2.0,"Tetrahedron, Trigonal bipyramid, Octahedron",1.0,16,1,2.4820660710936338,2.559640340439471,0.07757426934583711,1.0,1.0
+2.0,"Tetrahedron, Trigonal bipyramid, See-saw, Octahedron",1.0,24,1,2.3644217981996487,2.3771921178042525,0.012770319604603767,1.0,1.0
+2.0,"Trigonal bipyramid, Pentagonal pyramid, Trigonal prism, Square pyramid, Octahedron",1.0,8,1,2.311931892343464,2.6680025719452076,0.3560706796017435,1.0,1.0
+2.0,"Trigonal bipyramid, See-saw, Pentagonal pyramid, Trigonal prism",1.0,1,1,,,,,1.0
+3.0,"Face-capped octahedron, Tricapped triangular prism (two square-face caps and one triangular-face cap), Bicapped square prism (adjacent faces)",1.0,1,1,,,,,1.0
+3.0,"Linear, Triangular non-coplanar",1.14,18,2,2.297800909785116,2.3215160691946704,0.01689643862206342,1.0,0.3829787234042553
+3.0,"Linear, Triangular non-coplanar",1.08,11,1,2.272616408215937,2.3056615928585793,0.023495831403749712,1.0,0.23404255319148937
+3.0,"Linear, Triangular non-coplanar",1.0,8,2,2.2916773527871825,2.3059104605557863,0.01241517569744872,1.0,0.1702127659574468
+3.0,"Linear, Triangular non-coplanar",1.11,8,1,2.2728599524773174,2.311157526102758,0.027828409120758284,1.0,0.1702127659574468
+3.0,"Linear, Triangular non-coplanar",1.2,2,1,2.313801354232706,2.313801551945069,1.530138432633203e-07,1.0,0.0425531914893617
+3.0,"Linear, Trigonal plane",1.5,4,1,2.254449507706,2.2885974678352468,0.024146254171077963,1.0,1.0
+3.0,"Linear, Trigonal plane, Square plane",1.5,4,1,2.2387733323952843,2.2802249053328487,0.040952890208030474,1.0,1.0
+3.0,"Linear, Trigonal plane, Triangular non-coplanar",1.0,12,1,2.276623252070178,2.321663181681838,0.04676768266285619,1.0,0.8571428571428571
+3.0,"Linear, Trigonal plane, Triangular non-coplanar",1.2,2,1,2.3432360331854847,2.3432362389078563,1.4546768414466037e-07,1.0,0.14285714285714285
+3.0,Octahedron,1.0,1,1,,,,,1.0
+3.0,"Pentagonal pyramid, Square antiprism, Pentagonal bipyramid",1.0,4,1,2.3799220521179736,2.770076641184236,0.3002900814715921,1.0,1.0
+3.0,"See-saw, Angular, Triangular non-coplanar",2.4,8,1,2.3879450996735687,2.4525131492471237,0.05439620131226693,1.0,1.0
+3.0,"See-saw, Angular, Triangular non-coplanar, Pentagonal plane",1.0,8,1,2.314928623601453,2.413746666923075,0.07721008928592013,1.0,1.0
+3.0,"See-saw, Linear",1.0,4,1,2.1044302697871706,2.425035136422265,0.4453299570089118,1.0,1.0
+3.0,"Square plane, Trigonal plane, Pentagonal pyramid, Trigonal prism, Square pyramid",1.0,1,1,,,,,1.0
+3.0,"Square pyramid, Octahedron, T-shaped",1.0,1,1,,,,,1.0
+3.0,"Square pyramid, Triangular non-coplanar",1.0,4,1,2.456565733082649,2.45656573308265,9.445487160673148e-16,1.0,1.0
+3.0,"Square-face capped trigonal prism, Trigonal prism",1.0,3,1,2.3419020308062923,2.43820584441653,0.06809707969975957,1.0,1.0
+3.0,T-shaped,2.0,2,1,2.1883680116563466,2.2915796523100482,0.14438567288109874,1.0,1.0
+3.0,"T-shaped, Linear",1.0,21,3,2.1579959783068037,2.374956449879478,0.28056944645612736,1.0,1.0
+3.0,"T-shaped, Trigonal plane",1.5,4,1,2.205968695481904,2.248270165251866,0.031219593866679152,1.0,1.0
+3.0,"T-shaped, Trigonal prism",1.0,1,1,,,,,1.0
+3.0,"Tetrahedron, Linear, Square plane, T-shaped, See-saw, Trigonal bipyramid",1.0,64,1,2.2548751091615737,2.4700482967088844,0.27629135943971056,1.0,1.0
+3.0,"Tetrahedron, Linear, T-shaped",1.0,4,1,2.1761703406108976,2.2920795424633873,0.14201485244890882,1.0,1.0
+3.0,"Tetrahedron, Linear, T-shaped, See-saw, Trigonal prism, Square pyramid",1.0,1,1,,,,,1.0
+3.0,"Tetrahedron, See-saw",1.0,12,1,2.391474271886773,2.420774585492277,0.033911080587126614,1.0,1.0
+3.0,"Tetrahedron, See-saw, T-shaped",1.0,3,1,2.179603806839842,2.349884669747284,0.22855979218789282,1.0,1.0
+3.0,"Tetrahedron, See-saw, Trigonal plane, T-shaped",1.0,2,1,2.2238101766253977,2.3598490456542547,0.1823021053542714,1.0,1.0
+3.0,"Tetrahedron, See-saw, Trigonal prism, Octahedron",1.0,1,1,,,,,1.0
+3.0,"Tetrahedron, T-shaped, See-saw, Trigonal bipyramid",1.0,14,2,2.1794054056669205,2.3249634744392784,0.18779572745373815,1.0,1.0
+3.0,"Tetrahedron, Trigonal bipyramid, Octahedron",1.0,16,1,2.400695425514458,2.522205469181366,0.15961121620133017,1.0,1.0
+3.0,"Tetrahedron, Trigonal bipyramid, See-saw, Octahedron",1.0,20,1,2.376479100081035,2.4216856236139828,0.04081007579491254,1.0,1.0
+3.0,"Tetrahedron, Trigonal plane, T-shaped, See-saw, Triangular non-coplanar",1.0,4,1,2.2886475323491546,2.3494441875667804,0.05804414527439458,1.0,1.0
+3.0,"Tetrahedron, Trigonal prism, Octahedron, Tricapped octahedron (all 3 cap faces are sharingone edge of a face)",1.0,1,1,,,,,1.0
+3.0,Triangular non-coplanar,1.0,16,1,2.2471231936787746,2.3264582413363195,0.08974923193532663,1.0,1.0
+3.0,"Trigonal bipyramid, Pentagonal pyramid, Trigonal prism, Square pyramid, Octahedron",1.0,8,1,2.302255143426207,2.631815036556349,0.3798222004730315,1.0,1.0
+3.0,"Trigonal bipyramid, Square pyramid, Octahedron",1.0,1,1,,,,,1.0
+3.0,Trigonal prism,1.0,1,1,,,,,1.0
+3.0,no_data,1.0,1,1,,,,,1.0
+4.0,"Bicapped octahedron (cap faces with one atom in common), Pentagonal bipyramid, Tricapped triangular prism (two square-face caps and one triangular-face cap)",1.0,1,1,,,,,1.0
+4.0,Bicapped octahedron (opposed cap faces),1.0,1,1,,,,,1.0
+4.0,"Cube, Hexagonal bipyramid",1.0,1,1,,,,,1.0
+4.0,"Cube, Square plane",1.0,1,1,2.005513500116663,2.0055135001166633,3.8459253727671276e-16,1.0,1.0
+4.0,"End-trigonal-face capped trigonal prism, Face-capped octahedron",1.0,1,1,,,,,1.0
+4.0,"Hexagonal bipyramid, Square antiprism",1.0,4,1,2.7103734789874294,2.7324720100877524,0.022098531100323227,1.0,1.0
+4.0,"Hexagonal bipyramid, Tricapped triangular prism (three square-face caps)",1.0,4,1,2.6835641848928686,2.722799826857102,0.039235641964233126,1.0,1.0
+4.0,"Icosahedron, Square-face capped trigonal prism, Octahedron",1.0,1,1,,,,,1.0
+4.0,"Linear, Trigonal plane, Square plane",1.5,2,1,2.189994561758731,2.4966790041052382,0.3149836739357614,1.0,1.0
+4.0,Octahedron,1.0,2,2,,,,,1.0
+4.0,"Octahedron, Metabidiminished icosahedron",1.0,1,1,,,,,1.0
+4.0,Pentagonal prism,1.0,2,1,2.4188377119817828,2.5618053062194086,0.14346506536336265,1.0,1.0
+4.0,Pentagonal pyramid,1.0,1,1,,,,,1.0
+4.0,"Pentagonal pyramid, Square antiprism, Pentagonal bipyramid",1.0,12,1,2.5447699609353767,2.7143089414734773,0.15406851140000605,1.0,1.0
+4.0,See-saw,1.0,2,1,2.1456564723665683,2.3377908045482485,0.1921343321816797,0.5,0.6666666666666666
+4.0,See-saw,2.0,1,1,,,,,0.3333333333333333
+4.0,"See-saw, Angular, Triangular non-coplanar",2.4,8,1,2.350888158271413,2.4684536726398765,0.18729884762205237,1.0,1.0
+4.0,"See-saw, Angular, Triangular non-coplanar, Pentagonal plane",1.0,4,1,2.2494483154248686,2.431253341748861,0.1817031029037381,1.0,1.0
+4.0,"See-saw, Octahedron",1.0,7,3,2.16426643930727,2.436770744749326,0.27250430544205545,1.0,1.0
+4.0,"See-saw, Pentagonal plane, Trigonal prism",1.0,4,1,2.301899528614486,2.461778179934404,0.12014492557079173,1.0,1.0
+4.0,"See-saw, Square non-coplanar",1.0,12,1,2.2864405506870527,2.442901059472559,0.15646050878647347,1.0,1.0
+4.0,"See-saw, Square plane",1.0,16,2,2.234410909443246,2.438687106109747,0.2061123923497274,1.0,1.0
+4.0,"See-saw, Trigonal prism",1.0,1,1,,,,,1.0
+4.0,"Square antiprism, Dodecahedron with triangular faces",1.0,1,1,,,,,1.0
+4.0,Square non-coplanar,1.0,2,1,2.3509008786277863,2.521414892277755,0.11421986428082515,1.0,1.0
+4.0,Square plane,1.0,5,3,2.122692040722898,2.2357303762193323,0.11303833549643433,0.875,0.5
+4.0,Square plane,2.0,5,3,2.0844099017362128,2.1379709538223683,0.04944258600832993,0.875,0.5
+4.0,"Square plane, Trigonal plane, Pentagonal pyramid, Trigonal prism, Square pyramid",1.0,1,1,,,,,1.0
+4.0,Square pyramid,1.0,2,2,,,,,0.6666666666666666
+4.0,Square pyramid,3.0,1,1,,,,,0.3333333333333333
+4.0,"Square pyramid, Octahedron",2.5,1,1,,,,,1.0
+4.0,"Square pyramid, See-saw",1.0,2,1,2.2198706177859857,2.441264275293714,0.20852876423161798,1.0,1.0
+4.0,"Square pyramid, See-saw, Square plane",1.0,1,1,2.2205402042308933,2.4281814450743844,0.1979970803673269,1.0,1.0
+4.0,"Square pyramid, Square plane",2.0,1,1,,,,,1.0
+4.0,"Square pyramid, Square-face capped trigonal prism, Trigonal prism",1.0,36,1,2.359240364414912,2.5029003509497714,0.14628362785381047,1.0,1.0
+4.0,"Square pyramid, Trigonal prism",1.0,1,1,,,,,1.0
+4.0,"Square-face bicapped trigonal prism, Trigonal prism",1.0,1,1,,,,,1.0
+4.0,Square-face capped trigonal prism,1.0,2,2,,,,,1.0
+4.0,"Square-face capped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",1.0,1,1,,,,,1.0
+4.0,"Square-face capped trigonal prism, Face-capped octahedron, Pentagonal pyramid, Trigonal prism, Trigonal bipyramid",1.0,1,1,,,,,1.0
+4.0,"Square-face capped trigonal prism, Octahedron",1.0,1,1,,,,,1.0
+4.0,"Square-face capped trigonal prism, Trigonal prism",1.0,3,1,2.4061599956688147,2.507405199922718,0.0963012435228678,1.0,1.0
+4.0,Square-face monocapped antiprism,1.0,1,1,,,,,1.0
+4.0,Tetrahedron,1.0,12,3,2.3016254582887323,2.3659010940081933,0.06838964767750706,1.0,1.0
+4.0,"Tetrahedron, Linear",1.0,10,3,2.369862842062998,2.5776480019451724,0.20778523618631373,1.0,1.0
+4.0,"Tetrahedron, Linear, T-shaped",1.0,8,1,2.3030569312639337,2.4301353431311545,0.08694117335691154,1.0,1.0
+4.0,"Tetrahedron, Linear, T-shaped, See-saw, Trigonal prism, Square pyramid",1.0,6,1,2.2056560380684664,2.4685635846469816,0.2589808724118349,1.0,1.0
+4.0,"Tetrahedron, See-saw",1.0,6,1,2.3904348520972882,2.575188390254454,0.2596149856672277,1.0,1.0
+4.0,"Tetrahedron, See-saw, Square pyramid, Square plane",1.0,36,1,2.225900101584387,2.40120818614356,0.1623913010049403,1.0,1.0
+4.0,"Tetrahedron, See-saw, T-shaped",1.0,4,1,2.2625857520326194,2.4468558508765548,0.2011412874140385,1.0,1.0
+4.0,"Tetrahedron, See-saw, Trigonal plane, T-shaped",1.0,6,1,2.228569540586073,2.4685392105545128,0.2602749597376663,1.0,1.0
+4.0,"Tetrahedron, See-saw, Trigonal prism, Octahedron",1.0,21,1,2.1891473553801033,2.4514057849532835,0.28574904955466573,1.0,1.0
+4.0,"Tetrahedron, Square non-coplanar",1.0,12,1,2.3020471246106498,2.4362344280720127,0.13418730344484067,1.0,1.0
+4.0,"Tetrahedron, Square pyramid",1.0,3,3,,,,,1.0
+4.0,"Tetrahedron, Square pyramid, See-saw, Octahedron",1.0,8,1,2.261773328491828,2.4318427819788972,0.2006028018882785,1.0,1.0
+4.0,"Tetrahedron, T-shaped, See-saw, Trigonal bipyramid",1.0,26,2,2.2739911066325313,2.4943620768515298,0.2270135317336462,1.0,1.0
+4.0,"Tetrahedron, Trigonal bipyramid, See-saw, Octahedron",1.0,4,1,2.364478005399131,2.486806873465363,0.1529097998241762,1.0,1.0
+4.0,"Tetrahedron, Trigonal plane, T-shaped, See-saw, Triangular non-coplanar",1.0,12,1,2.234293054417589,2.4887912598096267,0.25519387483289385,1.0,1.0
+4.0,"Tetrahedron, Trigonal prism, Octahedron, Tricapped octahedron (all 3 cap faces are sharingone edge of a face)",1.0,1,1,,,,,1.0
+4.0,Trigonal bipyramid,1.0,4,4,,,,,0.8
+4.0,Trigonal bipyramid,2.0,1,1,,,,,0.2
+4.0,"Trigonal bipyramid, See-saw, Pentagonal pyramid, Trigonal prism",1.0,1,1,,,,,1.0
+4.0,"Trigonal prism, Octahedron",1.0,5,2,2.3426672544976803,2.497055204657978,0.15438795016029788,1.0,1.0
+4.0,"Trigonal prism, Octahedron, Square plane",3.0,1,1,,,,,1.0
+5.0,"Bicapped octahedron (cap faces with one atom in common), Square-face capped trigonal prism",1.0,1,1,,,,,1.0
+5.0,"Bicapped square prism (adjacent faces), Tricapped triangular prism (two square-face caps and one triangular-face cap), Tridiminished icosahedron",1.0,1,1,,,,,1.0
+5.0,"Cube, Square pyramid, Octahedron",1.25,2,1,2.0555051354190637,2.178000176928233,0.24415652045501807,1.0,1.0
+5.0,"End-trigonal-face capped trigonal prism, Face-capped octahedron",1.0,1,1,,,,,1.0
+5.0,Octahedron,1.0,2,1,2.489630081234095,2.5329195233317914,0.03832373183377875,1.0,1.0
+5.0,"Octahedron, Metabidiminished icosahedron",1.0,1,1,,,,,1.0
+5.0,"Pentagonal pyramid, Bicapped octahedron (cap faces with one edge in common)",1.0,1,1,,,,,1.0
+5.0,"Pentagonal pyramid, Square antiprism, Pentagonal bipyramid",1.0,1,1,,,,,1.0
+5.0,"Pentagonal pyramid, Square-face capped trigonal prism",1.0,1,1,,,,,1.0
+5.0,"Square plane, Trigonal plane, Pentagonal pyramid, Trigonal prism, Square pyramid",1.0,16,1,2.2770855981053146,2.5836615172423447,0.24706877264768778,1.0,1.0
+5.0,"Square pyramid, Octahedron",1.0,8,2,2.3477667896686842,2.5293744323699903,0.17035870334641992,1.0,1.0
+5.0,"Square pyramid, Octahedron, T-shaped",1.0,6,1,2.2045598833242384,2.614875133225836,0.4214386214975893,1.0,1.0
+5.0,"Square pyramid, Pentagonal bipyramid, Octahedron",1.6666666666666667,4,1,2.165127518462298,2.2928180181568294,0.1775180918745798,1.0,1.0
+5.0,"Square pyramid, See-saw",1.0,2,1,2.2743708939650324,2.585783081847528,0.27727360487890285,1.0,1.0
+5.0,"Square pyramid, See-saw, Square plane",1.0,3,1,2.253705742700567,2.5740664322154125,0.2800162554255669,1.0,1.0
+5.0,"Square pyramid, Square plane",2.0,4,1,2.1166999209485082,2.494979780532772,0.31048855368749234,1.0,1.0
+5.0,"Square pyramid, Square-face capped trigonal prism, Trigonal prism",1.0,5,2,2.379516965189381,2.5380958906108826,0.1297989268832868,1.0,1.0
+5.0,Square-face bicapped trigonal prism,1.0,1,1,,,,,1.0
+5.0,Square-face capped square prism,1.0,1,1,,,,,1.0
+5.0,"Square-face capped trigonal prism, Face-capped octahedron, Pentagonal pyramid, Trigonal prism, Trigonal bipyramid",1.0,4,1,2.3330121781026487,2.5655054554454755,0.17636738904374005,1.0,1.0
+5.0,"Square-face capped trigonal prism, Octahedron",1.0,1,1,,,,,1.0
+5.0,"Square-face capped trigonal prism, Trigonal prism",1.0,1,1,,,,,1.0
+5.0,"T-shaped, Trigonal prism",1.0,1,1,,,,,1.0
+5.0,"Tetrahedron, See-saw, Square pyramid, Square plane",1.0,8,1,2.2700470694229793,2.6328330482757676,0.3064614192451953,1.0,1.0
+5.0,"Tetrahedron, Square pyramid",1.0,15,3,2.3850638889164335,2.4888991981786948,0.05936538926563399,1.0,1.0
+5.0,Trigonal bipyramid,1.0,18,5,2.3352777141833445,2.4855232792433886,0.1115397068793327,1.0,0.75
+5.0,Trigonal bipyramid,3.0,6,1,1.9808825317767607,2.091422073998603,0.08761726277294651,1.0,0.25
+5.0,"Trigonal bipyramid, Pentagonal pyramid, Trigonal prism, Square pyramid, Octahedron",1.0,16,1,2.353982286417928,2.6609661090408556,0.27476729277358924,1.0,1.0
+5.0,"Trigonal bipyramid, Square pyramid, Octahedron",1.0,3,1,2.2657944226090794,2.4990180852150847,0.2335901192396289,1.0,1.0
+5.0,"Trigonal bipyramid, Trigonal prism",1.0,8,1,2.3533952931938593,2.5149990188133535,0.1381645390472117,1.0,0.6666666666666666
+5.0,"Trigonal bipyramid, Trigonal prism",2.0,4,1,2.2287120392966284,2.5221198642571596,0.2698730648297898,1.0,0.3333333333333333
+5.0,"Trigonal bipyramid, Trigonal prism, Octahedron",1.0,1,1,,,,,1.0
+5.0,Trigonal prism,1.0,2,2,,,,,1.0
+5.0,"Trigonal prism, Octahedron",1.0,1,1,,,,,1.0
+5.0,"Trigonal prism, Octahedron, Square plane",3.0,1,1,,,,,1.0
+6.0,Bicapped octahedron (cap faces with one atom in common),1.0,1,1,,,,,1.0
+6.0,Cube,1.0,1,1,,,,,1.0
+6.0,"Cube, Hexagonal bipyramid",1.0,2,2,,,,,1.0
+6.0,"Cube, Square pyramid, Octahedron",1.25,8,1,2.068394103726846,2.2876917179987557,0.3023173267409397,1.0,1.0
+6.0,Dodecahedron with triangular faces - p2345 plane normalized,1.0,1,1,,,,,1.0
+6.0,Face-capped octahedron,1.0,4,1,2.426250297955368,2.570649517777923,0.10078993202431354,1.0,1.0
+6.0,"Hexagonal bipyramid, Octahedron",1.0,1,1,2.245252737164859,2.5941082339752017,0.24667808744879427,1.0,1.0
+6.0,"Hexagonal bipyramid, Octahedron, Dodecahedron with triangular faces - p2345 plane normalized",1.0,2,1,2.3790604193064677,2.527763686673529,0.1134293220752016,1.0,1.0
+6.0,"Hexagonal bipyramid, Square antiprism",1.0,4,1,2.6679305501957167,2.810136619877349,0.1305334735558964,1.0,1.0
+6.0,"Hexagonal bipyramid, Tricapped triangular prism (three square-face caps)",1.0,4,1,2.660909198095608,2.7727742362132313,0.13480818988038135,1.0,1.0
+6.0,"Icosahedron, Square-face capped trigonal prism, Octahedron",1.0,4,1,2.3953119325074144,2.594772508278695,0.15022690301044678,1.0,1.0
+6.0,"Linear, Octahedron",1.0,14,2,2.3888877662364876,2.5184849729347647,0.12622796006067036,1.0,0.9333333333333333
+6.0,"Linear, Octahedron",2.0,1,1,2.2133981154433893,2.6422479450541245,0.303242622628446,1.0,0.06666666666666667
+6.0,Metabidiminished icosahedron,1.0,2,1,2.7455031437099464,2.7938696993798215,0.06840063899360932,1.0,1.0
+6.0,Octahedron,1.0,65,19,2.3710854209135865,2.5449540081286037,0.1510611584179839,1.0,0.6190476190476191
+6.0,Octahedron,2.0,34,3,2.203366290026221,2.3871492253706337,0.15449187237811907,1.0,0.3238095238095238
+6.0,Octahedron,3.0,6,1,2.0580284195556433,2.2456747043217953,0.19585225887215807,1.0,0.05714285714285714
+6.0,"Octahedron, Bicapped square prism (adjacent faces), Dodecahedron with triangular faces - p2345 plane normalized",1.0,2,1,2.389383763949407,2.57207587354805,0.14464477673135,1.0,1.0
+6.0,"Octahedron, Dodecahedron with triangular faces - p2345 plane normalized",1.0,2,1,2.441735849804569,2.4967900352142616,0.030851836683185634,1.0,1.0
+6.0,Pentagonal antiprism,1.0,5,5,2.529981817656453,2.613034093768178,0.05872682763157812,1.0,1.0
+6.0,"Pentagonal bipyramid, Octahedron",1.3333333333333333,16,1,2.2905997441313364,2.4792023269156727,0.18020208171091695,1.0,0.8
+6.0,"Pentagonal bipyramid, Octahedron",1.0,4,1,2.4261896178095363,2.5553851743611906,0.12921978844255572,1.0,0.2
+6.0,Pentagonal pyramid,1.0,12,2,2.343492487094774,2.57056040602007,0.16239417918782992,1.0,1.0
+6.0,"Pentagonal pyramid, Bicapped octahedron (cap faces with one edge in common)",1.0,4,1,2.2855645079322273,2.673787974946646,0.3239794522940167,1.0,1.0
+6.0,"Pentagonal pyramid, Octahedron",2.0,4,1,2.2885187796077338,2.561959792818775,0.19450989533751417,1.0,1.0
+6.0,"Pentagonal pyramid, Square-face capped trigonal prism",1.0,8,1,2.396424170345762,2.5683626315437627,0.22699431623727545,1.0,1.0
+6.0,"See-saw, Octahedron",1.0,18,3,2.334984336811361,2.5584841151309714,0.22891973803404098,1.0,1.0
+6.0,"See-saw, Trigonal prism",1.0,6,1,2.2797835487303044,2.6570987197700053,0.29272664784627467,1.0,1.0
+6.0,"Square plane, Trigonal plane, Pentagonal pyramid, Trigonal prism, Square pyramid",1.0,8,1,2.2241881648744926,2.6845131972055363,0.3338594503468259,1.0,1.0
+6.0,"Square pyramid, Octahedron",1.0,8,2,2.3713751994895804,2.627111052580079,0.2281885742372474,1.0,0.8
+6.0,"Square pyramid, Octahedron",2.5,2,1,2.0344753585773843,2.2795662992604244,0.34158097357013895,1.0,0.2
+6.0,"Square pyramid, Octahedron, T-shaped",1.0,10,1,2.2881870285702584,2.632397860597176,0.2674555415891487,1.0,1.0
+6.0,"Square pyramid, Pentagonal bipyramid, Octahedron",1.6666666666666667,28,1,2.2935267914413546,2.472455397435735,0.1516832812119843,1.0,1.0
+6.0,"Square pyramid, Square-face capped trigonal prism, Trigonal prism",1.0,5,1,2.3304093038786116,2.584471412496389,0.24905869307815073,1.0,1.0
+6.0,"Square pyramid, Trigonal prism",1.0,2,1,2.338097361387843,2.629453960571373,0.2598475447162807,1.0,1.0
+6.0,Square-face capped trigonal prism,1.0,5,2,2.3888826904140643,2.600064054233864,0.17095682487489036,1.0,1.0
+6.0,"Square-face capped trigonal prism, Octahedron",2.0,4,1,2.401791408547976,2.5761221939787267,0.1486173112373873,1.0,0.6666666666666666
+6.0,"Square-face capped trigonal prism, Octahedron",1.0,2,1,2.244638083955479,2.595115252867998,0.2588855669637416,1.0,0.3333333333333333
+6.0,"T-shaped, Linear, Octahedron",1.0,1,1,2.576646481103905,2.5766510692718025,3.250312698799201e-06,1.0,1.0
+6.0,"Tetrahedron, Linear, T-shaped, See-saw, Trigonal prism, Square pyramid",1.0,6,1,2.2953106966505623,2.6303370264382475,0.24914220933365597,1.0,1.0
+6.0,"Tetrahedron, Square pyramid, See-saw, Octahedron",1.0,4,1,2.4175637474848575,2.6202905792411353,0.21222403992225086,1.0,1.0
+6.0,"Tetrahedron, Trigonal prism, Octahedron, Tricapped octahedron (all 3 cap faces are sharingone edge of a face)",1.0,16,1,2.3997459513614974,2.673551144632591,0.2817466170990969,1.0,1.0
+6.0,"Trigonal bipyramid, See-saw, Pentagonal pyramid, Trigonal prism",1.0,8,1,2.292089943728242,2.5992359993463396,0.23592444737875407,1.0,1.0
+6.0,"Trigonal bipyramid, Square pyramid, Octahedron",1.0,1,1,2.415434399263435,2.5263936163791234,0.10316620148033481,1.0,1.0
+6.0,"Trigonal bipyramid, Trigonal prism, Octahedron",1.0,16,1,2.3143346836167833,2.5778659015092917,0.19202112878958721,1.0,1.0
+6.0,Trigonal prism,1.0,15,4,2.343574734125301,2.596998919656906,0.2238948124347729,1.0,1.0
+6.0,"Trigonal prism, Octahedron",1.0,18,2,2.3428670641813043,2.5067513517303386,0.13698404855958868,1.0,1.0
+6.0,"Trigonal prism, Octahedron, Square plane",3.0,4,1,2.088267604327081,2.3674212783772486,0.3193101462993926,1.0,1.0
+7.0,"Bicapped octahedron (cap faces with one atom in common), Pentagonal bipyramid, Tricapped triangular prism (two square-face caps and one triangular-face cap)",1.0,6,1,2.377570910918058,2.691136177332458,0.2762104478765616,1.0,1.0
+7.0,Hexagonal bipyramid,1.0,2,1,2.5064043884593135,2.7882829013109545,0.24404619902968955,1.0,1.0
+7.0,Pentagonal bipyramid,1.0,4,1,2.3847646956140887,2.5300124145324108,0.10279585584389583,1.0,0.3333333333333333
+7.0,Pentagonal bipyramid,2.0,4,1,2.125496025530163,2.405748066604471,0.2044861080973133,1.0,0.3333333333333333
+7.0,Pentagonal bipyramid,3.0,4,1,2.406566667469012,2.563126827631477,0.13667670084397904,1.0,0.3333333333333333
+7.0,"Pentagonal bipyramid, Octahedron",1.0,4,1,2.4161214400419873,2.649334256527049,0.20613396067940287,1.0,0.5
+7.0,"Pentagonal bipyramid, Octahedron",1.3333333333333333,4,1,2.37158127608897,2.663514707273705,0.2101522776124029,1.0,0.5
+7.0,"Pentagonal bipyramid, Tridiminished icosahedron",1.0,6,1,2.3947796109967303,2.7025052050397704,0.21908081266823184,1.0,1.0
+7.0,"Square pyramid, Square-face capped trigonal prism, Trigonal prism",1.0,1,1,2.338495962967722,2.644147813460896,0.28233519994481093,1.0,1.0
+7.0,"Square-face bicapped trigonal prism, Pentagonal bipyramid",1.0,30,3,2.5045255986517407,2.720543826482317,0.1731695615166172,1.0,1.0
+7.0,Square-face capped trigonal prism,1.0,12,5,2.4361128284807823,2.5869516052718846,0.13000485572379158,1.0,1.0
+7.0,"Square-face capped trigonal prism, Face-capped octahedron, Pentagonal pyramid, Trigonal prism, Trigonal bipyramid",1.0,8,1,2.3315327810216835,2.697997611970626,0.28372381406667174,1.0,1.0
+7.0,"Square-face capped trigonal prism, Octahedron",2.0,4,1,2.4902034005260454,2.596780443279849,0.052863987834236834,1.0,0.6666666666666666
+7.0,"Square-face capped trigonal prism, Octahedron",1.0,2,1,2.2711457488706523,2.6779568397464244,0.3035111514369157,1.0,0.3333333333333333
+7.0,"Square-face capped trigonal prism, Trigonal prism",1.0,8,1,2.381105366159124,2.5947297697021026,0.23467397379924293,1.0,1.0
+7.0,no_data,1.0,4,1,2.4110745081655414,2.6748588804616564,0.25694090096711114,1.0,1.0
+8.0,"Bicapped octahedron (cap faces with one atom in common), Pentagonal bipyramid, Tricapped triangular prism (two square-face caps and one triangular-face cap)",1.0,2,1,2.5200336053625767,2.7768539603037974,0.2103863643967916,1.0,1.0
+8.0,"Bicapped octahedron (cap faces with one atom in common), Square-face capped trigonal prism",1.0,2,1,2.3662131010994605,2.717892378351606,0.25669464182772894,1.0,1.0
+8.0,Bicapped octahedron (cap faces with one edge in common),1.0,4,1,2.4805837585360626,2.7101989759092344,0.17681116094363472,1.0,1.0
+8.0,Bicapped octahedron (opposed cap faces),1.0,4,1,2.4570278768237332,2.630386892963755,0.14369928169853483,1.0,0.8
+8.0,Bicapped octahedron (opposed cap faces),3.0,1,1,2.575239608563087,2.6832482761280096,0.11236379592004174,1.0,0.2
+8.0,Bicapped square prism (adjacent faces),1.0,1,1,,,,,1.0
+8.0,"Bicapped square prism (adjacent faces), Tricapped triangular prism (two square-face caps and one triangular-face cap), Tridiminished icosahedron",1.0,1,1,,,,,1.0
+8.0,"Bicapped square prism (adjacent faces), Tridiminished icosahedron",1.0,1,1,,,,,1.0
+8.0,Cube,1.0,12,4,2.532817151155337,2.6407124795044337,0.09858195887624877,1.0,1.0
+8.0,"Cube, Hexagonal bipyramid",1.0,10,3,2.465005803452419,2.7038700838114,0.22076416945446717,1.0,1.0
+8.0,"Cube, Square plane",1.0,1,1,2.32134949833395,2.6282071102169837,0.30685761188303295,1.0,1.0
+8.0,"Cube, Square pyramid, Octahedron",1.25,1,1,2.3997987584125537,2.40175053974484,0.0019331220137751798,1.0,1.0
+8.0,Diminished icosahedron,1.0,2,1,2.7660299085650824,2.9272140168333833,0.16100837800566414,1.0,1.0
+8.0,Dodecahedron with triangular faces - p2345 plane normalized,1.0,8,1,2.4894521710006785,2.677300894416649,0.19429308360411604,1.0,1.0
+8.0,"Face-capped octahedron, Tricapped triangular prism (two square-face caps and one triangular-face cap), Bicapped square prism (adjacent faces)",1.0,1,1,2.5238387683029413,2.7605360332681412,0.21308132137775518,1.0,1.0
+8.0,Hexagonal bipyramid,1.0,12,5,2.404158287771373,2.7280719244989595,0.21959471265857103,1.0,1.0
+8.0,"Hexagonal bipyramid, Octahedron",1.0,2,1,2.324416087939821,2.7602160616603877,0.23527655075471282,1.0,1.0
+8.0,"Hexagonal bipyramid, Octahedron, Dodecahedron with triangular faces - p2345 plane normalized",1.0,4,1,2.558526184879036,2.724987415153553,0.1737780313099403,1.0,1.0
+8.0,"Octahedron, Bicapped square prism (adjacent faces), Dodecahedron with triangular faces - p2345 plane normalized",1.0,4,1,2.62536039945295,2.75856586239617,0.1401532128000916,1.0,1.0
+8.0,"Octahedron, Dodecahedron with triangular faces - p2345 plane normalized",1.0,2,1,2.4400593784535074,2.645694051241515,0.18608809981635366,1.0,1.0
+8.0,Square antiprism,1.0,1,1,2.433477289013806,2.5838626015261923,0.15038256624167942,1.0,1.0
+8.0,"Square antiprism, Dodecahedron with triangular faces",1.0,4,1,2.513942242385004,2.7213160617067094,0.20737381932154733,1.0,1.0
+8.0,"Square-face bicapped trigonal prism, Trigonal prism",1.0,12,1,2.518387738930224,2.726358313433801,0.17161695780496145,1.0,1.0
+8.0,"Square-face capped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",1.0,8,1,2.3523960719636934,2.684800393608128,0.2527757918594824,1.0,1.0
+8.0,no_data,1.0,1,1,,,,,1.0
+9.0,"Bicapped square prism (adjacent faces), Tridiminished icosahedron",1.0,8,1,2.4560875005396983,2.70835260138754,0.19507548058280152,1.0,1.0
+9.0,"Face-capped octahedron, Tricapped triangular prism (two square-face caps and one triangular-face cap), Bicapped square prism (adjacent faces)",1.0,3,1,2.5583644809380544,2.7989876557370295,0.17023252764822808,1.0,1.0
+9.0,"Pentagonal bipyramid, Tridiminished icosahedron",1.0,2,1,2.5214126918726922,2.8573230549654154,0.23494315558009637,1.0,1.0
+9.0,Tricapped octahedron (all 3 cap faces are sharingone edge of a face),1.0,2,1,2.5922880575746836,2.8501966351650188,0.1967875167110362,1.0,1.0
+10.0,Bicapped square prism (adjacent faces),1.0,2,1,2.390224859962631,2.7730126193933495,0.27896679998788426,1.0,1.0
+10.0,Hexagonal bipyramid,1.0,2,1,2.4052233443464246,2.7935673605071223,0.2798669147620493,1.0,1.0
+12.0,"Icosahedron, Square-face capped trigonal prism, Octahedron",1.0,4,1,2.623910824215301,2.8662907136609714,0.18108844145816597,1.0,1.0

@@ -1,0 +1,4 @@
+CN,n_samples,n_materials,avg_formal_charge,s_avg_approx,savg_class,charge_fraction_breakdown
+4.0,94,94,6.0,1.5,s_avg > 1,6+:1.0000
+5.0,47,47,6.0,1.2,s_avg > 1,6+:1.0000
+6.0,569,568,5.71353251318102,0.9522554188635034,s_avg ≤ 1,2+:0.0053; 3+:0.0387; 4+:0.0492; 5+:0.0510; 6+:0.8559

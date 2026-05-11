@@ -1,0 +1,3 @@
+CN,dominant_geometry,dominant_count,n_materials,d_min_mean,d_mean_mean,d_std_mean,bridging_O_fraction_mean,dominant_fraction
+5.0,Square pyramid,2,1,2.0251251259324508,2.0531614482575318,0.030038282924554557,1.0,1.0
+6.0,Octahedron,737,68,2.009607298084493,2.0427750085883907,0.025260361629243906,0.9882406151062868,0.8660399529964747

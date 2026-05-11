@@ -1,0 +1,17 @@
+element,CN,dominant_geometry,fraction
+As,3,Triangular non-coplanar,1.0
+As,4,Tetrahedron,0.9861809045226131
+C,2,Angular,0.8306878306878307
+C,3,Trigonal plane,0.88434006546847
+Ge,4,Tetrahedron,0.9656488549618321
+N,3,Trigonal plane,0.9262820512820513
+P,2,Tetrahedron,0.9230769230769231
+P,3,Tetrahedron,0.8059701492537313
+P,4,Tetrahedron,0.9842364759008387
+S,3,Triangular non-coplanar,0.5
+S,4,Tetrahedron,0.9257201646090536
+Se,3,Triangular non-coplanar,1.0
+Se,4,Tetrahedron,0.9517766497461929
+Si,4,Tetrahedron,1.0
+Te,3,Triangular non-coplanar,0.8660968660968661
+Te,4,See-saw,0.6

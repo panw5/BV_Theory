@@ -1,0 +1,1170 @@
+material_id,chem_formula,R0,B,CN_raw,mean_charge,min_charge,max_charge,chemenv,Bi_wyckoff,num_Bi_chemenvs,CN,element,charge_range,is_single_charge
+mp-1039698,NaMg30BiO32,1.6944599553619022,0.8457794175051344,[6.0],3.0,3.0,3.0,Octahedron,1b,1,6.0,Bi,0.0,True
+mp-1039742,NaMg30BiO32,1.7745793214415837,0.7433882648248508,[6.0],3.0,3.0,3.0,Octahedron,1c,1,6.0,Bi,0.0,True
+mp-1040014,LiMg30BiO32,2.248809745258689,0.0619330336199429,[6.0],3.0,3.0,3.0,Octahedron,1b,1,6.0,Bi,0.0,True
+mp-1040443,KBaBiTeO6,1.7635455122905686,0.8310946165623921,[6.0],3.0,3.0,3.0,Octahedron,2e,1,6.0,Bi,0.0,True
+mp-1041365,MgBi4O9,1.8477101552124888,1.0367443008935069,"[6.0, 7.0]",4.0,4.0,4.0,"Square-face capped trigonal prism, Octahedron",4g,2,6.0,Bi,0.0,True
+mp-1041365,MgBi4O9,1.8477101552124888,1.0367443008935069,"[6.0, 7.0]",4.0,4.0,4.0,"Square-face capped trigonal prism, Octahedron",4g,2,7.0,Bi,0.0,True
+mp-1041411,CaBi4O9,1.9737708751848368,0.7235601643705513,"[6.0, 7.0]",4.0,4.0,4.0,"Square-face capped trigonal prism, Octahedron",4g,2,6.0,Bi,0.0,True
+mp-1041411,CaBi4O9,1.9737708751848368,0.7235601643705513,"[6.0, 7.0]",4.0,4.0,4.0,"Square-face capped trigonal prism, Octahedron",4g,2,7.0,Bi,0.0,True
+mp-1041757,YBi(WO4)2,2.180704097221148,0.264977835601444,[6.0],3.0,3.0,3.0,Square antiprism,2f,1,6.0,Bi,0.0,True
+mp-1042216,Ca(BiO2)2,1.8415209973689788,1.080925803171623,[6.0],3.0,3.0,3.0,Octahedron,2i,1,6.0,Bi,0.0,True
+mp-1042238,Mg(BiO2)2,1.9087813875598945,0.93400403811802,[6.0],3.0,3.0,3.0,Octahedron,2i,1,6.0,Bi,0.0,True
+mp-1042362,ZnBi2O5,2.222197785299838,0.2070117837191398,[6.0],4.0,4.0,4.0,"Pentagonal bipyramid, Octahedron",8c,2,6.0,Bi,0.0,True
+mp-1042364,CaTaBiO5,2.0055449138241306,0.6419821967111827,[5.0],3.0,3.0,3.0,Square pyramid,8c,1,5.0,Bi,0.0,True
+mp-1042415,CaBi2O5,2.1527822712294404,0.4367983737736526,[6.0],4.0,4.0,4.0,Octahedron,8c,1,6.0,Bi,0.0,True
+mp-1042428,MgBi2O5,2.301556011268722,-0.007915747133829,[6.0],4.0,4.0,4.0,Octahedron,8c,1,6.0,Bi,0.0,True
+mp-1042669,CaCrBiO5,2.0773761777243664,0.4935023843948002,[5.0],3.0,3.0,3.0,Square pyramid,8c,1,5.0,Bi,0.0,True
+mp-1043781,CaTaBiO5,1.7667941307342587,0.997285754150026,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1044166,MgCrBiO5,1.748766626206982,0.954541964950606,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1044197,VZnBiO5,1.7788596107007617,0.9192076453687882,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1044259,CaVBiO5,1.8174608118171207,0.9035443974937356,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1044358,CaCrBiO5,1.8634875153441648,0.8244674072980626,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1044379,CaFeBiO5,2.104628116689004,0.3411833024099925,[6.0],5.0,5.0,5.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1044445,CaCoBiO5,2.13278265555952,0.294391670986172,[6.0],5.0,5.0,5.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1046226,Sr2YCu2BiO7,1.912215869561344,1.2279121676143478,[4.0],3.0,3.0,3.0,See-saw,2b,1,4.0,Bi,0.0,True
+mp-1078409,Ba2LaBiO6,2.1349791505311475,0.0861644702130697,[6.0],5.0,5.0,5.0,Octahedron,1b,1,6.0,Bi,0.0,True
+mp-1079609,Bi(BO2)3,3.627366091970523,-1.5546988558924926,[6.0],3.0,3.0,3.0,Trigonal prism,1a,1,6.0,Bi,0.0,True
+mp-1084840,TiZn(BiO3)2,2.111011877707936,0.7375559735051175,"[4.0, 7.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism",1a,2,4.0,Bi,0.0,True
+mp-1084840,TiZn(BiO3)2,2.111011877707936,0.7375559735051175,"[4.0, 7.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism",1a,2,7.0,Bi,0.0,True
+mp-1094149,NaTi2BiO6,2.3413502183710024,0.0317179093408746,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1100812,Zr4FeBiPb4O15,0.9748968911768144,2.2518189109959925,[6.0],3.0,3.0,3.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1100861,V16Bi3O32,2.162709480697237,0.953548845029236,[4.0],3.0,3.0,3.0,Square plane,1a,1,4.0,Bi,0.0,True
+mp-1101536,Li3Bi(PO4)2,2.023283520812058,0.537040404398941,"[6.0, 9.0]",3.0,3.0,3.0,"Icosahedron, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-1101536,Li3Bi(PO4)2,2.023283520812058,0.537040404398941,"[6.0, 9.0]",3.0,3.0,3.0,"Icosahedron, Octahedron",1a,2,9.0,Bi,0.0,True
+mp-1101629,Ba8Bi4O17,2.120694513249701,0.3119563250275478,"[5.0, 6.0]",4.5,4.5,4.5,"Square pyramid, Octahedron",1a,2,5.0,Bi,0.0,True
+mp-1101629,Ba8Bi4O17,2.120694513249701,0.3119563250275478,"[5.0, 6.0]",4.5,4.5,4.5,"Square pyramid, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-1101681,Nd2(BiO2)7,2.217968913922958,0.2367633498150519,"[4.0, 5.0, 7.0]",3.2900000000000005,3.29,3.29,"Face-capped octahedron, Tetrahedron, Square pyramid, Trigonal bipyramid",1a,4,4.0,Bi,0.0,True
+mp-1101681,Nd2(BiO2)7,2.217968913922958,0.2367633498150519,"[4.0, 5.0, 7.0]",3.2900000000000005,3.29,3.29,"Face-capped octahedron, Tetrahedron, Square pyramid, Trigonal bipyramid",1a,4,5.0,Bi,0.0,True
+mp-1101681,Nd2(BiO2)7,2.217968913922958,0.2367633498150519,"[4.0, 5.0, 7.0]",3.2900000000000005,3.29,3.29,"Face-capped octahedron, Tetrahedron, Square pyramid, Trigonal bipyramid",1a,4,7.0,Bi,0.0,True
+mp-1104660,Bi(PdO2)2,2.51073464929439,0.0745360590427585,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,2i,1,7.0,Bi,0.0,True
+mp-1105091,CoBiAsO5,2.079751652241093,0.5099568316260821,[5.0],3.0,3.0,3.0,Square pyramid,4i,1,5.0,Bi,0.0,True
+mp-1105271,MnBiO3,1.5272002157384736,1.1780633763149695,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4c,1,8.0,Bi,0.0,True
+mp-1105584,VZn2BiO6,1.9276414536108697,0.6733877788169799,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,2i,1,7.0,Bi,0.0,True
+mp-1105718,NiBiO3,1.4789889397608111,1.1374697177908528,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Octahedron",2i,2,6.0,Bi,0.0,True
+mp-1105718,NiBiO3,1.4789889397608111,1.1374697177908528,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Octahedron",2i,2,7.0,Bi,0.0,True
+mp-1105780,Bi2O3,2.171773719408737,0.3947150974381342,"[3.0, 5.0]",3.0,3.0,3.0,"Square pyramid, Octahedron","2b, 6c",2,3.0,Bi,0.0,True
+mp-1105780,Bi2O3,2.171773719408737,0.3947150974381342,"[3.0, 5.0]",3.0,3.0,3.0,"Square pyramid, Octahedron","2b, 6c",2,5.0,Bi,0.0,True
+mp-1106073,BiH(SeO3)2,2.0756675825578066,0.4938431203107362,[5.0],3.0,3.0,3.0,Square pyramid,2a,1,5.0,Bi,0.0,True
+mp-1106129,Bi4Te2Br2O9,2.119198409154788,0.3675024577184579,"[10.0, 4.0]",3.0,3.0,3.0,"Bicapped square prism (opposite faces), Square non-coplanar","1a, 1b, 2c",2,10.0,Bi,0.0,True
+mp-1106129,Bi4Te2Br2O9,2.119198409154788,0.3675024577184579,"[10.0, 4.0]",3.0,3.0,3.0,"Bicapped square prism (opposite faces), Square non-coplanar","1a, 1b, 2c",2,4.0,Bi,0.0,True
+mp-1106239,MnBiO3,2.146761020312613,0.4827754540882312,"[4.0, 6.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one atom in common), Square-face capped trigonal prism",2a,2,4.0,Bi,0.0,True
+mp-1106239,MnBiO3,2.146761020312613,0.4827754540882312,"[4.0, 6.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one atom in common), Square-face capped trigonal prism",2a,2,6.0,Bi,0.0,True
+mp-1173237,Sr3Ta7Si(BiO4)9,2.147378733322544,0.4030546621149476,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism",1a,3,6.0,Bi,0.0,True
+mp-1173237,Sr3Ta7Si(BiO4)9,2.147378733322544,0.4030546621149476,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism",1a,3,7.0,Bi,0.0,True
+mp-1173237,Sr3Ta7Si(BiO4)9,2.147378733322544,0.4030546621149476,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism",1a,3,8.0,Bi,0.0,True
+mp-1173247,Sr3LaCu2HgBiO10,2.5783430872330664,-0.2424413457742204,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1173263,Sr2MnBiPbO6,2.1324347432325315,0.019072339047253,[3.0],3.0,3.0,3.0,Triangular non-coplanar,2c,1,3.0,Bi,0.0,True
+mp-1176418,Na2BiAsCO7,2.183510263097401,0.2953056514289261,[6.0],3.0,3.0,3.0,Pentagonal bipyramid,2e,1,6.0,Bi,0.0,True
+mp-1177146,Li5Bi(P2O7)2,1.9342488316394664,0.6223833697081369,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,2i,1,7.0,Bi,0.0,True
+mp-1178246,Gd3(BiO4)2,2.006783709929179,0.6873498175608681,[6.0],3.5,3.5,3.5,"Trigonal prism, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-1178488,Bi3O4F,2.057628014138545,0.61151968702663,"[3.0, 6.0]",3.0,3.0,3.0,"See-saw, Cube","2e, 4f",2,3.0,Bi,0.0,True
+mp-1178488,Bi3O4F,2.057628014138545,0.61151968702663,"[3.0, 6.0]",3.0,3.0,3.0,"See-saw, Cube","2e, 4f",2,6.0,Bi,0.0,True
+mp-1179025,Ti3(BiO3)4,1.8742846067376508,0.807090047267098,"[8.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square-face bicapped trigonal prism",2i,2,8.0,Bi,0.0,True
+mp-1179025,Ti3(BiO3)4,1.8742846067376508,0.807090047267098,"[8.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square-face bicapped trigonal prism",2i,2,9.0,Bi,0.0,True
+mp-1188946,Re2BiO6,1.0753938971507473,1.985068436274148,[6.0],3.0,3.0,3.0,Trigonal prism,2e,1,6.0,Bi,0.0,True
+mp-1189868,Cd4BiB3O10,2.160675055307068,0.3758240064532826,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1190124,Bi2O3,2.435565679948787,-0.0653058572877404,[5.0],3.0,3.0,3.0,Square pyramid,8d,1,5.0,Bi,0.0,True
+mp-1190466,CoBi6(SO8)2,2.1153065633427395,0.545928902806362,"[4.0, 7.0]",3.0,3.0,3.0,Square-face capped trigonal prism,2c,1,4.0,Bi,0.0,True
+mp-1190466,CoBi6(SO8)2,2.1153065633427395,0.545928902806362,"[4.0, 7.0]",3.0,3.0,3.0,Square-face capped trigonal prism,2c,1,7.0,Bi,0.0,True
+mp-1190898,Bi7O5F11,2.076652831330886,0.3180848034409179,"[2.0, 3.0, 2.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized","1b, 2c",3,2.0,Bi,0.0,True
+mp-1190898,Bi7O5F11,2.076652831330886,0.3180848034409179,"[2.0, 3.0, 2.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized","1b, 2c",3,3.0,Bi,0.0,True
+mp-1190898,Bi7O5F11,2.076652831330886,0.3180848034409179,"[2.0, 3.0, 2.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized","1b, 2c",3,2.0,Bi,0.0,True
+mp-1190898,Bi7O5F11,2.076652831330886,0.3180848034409179,"[2.0, 3.0, 2.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized","1b, 2c",3,4.0,Bi,0.0,True
+mp-1191023,Bi3Te4(ClO2)5,2.2014683482655264,0.1829436135096942,[4.0],3.0,3.0,3.0,"Hexagonal bipyramid, See-saw","1a, 2i",2,4.0,Bi,0.0,True
+mp-1191266,BiIO4,2.577169581408301,0.0347951433647716,[7.0],3.0,3.0,3.0,Cube,4a,1,7.0,Bi,0.0,True
+mp-1191534,Sr4BiO7,2.141542102244389,-0.0131278153062434,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1191650,VCuBi2O7,2.635594844996164,-0.2472548533700641,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square antiprism",2i,2,6.0,Bi,0.0,True
+mp-1191650,VCuBi2O7,2.635594844996164,-0.2472548533700641,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square antiprism",2i,2,7.0,Bi,0.0,True
+mp-1192345,AgBi(WO4)2,2.4139301371553388,0.0955877360477308,[8.0],3.0,3.0,3.0,Square antiprism,2g,1,8.0,Bi,0.0,True
+mp-1192577,FeBi2Se2Cl3O7,2.223215033587752,0.200089451457861,"[4.0, 4.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one edge in common), Square pyramid",2e,2,4.0,Bi,0.0,True
+mp-1192577,FeBi2Se2Cl3O7,2.223215033587752,0.200089451457861,"[4.0, 4.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one edge in common), Square pyramid",2e,2,4.0,Bi,0.0,True
+mp-1192658,Bi2Te2SeO10,1.7794545677499798,0.9685888124673326,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4f,1,7.0,Bi,0.0,True
+mp-1193553,BiBPbO4,1.9547460324543948,0.622971146085981,[6.0],3.0,3.0,3.0,Octahedron,4d,1,6.0,Bi,0.0,True
+mp-1193554,Bi2Se3O10,2.3659440032383694,0.4909715683312362,[7.0],5.0,5.0,5.0,Square-face capped trigonal prism,4f,1,7.0,Bi,0.0,True
+mp-1194190,Ba3BiIr2O9,2.3822912203155204,-0.1137897741948501,[6.0],3.0,3.0,3.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1194570,TlBi(SO4)2,2.56101724371696,-0.0650249015174953,[8.0],3.0,3.0,3.0,no_data,no_data,1,8.0,Bi,0.0,True
+mp-1194603,MnBiO3,2.010123282560209,0.6713872808345102,"[6.0, 7.0]",3.0,3.0,3.0,"End-trigonal-face capped trigonal prism, Square-face capped trigonal prism",4e,2,6.0,Bi,0.0,True
+mp-1194603,MnBiO3,2.010123282560209,0.6713872808345102,"[6.0, 7.0]",3.0,3.0,3.0,"End-trigonal-face capped trigonal prism, Square-face capped trigonal prism",4e,2,7.0,Bi,0.0,True
+mp-1194678,Bi2TeIClO8,2.361835114600454,0.1197257525590599,"[6.0, 6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Square-face capped trigonal prism",2a,2,6.0,Bi,0.0,True
+mp-1194678,Bi2TeIClO8,2.361835114600454,0.1197257525590599,"[6.0, 6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Square-face capped trigonal prism",2a,2,6.0,Bi,0.0,True
+mp-1194678,Bi2TeIClO8,2.361835114600454,0.1197257525590599,"[6.0, 6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Square-face capped trigonal prism",2a,2,7.0,Bi,0.0,True
+mp-1195032,BiTeNO6,1.8936779065667144,0.7157495874124891,[8.0],3.0,3.0,3.0,Square antiprism,4e,1,8.0,Bi,0.0,True
+mp-1195166,Ta7BiO19,2.011466183487505,0.4982048521196042,[8.0],3.0,3.0,3.0,Bicapped octahedron (opposed cap faces),2a,1,8.0,Bi,0.0,True
+mp-1195168,Bi26Mo10O69,2.099936902557095,0.4764358587801623,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","1a, 2i, 1b",6,4.0,Bi,0.0,True
+mp-1195168,Bi26Mo10O69,2.099936902557095,0.4764358587801623,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","1a, 2i, 1b",6,5.0,Bi,0.0,True
+mp-1195168,Bi26Mo10O69,2.099936902557095,0.4764358587801623,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","1a, 2i, 1b",6,6.0,Bi,0.0,True
+mp-1195168,Bi26Mo10O69,2.099936902557095,0.4764358587801623,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","1a, 2i, 1b",6,7.0,Bi,0.0,True
+mp-1195168,Bi26Mo10O69,2.099936902557095,0.4764358587801623,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","1a, 2i, 1b",6,8.0,Bi,0.0,True
+mp-1195213,Bi2(SO4)3,1.7435922047466874,0.760369675796511,[9.0],3.0,3.0,3.0,Tricapped triangular prism (three square-face caps),4f,1,9.0,Bi,0.0,True
+mp-1195268,CoBi2SO7,2.213409102275796,0.4070547402680053,"[4.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square-face capped trigonal prism",8c,2,4.0,Bi,0.0,True
+mp-1195268,CoBi2SO7,2.213409102275796,0.4070547402680053,"[4.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square-face capped trigonal prism",8c,2,8.0,Bi,0.0,True
+mp-1195913,Ga4Bi2O9,1.2141894978152217,1.848717135954816,[7.0],3.0,3.0,3.0,Octahedron,8d,1,7.0,Bi,0.0,True
+mp-1196099,K3Bi7(SO6)4,2.046165016899375,0.565317662662066,"[4.0, 6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face bicapped trigonal prism, Square pyramid, Octahedron, Cube, Square non-coplanar","2e, 4f",7,4.0,Bi,0.0,True
+mp-1196099,K3Bi7(SO6)4,2.046165016899375,0.565317662662066,"[4.0, 6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face bicapped trigonal prism, Square pyramid, Octahedron, Cube, Square non-coplanar","2e, 4f",7,6.0,Bi,0.0,True
+mp-1196099,K3Bi7(SO6)4,2.046165016899375,0.565317662662066,"[4.0, 6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face bicapped trigonal prism, Square pyramid, Octahedron, Cube, Square non-coplanar","2e, 4f",7,8.0,Bi,0.0,True
+mp-1196207,Cr2Bi3O11,2.331827970367587,0.222080809029984,"[5.0, 8.0]",3.67,3.67,3.67,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4e,3,5.0,Bi,0.0,True
+mp-1196207,Cr2Bi3O11,2.331827970367587,0.222080809029984,"[5.0, 8.0]",3.67,3.67,3.67,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4e,3,8.0,Bi,0.0,True
+mp-1196273,Bi4BPO10,1.9814549136530133,0.6150307976307241,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square antiprism",8c,3,5.0,Bi,0.0,True
+mp-1196273,Bi4BPO10,1.9814549136530133,0.6150307976307241,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square antiprism",8c,3,6.0,Bi,0.0,True
+mp-1196273,Bi4BPO10,1.9814549136530133,0.6150307976307241,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square antiprism",8c,3,7.0,Bi,0.0,True
+mp-1196273,Bi4BPO10,1.9814549136530133,0.6150307976307241,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square antiprism",8c,3,8.0,Bi,0.0,True
+mp-1196419,Ta3Bi7O18,2.0441907913492736,0.5276436448294731,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Cube, Trigonal prism, Pentagonal bipyramid",1a,4,6.0,Bi,0.0,True
+mp-1196419,Ta3Bi7O18,2.0441907913492736,0.5276436448294731,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Cube, Trigonal prism, Pentagonal bipyramid",1a,4,7.0,Bi,0.0,True
+mp-1196419,Ta3Bi7O18,2.0441907913492736,0.5276436448294731,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Cube, Trigonal prism, Pentagonal bipyramid",1a,4,8.0,Bi,0.0,True
+mp-1196483,Bi2O3,2.08957067711396,0.6720374993941187,"[5.0, 6.0]",3.0,3.0,3.0,"Square pyramid, Octahedron","8c, 24d",2,5.0,Bi,0.0,True
+mp-1196483,Bi2O3,2.08957067711396,0.6720374993941187,"[5.0, 6.0]",3.0,3.0,3.0,"Square pyramid, Octahedron","8c, 24d",2,6.0,Bi,0.0,True
+mp-1196616,Ni2BiB(PO5)2,1.2405401434475594,1.6423003985406008,[6.0],3.0,3.0,3.0,Pentagonal pyramid,2e,1,6.0,Bi,0.0,True
+mp-1196931,Rb2BiPWO8,1.6879470303194324,0.8553659025349363,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4d,1,8.0,Bi,0.0,True
+mp-1197024,FeBi(SeO3)3,1.6071159971871367,1.0876496532448852,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4a,1,8.0,Bi,0.0,True
+mp-1197128,Bi2O3,1.9429943687395568,0.7236769604351562,"[5.0, 6.0]",3.0,3.0,3.0,"Square pyramid, Octahedron",4e,2,5.0,Bi,0.0,True
+mp-1197128,Bi2O3,1.9429943687395568,0.7236769604351562,"[5.0, 6.0]",3.0,3.0,3.0,"Square pyramid, Octahedron",4e,2,6.0,Bi,0.0,True
+mp-1197231,ReBi9O17,2.1444568441923955,0.4543297832367358,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"See-saw, Pentagonal bipyramid, Square pyramid",4e,3,4.0,Bi,0.0,True
+mp-1197231,ReBi9O17,2.1444568441923955,0.4543297832367358,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"See-saw, Pentagonal bipyramid, Square pyramid",4e,3,5.0,Bi,0.0,True
+mp-1197231,ReBi9O17,2.1444568441923955,0.4543297832367358,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"See-saw, Pentagonal bipyramid, Square pyramid",4e,3,6.0,Bi,0.0,True
+mp-1197231,ReBi9O17,2.1444568441923955,0.4543297832367358,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"See-saw, Pentagonal bipyramid, Square pyramid",4e,3,7.0,Bi,0.0,True
+mp-1197783,ReBi3O8,2.188198324281381,0.3917867678936331,[7.0],3.0,3.0,3.0,Face-capped octahedron,12c,1,7.0,Bi,0.0,True
+mp-1197854,Bi14Mo5O36,2.072060262539492,0.4802618605248579,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Cube, Square pyramid, Square-face capped trigonal prism",2c,3,6.0,Bi,0.0,True
+mp-1197854,Bi14Mo5O36,2.072060262539492,0.4802618605248579,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Cube, Square pyramid, Square-face capped trigonal prism",2c,3,7.0,Bi,0.0,True
+mp-1197854,Bi14Mo5O36,2.072060262539492,0.4802618605248579,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Cube, Square pyramid, Square-face capped trigonal prism",2c,3,8.0,Bi,0.0,True
+mp-1197894,Rb2BiMoPO8,1.8118352364040065,0.7308121730334831,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4d,1,8.0,Bi,0.0,True
+mp-1197960,Bi2S2O9,2.08075633667858,0.4853672357718894,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Hexagonal bipyramid, Pentagonal bipyramid, Dodecahedron with triangular faces - p2345 plane normalized, Octahedron",4f,4,5.0,Bi,0.0,True
+mp-1197960,Bi2S2O9,2.08075633667858,0.4853672357718894,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Hexagonal bipyramid, Pentagonal bipyramid, Dodecahedron with triangular faces - p2345 plane normalized, Octahedron",4f,4,6.0,Bi,0.0,True
+mp-1197960,Bi2S2O9,2.08075633667858,0.4853672357718894,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Hexagonal bipyramid, Pentagonal bipyramid, Dodecahedron with triangular faces - p2345 plane normalized, Octahedron",4f,4,7.0,Bi,0.0,True
+mp-1197960,Bi2S2O9,2.08075633667858,0.4853672357718894,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Hexagonal bipyramid, Pentagonal bipyramid, Dodecahedron with triangular faces - p2345 plane normalized, Octahedron",4f,4,8.0,Bi,0.0,True
+mp-1198288,Sn2Bi2O7,1.9665613330623184,0.6459670366650229,"[5.0, 8.0]",3.0,3.0,3.0,Cube,3a,1,5.0,Bi,0.0,True
+mp-1198288,Sn2Bi2O7,1.9665613330623184,0.6459670366650229,"[5.0, 8.0]",3.0,3.0,3.0,Cube,3a,1,8.0,Bi,0.0,True
+mp-1198385,Bi2B8O15,1.8857123892415888,0.7984715209217114,[7.0],3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism",2i,2,7.0,Bi,0.0,True
+mp-1198549,Mn16Bi16O45,1.8185371106405952,0.9198816975017085,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Octahedron","8c, 24e",2,6.0,Bi,0.0,True
+mp-1198549,Mn16Bi16O45,1.8185371106405952,0.9198816975017085,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Octahedron","8c, 24e",2,7.0,Bi,0.0,True
+mp-1198841,NbBi4BrO8,2.004027588381977,0.5626072731574248,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",4a,2,4.0,Bi,0.0,True
+mp-1198841,NbBi4BrO8,2.004027588381977,0.5626072731574248,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",4a,2,7.0,Bi,0.0,True
+mp-1199040,K3Bi2(NO3)9,2.3072960805153784,0.2731548522504899,[12.0],3.0,3.0,3.0,Icosahedron,8c,1,12.0,Bi,0.0,True
+mp-1199190,Ba4Bi(IrO4)3,2.4266507150774936,-0.1575696395927804,[6.0],3.0,3.0,3.0,Octahedron,"1a, 2i",1,6.0,Bi,0.0,True
+mp-1199340,MgBi4(PO6)2,1.940879090288848,0.7332791909185072,"[5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square pyramid, Square-face capped trigonal prism",8c,3,5.0,Bi,0.0,True
+mp-1199340,MgBi4(PO6)2,1.940879090288848,0.7332791909185072,"[5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square pyramid, Square-face capped trigonal prism",8c,3,6.0,Bi,0.0,True
+mp-1199340,MgBi4(PO6)2,1.940879090288848,0.7332791909185072,"[5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square pyramid, Square-face capped trigonal prism",8c,3,7.0,Bi,0.0,True
+mp-1200193,Bi2Mo2Se2O13,2.659087607933691,-0.0587007401439838,"[8.0, 9.0]",3.0,3.0,3.0,"Square-face monocapped antiprism, Square antiprism",2i,2,8.0,Bi,0.0,True
+mp-1200193,Bi2Mo2Se2O13,2.659087607933691,-0.0587007401439838,"[8.0, 9.0]",3.0,3.0,3.0,"Square-face monocapped antiprism, Square antiprism",2i,2,9.0,Bi,0.0,True
+mp-1200203,Bi2(S2O7)3,2.072002390424465,0.3741137249051777,"[8.0, 9.0]",3.0,3.0,3.0,"Tricapped triangular prism (three square-face caps), Square antiprism",2i,2,8.0,Bi,0.0,True
+mp-1200203,Bi2(S2O7)3,2.072002390424465,0.3741137249051777,"[8.0, 9.0]",3.0,3.0,3.0,"Tricapped triangular prism (three square-face caps), Square antiprism",2i,2,9.0,Bi,0.0,True
+mp-1200544,Ta3(Bi2O7)2,2.0613416834220786,0.563722042108755,"[7.0, 8.0]",3.5,3.5,3.5,"Cube, Square-face capped trigonal prism",4f,2,7.0,Bi,0.0,True
+mp-1200544,Ta3(Bi2O7)2,2.0613416834220786,0.563722042108755,"[7.0, 8.0]",3.5,3.5,3.5,"Cube, Square-face capped trigonal prism",4f,2,8.0,Bi,0.0,True
+mp-1200581,Bi2B3HO8,2.1369505140929177,0.6011366030634241,"[3.0, 7.0]",3.0,3.0,3.0,"See-saw, Square-face capped trigonal prism",8c,2,3.0,Bi,0.0,True
+mp-1200581,Bi2B3HO8,2.1369505140929177,0.6011366030634241,"[3.0, 7.0]",3.0,3.0,3.0,"See-saw, Square-face capped trigonal prism",8c,2,7.0,Bi,0.0,True
+mp-1200889,Ti2Bi2O7,2.106949072362865,0.4389840490546421,"[5.0, 6.0]",3.0,3.0,3.0,"Face-capped octahedron, Pentagonal bipyramid",4a,2,5.0,Bi,0.0,True
+mp-1200889,Ti2Bi2O7,2.106949072362865,0.4389840490546421,"[5.0, 6.0]",3.0,3.0,3.0,"Face-capped octahedron, Pentagonal bipyramid",4a,2,6.0,Bi,0.0,True
+mp-1201096,CaCrBi12(Mo2O17)2,2.062392948121002,0.5171377950870675,"[4.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",4g,5,4.0,Bi,0.0,True
+mp-1201096,CaCrBi12(Mo2O17)2,2.062392948121002,0.5171377950870675,"[4.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",4g,5,7.0,Bi,0.0,True
+mp-1201096,CaCrBi12(Mo2O17)2,2.062392948121002,0.5171377950870675,"[4.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",4g,5,8.0,Bi,0.0,True
+mp-1201257,Rb2Bi(IO3)5,0.9510467070614596,1.6808692235535088,[8.0],3.0,3.0,3.0,no_data,no_data,1,8.0,Bi,0.0,True
+mp-1201497,Bi2Pd(SeO3)4,1.9761826018976776,0.6600320714829684,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,8.0,Bi,0.0,True
+mp-1201539,ZnBi4(PO6)2,2.104838368671702,0.4612096133138498,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Face-capped octahedron, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Dodecahedron with triangular faces - p2345 plane normalized, Tricapped triangular prism (two square-face caps and one triangular-face cap), Square antiprism",4f,9,4.0,Bi,0.0,True
+mp-1201539,ZnBi4(PO6)2,2.104838368671702,0.4612096133138498,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Face-capped octahedron, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Dodecahedron with triangular faces - p2345 plane normalized, Tricapped triangular prism (two square-face caps and one triangular-face cap), Square antiprism",4f,9,5.0,Bi,0.0,True
+mp-1201539,ZnBi4(PO6)2,2.104838368671702,0.4612096133138498,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Face-capped octahedron, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Dodecahedron with triangular faces - p2345 plane normalized, Tricapped triangular prism (two square-face caps and one triangular-face cap), Square antiprism",4f,9,6.0,Bi,0.0,True
+mp-1201539,ZnBi4(PO6)2,2.104838368671702,0.4612096133138498,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Face-capped octahedron, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Dodecahedron with triangular faces - p2345 plane normalized, Tricapped triangular prism (two square-face caps and one triangular-face cap), Square antiprism",4f,9,7.0,Bi,0.0,True
+mp-1201539,ZnBi4(PO6)2,2.104838368671702,0.4612096133138498,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Face-capped octahedron, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Dodecahedron with triangular faces - p2345 plane normalized, Tricapped triangular prism (two square-face caps and one triangular-face cap), Square antiprism",4f,9,8.0,Bi,0.0,True
+mp-1201858,Cs2BiPWO8,1.6874153735825823,0.836665575603185,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4d,1,8.0,Bi,0.0,True
+mp-1202167,K2Bi(IO3)5,2.677203705190631,-0.1502660301651287,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,2b,1,8.0,Bi,0.0,True
+mp-1202291,BiB4(HO3)3,1.93075299533211,0.7769989799242671,[6.0],3.0,3.0,3.0,"Trigonal prism, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-1202541,Bi8(MoO7)3,2.0964379930499737,0.4574089355425584,"[5.0, 7.0, 8.0]",3.0,3.0,3.0,"Cube, Square pyramid, Square-face capped trigonal prism",4e,3,5.0,Bi,0.0,True
+mp-1202541,Bi8(MoO7)3,2.0964379930499737,0.4574089355425584,"[5.0, 7.0, 8.0]",3.0,3.0,3.0,"Cube, Square pyramid, Square-face capped trigonal prism",4e,3,7.0,Bi,0.0,True
+mp-1202541,Bi8(MoO7)3,2.0964379930499737,0.4574089355425584,"[5.0, 7.0, 8.0]",3.0,3.0,3.0,"Cube, Square pyramid, Square-face capped trigonal prism",4e,3,8.0,Bi,0.0,True
+mp-1202726,Ba2V3BiO11,1.760393001801423,1.1427216538226277,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1202933,Sr3Ta7Si(BiO4)9,2.13784713729403,0.4150284119028624,"[6.0, 9.0]",3.0,3.0,3.0,"Pentagonal pyramid, Tricapped triangular prism (two square-face caps and one triangular-face cap), Square-face capped trigonal prism",1a,3,6.0,Bi,0.0,True
+mp-1202933,Sr3Ta7Si(BiO4)9,2.13784713729403,0.4150284119028624,"[6.0, 9.0]",3.0,3.0,3.0,"Pentagonal pyramid, Tricapped triangular prism (two square-face caps and one triangular-face cap), Square-face capped trigonal prism",1a,3,9.0,Bi,0.0,True
+mp-1202955,MnBiO3,2.1587722269315206,0.440596390757843,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one atom in common), Square-face bicapped trigonal prism, Square-face capped trigonal prism","4b, 2a",3,4.0,Bi,0.0,True
+mp-1202955,MnBiO3,2.1587722269315206,0.440596390757843,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one atom in common), Square-face bicapped trigonal prism, Square-face capped trigonal prism","4b, 2a",3,6.0,Bi,0.0,True
+mp-1202955,MnBiO3,2.1587722269315206,0.440596390757843,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one atom in common), Square-face bicapped trigonal prism, Square-face capped trigonal prism","4b, 2a",3,7.0,Bi,0.0,True
+mp-1202955,MnBiO3,2.1587722269315206,0.440596390757843,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one atom in common), Square-face bicapped trigonal prism, Square-face capped trigonal prism","4b, 2a",3,8.0,Bi,0.0,True
+mp-1204764,Bi2I4O13,2.4641663418843662,0.0066323392881483,"[7.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",4a,2,7.0,Bi,0.0,True
+mp-1204764,Bi2I4O13,2.4641663418843662,0.0066323392881483,"[7.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",4a,2,8.0,Bi,0.0,True
+mp-1204806,CeBiW2O9,2.2351921511664887,0.3482645215468503,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4f,1,8.0,Bi,0.0,True
+mp-1205023,Sr4Mn2Bi4O13,1.835972146188989,1.2278313153987344,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid",4a,2,4.0,Bi,0.0,True
+mp-1205023,Sr4Mn2Bi4O13,1.835972146188989,1.2278313153987344,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid",4a,2,5.0,Bi,0.0,True
+mp-1205315,LiBiO2,2.0490885763123696,0.5579753738994189,[5.0],3.0,3.0,3.0,Square pyramid,2c,1,5.0,Bi,0.0,True
+mp-1207680,YGeBiO5,2.191650668065618,0.2632749986806099,[5.0],3.0,3.0,3.0,Square pyramid,8c,1,5.0,Bi,0.0,True
+mp-1207861,VCd2BiO6,1.8142401813099085,1.008859047150101,[5.0],3.0,3.0,3.0,Trigonal bipyramid,2a,1,5.0,Bi,0.0,True
+mp-1208079,V4Bi6PbO20,1.9293464896591856,0.6646302085154673,"[6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square antiprism, Octahedron",2i,3,6.0,Bi,0.0,True
+mp-1208079,V4Bi6PbO20,1.9293464896591856,0.6646302085154673,"[6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square antiprism, Octahedron",2i,3,8.0,Bi,0.0,True
+mp-1208096,TlBi(WO4)2,2.5624953759330182,0.005440587715818,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,2e,1,8.0,Bi,0.0,True
+mp-1208190,TlBi(MoO4)2,1.88417022452834,0.669036033622191,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,8.0,Bi,0.0,True
+mp-1208225,TiBi6(PO8)2,2.216461859476704,0.345952260494024,"[4.0, 7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Cube, Square-face capped trigonal prism",2c,3,4.0,Bi,0.0,True
+mp-1208225,TiBi6(PO8)2,2.216461859476704,0.345952260494024,"[4.0, 7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Cube, Square-face capped trigonal prism",2c,3,7.0,Bi,0.0,True
+mp-1208225,TiBi6(PO8)2,2.216461859476704,0.345952260494024,"[4.0, 7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Cube, Square-face capped trigonal prism",2c,3,8.0,Bi,0.0,True
+mp-1208391,Ti3NbZnBi3O14,2.198391598315986,0.3461485593852685,[8.0],3.0,3.0,3.0,Hexagonal bipyramid,12d,1,8.0,Bi,0.0,True
+mp-1208751,Sr2TmBiO6,2.1467442563939576,-0.013454145668668,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1208755,Sr2SmBiO6,2.1546765947035142,-0.0235838522633523,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1208809,Sr3V3(BiO7)2,1.907105437864805,0.981941237419047,"[6.0, 7.0]",4.0,4.0,4.0,"Trigonal prism, Square-face capped trigonal prism",2i,2,6.0,Bi,0.0,True
+mp-1208809,Sr3V3(BiO7)2,1.907105437864805,0.981941237419047,"[6.0, 7.0]",4.0,4.0,4.0,"Trigonal prism, Square-face capped trigonal prism",2i,2,7.0,Bi,0.0,True
+mp-1208845,Sr2HoBiO6,2.1484062071826955,0.0292817396547518,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1208851,Sr2GdBiO6,2.1584659940261046,-0.0179692641966142,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1208858,Sr2DyBiO6,2.1452453011301498,0.0121075358866613,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1208871,Sr2EuBiO6,2.1534582322305886,-0.0166436426312983,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1208875,Sr2ErBiO6,2.1433225036238,0.0001960492633156,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1208910,V5Bi17Pb5O43,2.10702342187354,0.4744205583871754,"[3.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Triangular non-coplanar, See-saw","1a, 2b",6,3.0,Bi,0.0,True
+mp-1208910,V5Bi17Pb5O43,2.10702342187354,0.4744205583871754,"[3.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Triangular non-coplanar, See-saw","1a, 2b",6,5.0,Bi,0.0,True
+mp-1208910,V5Bi17Pb5O43,2.10702342187354,0.4744205583871754,"[3.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Triangular non-coplanar, See-saw","1a, 2b",6,6.0,Bi,0.0,True
+mp-1208910,V5Bi17Pb5O43,2.10702342187354,0.4744205583871754,"[3.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Triangular non-coplanar, See-saw","1a, 2b",6,7.0,Bi,0.0,True
+mp-1209046,ScBi3(MoO6)2,2.0674623397610725,0.4390492358078178,[8.0],3.0,3.0,3.0,"Dodecahedron with triangular faces - p2345 plane normalized, Square antiprism","2e, 4f",2,8.0,Bi,0.0,True
+mp-1210188,Nd2Ti3(BiO6)2,1.4496330344751178,1.36437193466056,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4b,1,7.0,Bi,0.0,True
+mp-1210214,NaNb2Bi2O9,2.527434185460184,0.2654717659953101,[7.0],4.0,4.0,4.0,Square-face capped trigonal prism,4b,1,7.0,Bi,0.0,True
+mp-1210326,Nb3Zn2Bi3O14,1.6198155649527102,1.208193295094148,[6.0],3.0,3.0,3.0,Trigonal prism,12d,1,6.0,Bi,0.0,True
+mp-1210873,MnAlBiO5,2.72716852690884,-0.2383897437121836,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4h,1,8.0,Bi,0.0,True
+mp-1211195,LiBi(WO4)2,2.334876135936518,0.0274878325586496,[6.0],3.0,3.0,3.0,Octahedron,2f,1,6.0,Bi,0.0,True
+mp-1211253,La2Ti3(BiO6)2,1.720714178182318,0.8564356345014122,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2e,1,8.0,Bi,0.0,True
+mp-1211635,LaTi3(BiO4)3,2.069606000557586,0.5461511883078931,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism",2a,3,6.0,Bi,0.0,True
+mp-1211635,LaTi3(BiO4)3,2.069606000557586,0.5461511883078931,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism",2a,3,8.0,Bi,0.0,True
+mp-1212549,NaV4Bi13O30,2.0466965275897104,0.5528826239817677,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Pentagonal bipyramid, Square pyramid, Octahedron, Cube, See-saw",2c,7,3.0,Bi,0.0,True
+mp-1212549,NaV4Bi13O30,2.0466965275897104,0.5528826239817677,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Pentagonal bipyramid, Square pyramid, Octahedron, Cube, See-saw",2c,7,4.0,Bi,0.0,True
+mp-1212549,NaV4Bi13O30,2.0466965275897104,0.5528826239817677,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Pentagonal bipyramid, Square pyramid, Octahedron, Cube, See-saw",2c,7,5.0,Bi,0.0,True
+mp-1212549,NaV4Bi13O30,2.0466965275897104,0.5528826239817677,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Pentagonal bipyramid, Square pyramid, Octahedron, Cube, See-saw",2c,7,6.0,Bi,0.0,True
+mp-1212549,NaV4Bi13O30,2.0466965275897104,0.5528826239817677,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Pentagonal bipyramid, Square pyramid, Octahedron, Cube, See-saw",2c,7,7.0,Bi,0.0,True
+mp-1212549,NaV4Bi13O30,2.0466965275897104,0.5528826239817677,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Pentagonal bipyramid, Square pyramid, Octahedron, Cube, See-saw",2c,7,8.0,Bi,0.0,True
+mp-1213697,CsBi(MoO4)2,1.927759978779703,0.5587983584525714,[8.0],3.0,3.0,3.0,Square antiprism,2e,1,8.0,Bi,0.0,True
+mp-1214265,Bi12Br5O16,2.0012508936427915,0.5349016893874249,"[4.0, 4.0, 7.0, 8.0]",3.08,3.08,3.08,"Cube, Face-capped octahedron, Square non-coplanar",2i,3,4.0,Bi,0.0,True
+mp-1214265,Bi12Br5O16,2.0012508936427915,0.5349016893874249,"[4.0, 4.0, 7.0, 8.0]",3.08,3.08,3.08,"Cube, Face-capped octahedron, Square non-coplanar",2i,3,4.0,Bi,0.0,True
+mp-1214265,Bi12Br5O16,2.0012508936427915,0.5349016893874249,"[4.0, 4.0, 7.0, 8.0]",3.08,3.08,3.08,"Cube, Face-capped octahedron, Square non-coplanar",2i,3,7.0,Bi,0.0,True
+mp-1214265,Bi12Br5O16,2.0012508936427915,0.5349016893874249,"[4.0, 4.0, 7.0, 8.0]",3.08,3.08,3.08,"Cube, Face-capped octahedron, Square non-coplanar",2i,3,8.0,Bi,0.0,True
+mp-1214311,Bi6As4PbO20,1.992546616293054,0.6048852827804463,"[6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square antiprism, Octahedron",2i,3,6.0,Bi,0.0,True
+mp-1214311,Bi6As4PbO20,1.992546616293054,0.6048852827804463,"[6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square antiprism, Octahedron",2i,3,8.0,Bi,0.0,True
+mp-1214312,Bi12SbO20,2.334842921125873,0.2188838171026136,[5.0],2.92,2.92,2.92,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-1214461,Ba4Li(BiO4)3,2.0060025914167303,0.6566497363662063,[6.0],5.0,5.0,5.0,Octahedron,3b,1,6.0,Bi,0.0,True
+mp-1214465,BiP5O14,2.278388576941171,0.1708890447543825,[8.0],3.0,3.0,3.0,Square antiprism,4c,1,8.0,Bi,0.0,True
+mp-1214573,Ba2PrBiO6,2.134909635899619,0.0583018930203036,[6.0],5.0,5.0,5.0,Octahedron,1d,1,6.0,Bi,0.0,True
+mp-1214919,Al(Bi3O5)4,2.302347729709507,0.3153549610364813,[5.0],3.08,3.08,3.08,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-1214947,Bi17As5Pb5O43,2.0821251570149366,0.5150909436369749,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,4.0,Bi,0.0,True
+mp-1214947,Bi17As5Pb5O43,2.0821251570149366,0.5150909436369749,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,5.0,Bi,0.0,True
+mp-1214947,Bi17As5Pb5O43,2.0821251570149366,0.5150909436369749,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,6.0,Bi,0.0,True
+mp-1214947,Bi17As5Pb5O43,2.0821251570149366,0.5150909436369749,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,7.0,Bi,0.0,True
+mp-1215003,BaBi12Mo5O34,2.0244955896076227,0.5806826915257173,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, End-trigonal-face capped trigonal prism, Square pyramid, Octahedron",4g,6,4.0,Bi,0.0,True
+mp-1215003,BaBi12Mo5O34,2.0244955896076227,0.5806826915257173,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, End-trigonal-face capped trigonal prism, Square pyramid, Octahedron",4g,6,6.0,Bi,0.0,True
+mp-1215003,BaBi12Mo5O34,2.0244955896076227,0.5806826915257173,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, End-trigonal-face capped trigonal prism, Square pyramid, Octahedron",4g,6,7.0,Bi,0.0,True
+mp-1215003,BaBi12Mo5O34,2.0244955896076227,0.5806826915257173,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, End-trigonal-face capped trigonal prism, Square pyramid, Octahedron",4g,6,8.0,Bi,0.0,True
+mp-1215975,YSn2BiO7,1.9519105999856987,0.5757903673733219,[8.0],3.0,3.0,3.0,Cube,2c,1,8.0,Bi,0.0,True
+mp-1215989,YBiRu2O7,1.8708456491784689,0.5969243622596153,[8.0],3.0,3.0,3.0,Cube,2d,1,8.0,Bi,0.0,True
+mp-1215993,YBi3(Ru2O7)2,1.7989548329945102,0.6798412689454311,[8.0],3.0,3.0,3.0,Cube,3e,1,8.0,Bi,0.0,True
+mp-1216097,Y3Bi(Ru2O7)2,1.9255528081545985,0.535369898129575,[8.0],3.0,3.0,3.0,Cube,1a,1,8.0,Bi,0.0,True
+mp-1216099,Y3Sn4BiO14,1.988493901103593,0.5337974785837479,[8.0],3.0,3.0,3.0,Cube,1b,1,8.0,Bi,0.0,True
+mp-1216208,Y4Ti6Bi2O21,1.817323278747716,0.6694558934641142,[8.0],3.0,3.0,3.0,Cube,"1b, 1d, 2i",1,8.0,Bi,0.0,True
+mp-1216838,TiNbBiO6,2.214718031662001,0.274961502913954,"[6.0, 7.0]",3.0,3.0,3.0,Face-capped octahedron,1a,1,6.0,Bi,0.0,True
+mp-1216838,TiNbBiO6,2.214718031662001,0.274961502913954,"[6.0, 7.0]",3.0,3.0,3.0,Face-capped octahedron,1a,1,7.0,Bi,0.0,True
+mp-1216863,TiNb(BiO3)3,2.4431269150722628,0.0721120031787909,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",2a,2,6.0,Bi,0.0,True
+mp-1216863,TiNb(BiO3)3,2.4431269150722628,0.0721120031787909,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",2a,2,8.0,Bi,0.0,True
+mp-1216981,TiFeBiPbO6,4.533787941768823,-1.8882833276635047,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,1a,1,8.0,Bi,0.0,True
+mp-1217154,TiFe3Bi3PbO12,2.629820293373915,-0.3209449268191651,[6.0],3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",1a,2,6.0,Bi,0.0,True
+mp-1217203,TiBi8W(ClO8)2,2.2171746890496222,0.1987219726675631,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"Triangular cupola, Square non-coplanar",2d,2,3.0,Bi,0.0,True
+mp-1217203,TiBi8W(ClO8)2,2.2171746890496222,0.1987219726675631,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"Triangular cupola, Square non-coplanar",2d,2,4.0,Bi,0.0,True
+mp-1217203,TiBi8W(ClO8)2,2.2171746890496222,0.1987219726675631,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"Triangular cupola, Square non-coplanar",2d,2,5.0,Bi,0.0,True
+mp-1217217,Ti3Bi6WO18,2.0866240291352987,0.4520631509571437,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",1a,2,6.0,Bi,0.0,True
+mp-1217217,Ti3Bi6WO18,2.0866240291352987,0.4520631509571437,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",1a,2,8.0,Bi,0.0,True
+mp-1217238,TiBi8W(BrO8)2,2.010102494994758,0.5529352298327136,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",2c,2,4.0,Bi,0.0,True
+mp-1217238,TiBi8W(BrO8)2,2.010102494994758,0.5529352298327136,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",2c,2,7.0,Bi,0.0,True
+mp-1217245,Ti3Fe(BiO3)5,2.3296886005899267,0.4669739974080129,"[7.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square-face capped trigonal prism",1a,2,7.0,Bi,0.0,True
+mp-1217245,Ti3Fe(BiO3)5,2.3296886005899267,0.4669739974080129,"[7.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square-face capped trigonal prism",1a,2,9.0,Bi,0.0,True
+mp-1217348,TiNbBi5WO15,2.189047532746602,0.3164199059845128,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",2c,2,6.0,Bi,0.0,True
+mp-1217348,TiNbBi5WO15,2.189047532746602,0.3164199059845128,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",2c,2,8.0,Bi,0.0,True
+mp-1217452,Ti3Fe(BiO3)5,2.223105673413102,0.3084786521067714,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Octahedron",2a,3,6.0,Bi,0.0,True
+mp-1217452,Ti3Fe(BiO3)5,2.223105673413102,0.3084786521067714,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Octahedron",2a,3,8.0,Bi,0.0,True
+mp-1217509,Ti3NiBi2(PbO6)2,2.305598368508914,0.0677135261954169,"[3.0, 5.0]",3.0,3.0,3.0,"Pentagonal pyramid, Bicapped octahedron (cap faces with one atom in common)",4a,2,3.0,Bi,0.0,True
+mp-1217509,Ti3NiBi2(PbO6)2,2.305598368508914,0.0677135261954169,"[3.0, 5.0]",3.0,3.0,3.0,"Pentagonal pyramid, Bicapped octahedron (cap faces with one atom in common)",4a,2,5.0,Bi,0.0,True
+mp-1217521,V2Bi4O11,2.245597099139766,0.2682384773224111,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Face-capped octahedron, Trigonal prism, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Tricapped triangular prism (three square-face caps), Square antiprism",1a,8,5.0,Bi,0.0,True
+mp-1217521,V2Bi4O11,2.245597099139766,0.2682384773224111,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Face-capped octahedron, Trigonal prism, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Tricapped triangular prism (three square-face caps), Square antiprism",1a,8,6.0,Bi,0.0,True
+mp-1217521,V2Bi4O11,2.245597099139766,0.2682384773224111,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Face-capped octahedron, Trigonal prism, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Tricapped triangular prism (three square-face caps), Square antiprism",1a,8,7.0,Bi,0.0,True
+mp-1217521,V2Bi4O11,2.245597099139766,0.2682384773224111,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Face-capped octahedron, Trigonal prism, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Tricapped triangular prism (three square-face caps), Square antiprism",1a,8,8.0,Bi,0.0,True
+mp-1217566,Ti4Nb(BiO3)7,2.337762219172047,0.1230431044445906,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",2c,2,6.0,Bi,0.0,True
+mp-1217566,Ti4Nb(BiO3)7,2.337762219172047,0.1230431044445906,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",2c,2,8.0,Bi,0.0,True
+mp-1217611,TiFe2Bi2PbO9,2.512447907990535,-0.1312319067892227,[6.0],3.0,3.0,3.0,"Tridiminished icosahedron, Octahedron","1a, 1b, 1c",2,6.0,Bi,0.0,True
+mp-1217792,Ti5Bi4(PbO9)2,2.337071844830739,0.204913813357866,"[6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",2a,2,6.0,Bi,0.0,True
+mp-1217792,Ti5Bi4(PbO9)2,2.337071844830739,0.204913813357866,"[6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",2a,2,7.0,Bi,0.0,True
+mp-1217801,SrTiNb2Bi2PbO12,1.714855703682264,0.880042137726566,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,1a,1,8.0,Bi,0.0,True
+mp-1217847,SrTi4Bi4O15,2.088172793544259,0.6333933290592898,[6.0],3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",4b,2,6.0,Bi,0.0,True
+mp-1217882,VSi3Bi61O100,2.1030331646853897,0.50381041490725,"[4.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","1a, 3b",2,4.0,Bi,0.0,True
+mp-1217882,VSi3Bi61O100,2.1030331646853897,0.50381041490725,"[4.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","1a, 3b",2,5.0,Bi,0.0,True
+mp-1217945,TaInBi2O7,1.768462635005971,0.8038269280122421,[8.0],3.0,3.0,3.0,"Hexagonal bipyramid, Cube","2b, 2d",2,8.0,Bi,0.0,True
+mp-1218131,TaBi(P2O7)2,2.176610387102316,0.211755948170458,[6.0],3.0,3.0,3.0,Octahedron,2d,1,6.0,Bi,0.0,True
+mp-1218158,Ta4InBi3O16,2.0192436304658883,0.5180598675803221,"[7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square-face capped trigonal prism",1a,2,7.0,Bi,0.0,True
+mp-1218158,Ta4InBi3O16,2.0192436304658883,0.5180598675803221,"[7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square-face capped trigonal prism",1a,2,8.0,Bi,0.0,True
+mp-1218209,SrMnFeBiO6,0.4217162366366755,1.9997308337301007,[9.0],3.0,3.0,3.0,Tridiminished icosahedron,1a,1,9.0,Bi,0.0,True
+mp-1218398,SrBi3Cl3O4,2.1286091474603044,0.326185232102448,"[4.0, 4.0, 4.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face bicapped trigonal prism",1a,2,4.0,Bi,0.0,True
+mp-1218398,SrBi3Cl3O4,2.1286091474603044,0.326185232102448,"[4.0, 4.0, 4.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face bicapped trigonal prism",1a,2,4.0,Bi,0.0,True
+mp-1218398,SrBi3Cl3O4,2.1286091474603044,0.326185232102448,"[4.0, 4.0, 4.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face bicapped trigonal prism",1a,2,4.0,Bi,0.0,True
+mp-1218405,SrBi3Br3O4,2.1286623173859764,0.333023930522248,"[4.0, 4.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face bicapped trigonal prism",1a,2,4.0,Bi,0.0,True
+mp-1218405,SrBi3Br3O4,2.1286623173859764,0.333023930522248,"[4.0, 4.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face bicapped trigonal prism",1a,2,4.0,Bi,0.0,True
+mp-1218439,Sr4TlCu2BiO10,1.319538181226757,1.677843860023618,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1218595,Sr6Al12Bi2O27,1.6175412487230627,1.18574387280597,[6.0],3.0,3.0,3.0,"Trigonal prism, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-1218632,Sr4BiP3O13,1.85119829797334,0.8610770849609748,[7.0],3.0,3.0,3.0,Octahedron,2e,1,7.0,Bi,0.0,True
+mp-1218693,Sr2V3Bi3O14,1.7746510700520506,0.8536864050248608,"[6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism",2i,2,6.0,Bi,0.0,True
+mp-1218693,Sr2V3Bi3O14,1.7746510700520506,0.8536864050248608,"[6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism",2i,2,7.0,Bi,0.0,True
+mp-1218800,Sr2Ti5(Bi2O9)2,1.8706690889766533,0.7509119406045338,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism",1a,2,6.0,Bi,0.0,True
+mp-1218800,Sr2Ti5(Bi2O9)2,1.8706690889766533,0.7509119406045338,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism",1a,2,7.0,Bi,0.0,True
+mp-1218870,Sr4CaYCu4Bi2(PbO8)2,2.1240054705618103,0.0699813150746252,[3.0],3.0,3.0,3.0,Triangular non-coplanar,4g,1,3.0,Bi,0.0,True
+mp-1218930,Sr2CaCu2(BiO4)2,2.160341765886685,1.6207225647479435,[3.0],3.0,3.0,3.0,Triangular non-coplanar,4d,1,3.0,Bi,0.0,True
+mp-1219094,SmBi3(Ru2O7)2,1.7469271972064255,0.7351201806968733,[8.0],3.0,3.0,3.0,Cube,3e,1,8.0,Bi,0.0,True
+mp-1219095,SmBiRu2O7,1.7698596584079496,0.712415966117201,[8.0],3.0,3.0,3.0,Cube,2d,1,8.0,Bi,0.0,True
+mp-1219101,SmTiNbBi2O9,2.403844485300984,0.1289598032955943,[6.0],3.0,3.0,3.0,Pentagonal pyramid,2a,1,6.0,Bi,0.0,True
+mp-1219209,Sm3Bi(Ru2O7)2,1.81417144177501,0.6656951975229303,[8.0],3.0,3.0,3.0,Cube,1a,1,8.0,Bi,0.0,True
+mp-1219692,PrBi3(Ru2O7)2,1.70366473859062,0.78385847403283,[8.0],3.0,3.0,3.0,Cube,3e,1,8.0,Bi,0.0,True
+mp-1219698,PrBiRu2O7,1.690064110871036,0.8031142218324415,[8.0],3.0,3.0,3.0,Cube,2c,1,8.0,Bi,0.0,True
+mp-1219861,Pr3Bi(Ru2O7)2,1.696753740881367,0.8034546461944643,[8.0],3.0,3.0,3.0,Cube,1a,1,8.0,Bi,0.0,True
+mp-1219886,PrTi6Bi7O24,1.865412546026309,0.7362223447811507,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Hexagonal bipyramid, Tricapped octahedron (cap faces are aligned), Square-face capped trigonal prism",1a,3,6.0,Bi,0.0,True
+mp-1219886,PrTi6Bi7O24,1.865412546026309,0.7362223447811507,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Hexagonal bipyramid, Tricapped octahedron (cap faces are aligned), Square-face capped trigonal prism",1a,3,7.0,Bi,0.0,True
+mp-1219886,PrTi6Bi7O24,1.865412546026309,0.7362223447811507,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Hexagonal bipyramid, Tricapped octahedron (cap faces are aligned), Square-face capped trigonal prism",1a,3,8.0,Bi,0.0,True
+mp-1219942,Sr2YCu2BiPbO8,2.128667380677975,-0.0756063927390209,[3.0],3.0,3.0,3.0,Triangular non-coplanar,4e,1,3.0,Bi,0.0,True
+mp-1220179,NdTiNbBi2O9,2.2576888747409347,0.3076156205675772,[6.0],3.0,3.0,3.0,Pentagonal pyramid,2a,1,6.0,Bi,0.0,True
+mp-1220207,NdBi3(Ru2O7)2,1.7151219489505127,0.7716046525139568,[8.0],3.0,3.0,3.0,Cube,3e,1,8.0,Bi,0.0,True
+mp-1220214,NdBiRu2O7,1.718273833898867,0.7734721155892608,[8.0],3.0,3.0,3.0,Cube,2c,1,8.0,Bi,0.0,True
+mp-1220276,Nd3Bi(Ru2O7)2,1.726955199401374,0.7689904792567368,[8.0],3.0,3.0,3.0,Cube,1a,1,8.0,Bi,0.0,True
+mp-1220421,NdTi12(Bi5O16)3,2.088918551220192,0.4489430263885,"[6.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Pentagonal pyramid, Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",1a,4,6.0,Bi,0.0,True
+mp-1220421,NdTi12(Bi5O16)3,2.088918551220192,0.4489430263885,"[6.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Pentagonal pyramid, Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",1a,4,8.0,Bi,0.0,True
+mp-1220526,NbInBi2O7,1.825942027254594,0.7332047577471511,[8.0],3.0,3.0,3.0,"Hexagonal bipyramid, Cube","2a, 2c",2,8.0,Bi,0.0,True
+mp-1220551,Nb4AgBi5O18,2.531301870973123,-0.0613091310540952,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism","1a, 2b",2,6.0,Bi,0.0,True
+mp-1220551,Nb4AgBi5O18,2.531301870973123,-0.0613091310540952,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism","1a, 2b",2,8.0,Bi,0.0,True
+mp-1220571,NbBi2O5F,2.9522928040073726,-0.8560951109702175,[5.0],3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism",4a,2,5.0,Bi,0.0,True
+mp-1220715,Nb3Fe(BiO3)6,2.095279001946032,0.4461962201560158,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",1a,2,6.0,Bi,0.0,True
+mp-1220715,Nb3Fe(BiO3)6,2.095279001946032,0.4461962201560158,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",1a,2,8.0,Bi,0.0,True
+mp-1220794,Nd3Ti12Bi13O48,2.060632334752741,0.4885776818506121,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped square antiprism, Square-face bicapped trigonal prism, Square-face capped trigonal prism",1a,4,6.0,Bi,0.0,True
+mp-1220794,Nd3Ti12Bi13O48,2.060632334752741,0.4885776818506121,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped square antiprism, Square-face bicapped trigonal prism, Square-face capped trigonal prism",1a,4,8.0,Bi,0.0,True
+mp-1220903,NaTi2BiO6,0.6405195059122855,1.950144488333904,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,1b,1,8.0,Bi,0.0,True
+mp-1220909,NaTa4Bi5O18,2.59704952773258,-0.1459180081621785,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism","1a, 2b",2,6.0,Bi,0.0,True
+mp-1220909,NaTa4Bi5O18,2.59704952773258,-0.1459180081621785,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism","1a, 2b",2,8.0,Bi,0.0,True
+mp-1220913,NaV2Bi3O10,2.00382876714117,0.5894970112493007,[6.0],3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism",1a,2,6.0,Bi,0.0,True
+mp-1221019,NaNb4Bi5O18,2.019716909606974,0.5185089021698027,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism","1a, 2b",3,6.0,Bi,0.0,True
+mp-1221019,NaNb4Bi5O18,2.019716909606974,0.5185089021698027,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism","1a, 2b",3,7.0,Bi,0.0,True
+mp-1221019,NaNb4Bi5O18,2.019716909606974,0.5185089021698027,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism","1a, 2b",3,8.0,Bi,0.0,True
+mp-1221124,NaBiTeO5,1.1838931638916417,1.692674987603781,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4e,1,7.0,Bi,0.0,True
+mp-1221182,NaCa2Nb8(BiO4)9,1.9302473618659204,0.6043094801202946,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism","1b, 2c",3,6.0,Bi,0.0,True
+mp-1221182,NaCa2Nb8(BiO4)9,1.9302473618659204,0.6043094801202946,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism","1b, 2c",3,7.0,Bi,0.0,True
+mp-1221182,NaCa2Nb8(BiO4)9,1.9302473618659204,0.6043094801202946,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism","1b, 2c",3,8.0,Bi,0.0,True
+mp-1221291,Na3Nb6Bi5O24,2.341114349411836,0.0972118225737389,"[5.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism",1a,2,5.0,Bi,0.0,True
+mp-1221291,Na3Nb6Bi5O24,2.341114349411836,0.0972118225737389,"[5.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism",1a,2,8.0,Bi,0.0,True
+mp-1221879,MnFeBiO5,2.5323716336362487,0.0224648308842107,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4g,1,8.0,Bi,0.0,True
+mp-1221942,Mn2Bi3Sb3O14,2.108150540494738,0.4182167974201451,[8.0],3.0,3.0,3.0,Cube,3e,1,8.0,Bi,0.0,True
+mp-1222044,MnBi12W2(ClO8)3,2.150620043173024,0.389986593928901,"[3.0, 4.0, 7.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square non-coplanar",1a,2,3.0,Bi,0.0,True
+mp-1222044,MnBi12W2(ClO8)3,2.150620043173024,0.389986593928901,"[3.0, 4.0, 7.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square non-coplanar",1a,2,4.0,Bi,0.0,True
+mp-1222044,MnBi12W2(ClO8)3,2.150620043173024,0.389986593928901,"[3.0, 4.0, 7.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square non-coplanar",1a,2,7.0,Bi,0.0,True
+mp-1222044,MnBi12W2(ClO8)3,2.150620043173024,0.389986593928901,"[3.0, 4.0, 7.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square non-coplanar",1a,2,9.0,Bi,0.0,True
+mp-1222927,LaMn8Bi3O20,3.672421073904293,-1.2019460854017263,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,1a,1,8.0,Bi,0.0,True
+mp-1222967,LaNi4(BiO4)3,1.4718715405225165,1.1026850292055816,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-1222967,LaNi4(BiO4)3,1.4718715405225165,1.1026850292055816,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Octahedron",1a,2,7.0,Bi,0.0,True
+mp-1222983,LaFe4(BiO4)3,1.6795631742481376,0.8950574518789887,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,"1a, 1b",1,8.0,Bi,0.0,True
+mp-1223095,La2Ti3(BiO6)2,1.731595390656122,0.8380248081479795,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2c,1,8.0,Bi,0.0,True
+mp-1223128,LaTi6Bi7O24,2.327288031139615,0.1253225873189273,[6.0],3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square antiprism",1a,3,6.0,Bi,0.0,True
+mp-1223389,KNaTi4(BiO6)2,0.2292037911223402,2.372249933748491,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,"1a, 1b",1,8.0,Bi,0.0,True
+mp-1223445,KNb4Bi5O18,2.537066289903726,-0.0423480242638857,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism","1a, 2b",2,6.0,Bi,0.0,True
+mp-1223445,KNb4Bi5O18,2.537066289903726,-0.0423480242638857,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism","1a, 2b",2,8.0,Bi,0.0,True
+mp-1223500,KBa3(BiO3)4,1.9682333508302583,0.6862221909963597,[6.0],4.25,4.25,4.25,Octahedron,"2h, 2g",1,6.0,Bi,0.0,True
+mp-1223518,KBa2(BiO3)3,1.558077661981481,1.9409830467472489,[6.0],4.33,4.33,4.33,Octahedron,"2d, 1b",1,6.0,Bi,0.0,True
+mp-1224654,GdTiNbBi2O9,2.309494445778458,0.2345822885399962,[6.0],3.0,3.0,3.0,Pentagonal pyramid,2a,1,6.0,Bi,0.0,True
+mp-1224998,GaBi3Sb2O11,1.950470906120796,0.5761854819840043,"[8.0, 9.0]",3.0,3.0,3.0,"Cube, Tricapped triangular prism (three square-face caps)",2a,2,8.0,Bi,0.0,True
+mp-1224998,GaBi3Sb2O11,1.950470906120796,0.5761854819840043,"[8.0, 9.0]",3.0,3.0,3.0,"Cube, Tricapped triangular prism (three square-face caps)",2a,2,9.0,Bi,0.0,True
+mp-1225148,GdFe4(BiO4)3,1.6028121715679735,0.9613906123096594,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,"1a, 1b",1,8.0,Bi,0.0,True
+mp-1225332,DyBiRu2O7,1.861450483222281,0.6034556426821409,[8.0],3.0,3.0,3.0,Cube,2d,1,8.0,Bi,0.0,True
+mp-1225336,Dy3Bi(Ru2O7)2,1.9234557970887267,0.5378951157268869,[8.0],3.0,3.0,3.0,Cube,1a,1,8.0,Bi,0.0,True
+mp-1225388,DyBi3(Ru2O7)2,1.7989029774758438,0.6804410423954239,[8.0],3.0,3.0,3.0,Cube,3e,1,8.0,Bi,0.0,True
+mp-1225394,EuTiNbBi2O9,1.9364509709237496,0.7735952475860364,"[6.0, 7.0]",3.0,3.0,3.0,Square-face capped trigonal prism,2a,1,6.0,Bi,0.0,True
+mp-1225394,EuTiNbBi2O9,1.9364509709237496,0.7735952475860364,"[6.0, 7.0]",3.0,3.0,3.0,Square-face capped trigonal prism,2a,1,7.0,Bi,0.0,True
+mp-1225422,Fe5Bi4O13F,1.6797906597899648,1.2472577795557622,[5.0],3.0,3.0,3.0,Square pyramid,8g,1,5.0,Bi,0.0,True
+mp-1225851,Cu2Bi3Sb3O14,2.3092122012263343,0.1881215597032069,[8.0],3.0,3.0,3.0,Cube,3e,1,8.0,Bi,0.0,True
+mp-1226955,Cd5Bi6(Cl3O2)4,2.314603662066193,-0.0366784079167334,"[4.0, 4.0]",3.0,3.0,3.0,Trigonal prism,"2i, 4l",1,4.0,Bi,0.0,True
+mp-1226955,Cd5Bi6(Cl3O2)4,2.314603662066193,-0.0366784079167334,"[4.0, 4.0]",3.0,3.0,3.0,Trigonal prism,"2i, 4l",1,4.0,Bi,0.0,True
+mp-1227107,CaGaBiB2O7,2.5583252064552475,-0.0729738226060523,[8.0],3.0,3.0,3.0,Square antiprism,2d,1,8.0,Bi,0.0,True
+mp-1227157,Ca5Bi6(Cl3O2)4,2.3006103737773564,-0.008384814963604,"[4.0, 4.0]",3.0,3.0,3.0,"Pentagonal plane, Trigonal prism","2i, 4l",2,4.0,Bi,0.0,True
+mp-1227157,Ca5Bi6(Cl3O2)4,2.3006103737773564,-0.008384814963604,"[4.0, 4.0]",3.0,3.0,3.0,"Pentagonal plane, Trigonal prism","2i, 4l",2,4.0,Bi,0.0,True
+mp-1227209,CaMnFeBiO6,1.4262677915241349,1.10704212933226,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2a,1,8.0,Bi,0.0,True
+mp-1227462,BiTeO4,2.173049001249932,0.1949726127434592,"[6.0, 8.0]",2.0,2.0,2.0,"Trigonal prism, Square antiprism","1a, 1b, 2c",2,6.0,Bi,0.0,True
+mp-1227462,BiTeO4,2.173049001249932,0.1949726127434592,"[6.0, 8.0]",2.0,2.0,2.0,"Trigonal prism, Square antiprism","1a, 1b, 2c",2,8.0,Bi,0.0,True
+mp-1227497,Bi2Pd3PtO8,3.028614432955934,-0.4644021084693521,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,2i,1,7.0,Bi,0.0,True
+mp-1227513,BaTiFe3(BiO4)3,2.895703686381168,-0.6722983152586377,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1227532,BaSrLuBiO6,2.1616997805627056,-0.1222370378888976,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1227556,BiSbWO6,2.008258121863875,0.5754950724640455,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,2c,1,7.0,Bi,0.0,True
+mp-1227566,Bi3PbWClO8,1.8721074902589887,0.7596486225220269,"[4.0, 8.0]",3.0,3.0,3.0,"Square non-coplanar, Cuboctahedron","1a, 1b",2,4.0,Bi,0.0,True
+mp-1227566,Bi3PbWClO8,1.8721074902589887,0.7596486225220269,"[4.0, 8.0]",3.0,3.0,3.0,"Square non-coplanar, Cuboctahedron","1a, 1b",2,8.0,Bi,0.0,True
+mp-1227572,Ca2HoMn4BiO12,1.827198044743157,0.6902331199114873,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,1b,1,8.0,Bi,0.0,True
+mp-1227592,Bi3PbWClO8,1.7060282932752675,0.888387297969578,"[4.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square antiprism","1a, 1b",2,4.0,Bi,0.0,True
+mp-1227592,Bi3PbWClO8,1.7060282932752675,0.888387297969578,"[4.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square antiprism","1a, 1b",2,8.0,Bi,0.0,True
+mp-1227621,Ca4Bi6O13,2.057160045307913,0.508201606030051,"[3.0, 5.0, 6.0]",3.0,3.0,3.0,"Triangular non-coplanar, Square pyramid, Octahedron","1a, 1b, 2c",3,3.0,Bi,0.0,True
+mp-1227621,Ca4Bi6O13,2.057160045307913,0.508201606030051,"[3.0, 5.0, 6.0]",3.0,3.0,3.0,"Triangular non-coplanar, Square pyramid, Octahedron","1a, 1b, 2c",3,5.0,Bi,0.0,True
+mp-1227621,Ca4Bi6O13,2.057160045307913,0.508201606030051,"[3.0, 5.0, 6.0]",3.0,3.0,3.0,"Triangular non-coplanar, Square pyramid, Octahedron","1a, 1b, 2c",3,6.0,Bi,0.0,True
+mp-1227635,CeBi2(Rh2O5)3,2.352647639794385,0.0620107075702476,[7.0],3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism","1b, 2c",2,7.0,Bi,0.0,True
+mp-1227641,Bi10Te2Br4O17,2.1525770188287305,0.2997273392376488,"[10.0, 4.0, 4.0, 8.0]",3.0,3.0,3.0,"Cube, Bicapped square prism (opposite faces), Square non-coplanar","1a, 2b",3,10.0,Bi,0.0,True
+mp-1227641,Bi10Te2Br4O17,2.1525770188287305,0.2997273392376488,"[10.0, 4.0, 4.0, 8.0]",3.0,3.0,3.0,"Cube, Bicapped square prism (opposite faces), Square non-coplanar","1a, 2b",3,4.0,Bi,0.0,True
+mp-1227641,Bi10Te2Br4O17,2.1525770188287305,0.2997273392376488,"[10.0, 4.0, 4.0, 8.0]",3.0,3.0,3.0,"Cube, Bicapped square prism (opposite faces), Square non-coplanar","1a, 2b",3,4.0,Bi,0.0,True
+mp-1227641,Bi10Te2Br4O17,2.1525770188287305,0.2997273392376488,"[10.0, 4.0, 4.0, 8.0]",3.0,3.0,3.0,"Cube, Bicapped square prism (opposite faces), Square non-coplanar","1a, 2b",3,8.0,Bi,0.0,True
+mp-1227670,Bi10Te2I4O17,2.041942116874016,0.4641023380631024,"[4.0, 9.0]",3.0,3.0,3.0,"Square-face capped square prism, Square non-coplanar, Square pyramid","1a, 1b, 4f",3,4.0,Bi,0.0,True
+mp-1227670,Bi10Te2I4O17,2.041942116874016,0.4641023380631024,"[4.0, 9.0]",3.0,3.0,3.0,"Square-face capped square prism, Square non-coplanar, Square pyramid","1a, 1b, 4f",3,9.0,Bi,0.0,True
+mp-1227674,Bi3Sb5Pb4O21,1.5137634626139262,1.1774139606726464,[7.0],3.0,3.0,3.0,Pentagonal bipyramid,1a,1,7.0,Bi,0.0,True
+mp-1227677,BaSrBiSbO6,1.9188202928395963,0.6233486505519223,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1227724,Ca3Mn4BiO12,1.5279245459847206,0.6867672538909956,[8.0],2.0,2.0,2.0,Square-face bicapped trigonal prism,1a,1,8.0,Bi,0.0,True
+mp-1227748,BaSr3Lu2(BiO6)2,2.1138993368665444,0.1521443792346009,[6.0],5.0,5.0,5.0,no_data,no_data,1,6.0,Bi,0.0,True
+mp-1227907,Ca2Ti5(Bi2O9)2,1.384883761063665,1.482579381268825,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4b,1,7.0,Bi,0.0,True
+mp-1228070,Bi5(PO5)3,2.028666855309477,0.5277926764885522,"[5.0, 6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Cube, Bicapped octahedron (cap faces with one atom in common), Square antiprism",2i,6,5.0,Bi,0.0,True
+mp-1228070,Bi5(PO5)3,2.028666855309477,0.5277926764885522,"[5.0, 6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Cube, Bicapped octahedron (cap faces with one atom in common), Square antiprism",2i,6,6.0,Bi,0.0,True
+mp-1228070,Bi5(PO5)3,2.028666855309477,0.5277926764885522,"[5.0, 6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Cube, Bicapped octahedron (cap faces with one atom in common), Square antiprism",2i,6,8.0,Bi,0.0,True
+mp-1228122,Ba6Bi2(TeO6)3,1.7470926722054605,0.8136045888370458,[6.0],3.0,3.0,3.0,Octahedron,2i,1,6.0,Bi,0.0,True
+mp-1228201,Ba4Sr2Lu3(BiO6)3,2.128439489112267,0.0618552563675677,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1228228,Al7Cr(Bi2O9)2,0.54231701606558,2.7754156267830483,[6.0],3.0,3.0,3.0,Octahedron,2e,1,6.0,Bi,0.0,True
+mp-1228277,Ba3CaBi2O9,1.9310164413678368,1.1108292737740897,[6.0],5.0,5.0,5.0,Octahedron,"1a, 2i, 1d",1,6.0,Bi,0.0,True
+mp-1228299,Ba3Bi2RuO9,1.9335164858113136,0.4912812050832295,[6.0],3.0,3.0,3.0,Octahedron,"1a, 2i, 1c",1,6.0,Bi,0.0,True
+mp-1228338,Ba4Bi3PbO12,2.204667038976296,0.0544628838009166,[6.0],4.0,4.0,4.0,Octahedron,"1a, 2i",1,6.0,Bi,0.0,True
+mp-1228361,Ba3BiIrRuO9,2.410768104480145,-0.1367129370750995,[6.0],3.0,3.0,3.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1228435,Ba3Bi2PbO9,2.2365141348511406,-0.0641496940579618,[6.0],4.0,4.0,4.0,Octahedron,"1a, 2i, 1c",1,6.0,Bi,0.0,True
+mp-1228534,Bi13Mo6(AsO14)3,2.133393239866036,0.4081581669663897,"[6.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,6.0,Bi,0.0,True
+mp-1228534,Bi13Mo6(AsO14)3,2.133393239866036,0.4081581669663897,"[6.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,8.0,Bi,0.0,True
+mp-1228575,Ba2Ga11BiO20,2.201116535837456,0.678000926625556,[3.0],3.0,3.0,3.0,Square pyramid,1a,1,3.0,Bi,0.0,True
+mp-1228615,BaNb6Bi6Pb2O27,1.7032179980787112,0.9123940402242964,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2e,1,8.0,Bi,0.0,True
+mp-1228636,BaNb4Bi4PbO18,2.18345013232854,0.5476027410919211,"[5.0, 7.0]",3.0,3.0,3.0,Square-face capped trigonal prism,"2d, 2e",1,5.0,Bi,0.0,True
+mp-1228636,BaNb4Bi4PbO18,2.18345013232854,0.5476027410919211,"[5.0, 7.0]",3.0,3.0,3.0,Square-face capped trigonal prism,"2d, 2e",1,7.0,Bi,0.0,True
+mp-1228794,Ba2V2BiPO11,0.0694672077492368,2.5994603280592807,[8.0],3.0,3.0,3.0,Square antiprism,4e,1,8.0,Bi,0.0,True
+mp-1228865,Ba10Ce(Bi3O10)3,2.252785348553773,-0.0365881512678054,[6.0],4.11,4.11,4.11,Octahedron,"1d, 2i",1,6.0,Bi,0.0,True
+mp-1228874,Ba10Nb3Bi7O30,2.0621659348867736,0.3895339169060576,[6.0],3.57,3.57,3.57,Octahedron,"1a, 2i",1,6.0,Bi,0.0,True
+mp-1228932,Ba11(Bi3O10)3,1.9858556003149004,0.7068662999552804,[6.0],4.22,4.22,4.22,Octahedron,"1e, 2i",1,6.0,Bi,0.0,True
+mp-1229110,AlBi3Sb2O11,1.960451438996108,0.5640747503955941,"[8.0, 9.0]",3.0,3.0,3.0,"Cube, Tricapped triangular prism (three square-face caps)",2a,2,8.0,Bi,0.0,True
+mp-1229110,AlBi3Sb2O11,1.960451438996108,0.5640747503955941,"[8.0, 9.0]",3.0,3.0,3.0,"Cube, Tricapped triangular prism (three square-face caps)",2a,2,9.0,Bi,0.0,True
+mp-1229239,BiRh7Pb2O15,1.8540715961533545,1.4127145710683238,[4.0],3.0,3.0,3.0,See-saw,4g,1,4.0,Bi,0.0,True
+mp-1229255,Ba2SrTa6(Bi2O9)3,1.7161051363842863,0.8887816007755014,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,"2i, 4l",1,8.0,Bi,0.0,True
+mp-1233703,MgBi4(P2O7)4,2.01571776241461,0.5890538546209879,"[6.0, 7.0]",3.5,3.5,3.5,"Pentagonal bipyramid, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-1233703,MgBi4(P2O7)4,2.01571776241461,0.5890538546209879,"[6.0, 7.0]",3.5,3.5,3.5,"Pentagonal bipyramid, Octahedron",1a,2,7.0,Bi,0.0,True
+mp-1275839,CoBi6(SO8)2,2.2408581123142475,0.2977110206588869,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,4.0,Bi,0.0,True
+mp-1275839,CoBi6(SO8)2,2.2408581123142475,0.2977110206588869,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,5.0,Bi,0.0,True
+mp-1275839,CoBi6(SO8)2,2.2408581123142475,0.2977110206588869,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,6.0,Bi,0.0,True
+mp-1275839,CoBi6(SO8)2,2.2408581123142475,0.2977110206588869,"[4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,7.0,Bi,0.0,True
+mp-1282897,CoBi6(SO8)2,2.2569101321888203,0.2698975358608272,"[4.0, 5.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism",2c,2,4.0,Bi,0.0,True
+mp-1282897,CoBi6(SO8)2,2.2569101321888203,0.2698975358608272,"[4.0, 5.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism",2c,2,5.0,Bi,0.0,True
+mp-1282897,CoBi6(SO8)2,2.2569101321888203,0.2698975358608272,"[4.0, 5.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism",2c,2,7.0,Bi,0.0,True
+mp-1290471,Li4Ni3BiO8,2.072184009060956,0.3185851108312955,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1296272,CoBi6(SO8)2,2.1317520603660247,0.4602399921491651,"[4.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,4.0,Bi,0.0,True
+mp-1296272,CoBi6(SO8)2,2.1317520603660247,0.4602399921491651,"[4.0, 7.0]",3.0,3.0,3.0,no_data,no_data,1,7.0,Bi,0.0,True
+mp-1304002,Li4Ni3BiO8,2.075720086330936,0.287774012518781,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1306933,CoBi6(SO8)2,2.20206014352256,0.3585383814507744,"[4.0, 5.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square pyramid, Square-face capped trigonal prism",2c,3,4.0,Bi,0.0,True
+mp-1306933,CoBi6(SO8)2,2.20206014352256,0.3585383814507744,"[4.0, 5.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square pyramid, Square-face capped trigonal prism",2c,3,5.0,Bi,0.0,True
+mp-1306933,CoBi6(SO8)2,2.20206014352256,0.3585383814507744,"[4.0, 5.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square pyramid, Square-face capped trigonal prism",2c,3,7.0,Bi,0.0,True
+mp-1307356,Li4Ni3BiO8,2.0760344532815296,0.2943848134584544,[6.0],5.0,5.0,5.0,Octahedron,"1b, 1c",1,6.0,Bi,0.0,True
+mp-1337097,Ca3Bi2O7,2.1355119997252325,0.2639755161059099,[6.0],4.0,4.0,4.0,Octahedron,4b,1,6.0,Bi,0.0,True
+mp-1364847,Cs5Bi(MoO4)4,0.1809853299312907,3.22851910082958,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1516254,BaNaBiWO6,2.253164975164657,0.1662900385740777,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1516677,BaSrDyBiO6,2.1263610181015773,0.0768355651991359,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1516784,Sr2CeBiO6,2.288935898092702,-0.0843362505261375,[6.0],5.0,5.0,5.0,Octahedron,2c,1,6.0,Bi,0.0,True
+mp-1516788,BaCaSmBiO6,2.266897676906888,-0.6008049858817195,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1516910,BaCaSmBiO6,2.1479200585512124,0.0077608482205828,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1516990,Sr2PrBiO6,2.1801986177347006,-0.1604271383737952,[6.0],5.0,5.0,5.0,Octahedron,2c,1,6.0,Bi,0.0,True
+mp-1518025,BaCaInBiO6,2.186190838328314,-0.1527485691088316,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1518032,BaCaInBiO6,2.148900176806202,0.0026410014820088,[6.0],5.0,5.0,5.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-1518035,BaSrGdBiO6,2.1452302571179347,-0.0173105760914428,[6.0],5.0,5.0,5.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-1518043,BaSrGdBiO6,2.159239217677872,-0.0319620557615018,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1518059,Ca2YBiO6,2.1672996339839803,-0.264519306341698,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1518078,BaSrSmBiO6,2.139582180539812,0.0175478477892758,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1518084,Sr2LaBiO6,2.176731149343913,-0.124305002133551,[6.0],5.0,5.0,5.0,Octahedron,2c,1,6.0,Bi,0.0,True
+mp-1518216,KCaCeBiO6,2.161942811052381,-0.0773795444691164,[6.0],5.0,5.0,5.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1518219,BaSrTbBiO6,2.1418417919589023,-0.0278022089247498,[6.0],5.0,5.0,5.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-1518348,BaSrBiSbO6,2.36983135836469,-0.0167727014149599,[6.0],3.0,3.0,3.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1518566,BaSrBiSbO6,2.348028332019407,-0.003487272129581,[6.0],3.0,3.0,3.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1518633,BaCaTbBiO6,2.153717462486895,-0.0325697780525428,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1518827,BaCaTbBiO6,2.2548430310920407,-0.5436326684334568,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1518927,BaSrCeBiO6,2.266574537078379,-0.0021303505725713,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1519048,BaSrPrBiO6,2.1377371219321515,0.0536734908953102,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1519122,BaSrCeBiO6,2.246016042290762,0.0792914354467662,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1519157,SrCaLaBiO6,2.1723346293194443,-0.12605678093309,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1519230,NaSrCeBiO6,2.130201032049023,0.0581835904091678,[6.0],5.0,5.0,5.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-1519241,BaCaLaBiO6,2.142614590271313,-0.0185424711070679,[6.0],5.0,5.0,5.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-1519269,BaSrNdBiO6,2.1695813719254087,-0.0689665136227044,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1519376,BaSrNdBiO6,2.1365174299335985,0.0607682429278226,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1519525,BaNaCeBiO6,2.13320488444014,0.0996645807943043,[6.0],5.0,5.0,5.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-1520398,SrCaTbBiO6,2.1692418451128184,-0.1032955065210734,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1520532,SrCaDyBiO6,2.16502313348538,-0.1174385755964513,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-1520639,SrCaDyBiO6,2.1174399424538173,0.0682271052147072,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1520660,BaCaDyBiO6,2.101890426672864,0.2495046889677714,[6.0],5.0,5.0,5.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1520670,BaCaDyBiO6,2.255115511238792,-0.5905351132614594,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1520732,SrCaGdBiO6,2.208252638237256,-0.3057876715191737,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1520775,BaSrLaBiO6,2.155363961433622,0.026599333004722,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-1520791,BaNaZrBiO6,2.0390881514514487,0.5545056055603012,[6.0],5.0,5.0,5.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-1520985,BaSrNbBiO6,2.4141777282593653,-0.074634424485461,[6.0],3.0,3.0,3.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1521109,SrCaYBiO6,2.181893581696781,-0.1805258045628343,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1522203,BaSrEuBiO6,2.132982914274129,0.0689468192205427,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1522224,BaSrLaBiO6,2.170546565516005,-0.0784625277800462,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1522279,BaCaLaBiO6,2.266499793377053,-0.5651116993894235,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1522312,BaCaLaBiO6,2.074742828601824,0.3988199571612315,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1522424,BaSrLaBiO6,2.1380358134875346,0.0565192643546674,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1522436,BaSrEuBiO6,2.164078767428928,0.0002747419980178,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1522866,BaCaPrBiO6,2.1552048776291324,-0.0253065253193242,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1522977,BaCaNdBiO6,2.1535265626992923,-0.0207474859622821,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1522982,BaCaNdBiO6,2.2695996566062857,-0.6013195056270204,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1523003,BaCaPrBiO6,2.28102639129263,-0.6587522559656944,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1523104,SrCaSmBiO6,2.2151808279003533,-0.3432930786940934,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1523185,KSrCeBiO6,2.151169292776672,-0.0526171705955296,[6.0],5.0,5.0,5.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-1523189,SrCaSmBiO6,2.111487653630904,0.141612015202437,[6.0],5.0,5.0,5.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-1523201,BaCaGdBiO6,2.252994743085737,-0.5221212573905516,[6.0],5.0,5.0,5.0,Octahedron,"1f, 1c",1,6.0,Bi,0.0,True
+mp-1523231,BaCaGdBiO6,2.1573859896668006,-0.0339092405259821,[6.0],5.0,5.0,5.0,Octahedron,4u,1,6.0,Bi,0.0,True
+mp-1540429,LiBiO2,2.0584419591286096,1.4746124590517735,[4.0],3.0,3.0,3.0,See-saw,4f,1,4.0,Bi,0.0,True
+mp-1569254,Li2Ni2BiO6,2.135961704950744,0.1099530541920887,[6.0],5.0,5.0,5.0,Octahedron,"1a, 1b",1,6.0,Bi,0.0,True
+mp-1638973,Mn4Cu3BiO12,2.99457413857509,-0.2616511789954461,[12.0],3.0,3.0,3.0,Icosahedron,1a,1,12.0,Bi,0.0,True
+mp-1851458,CaBiMoO5,1.914906296594857,0.8076756892075766,[5.0],3.0,3.0,3.0,Square pyramid,8c,1,5.0,Bi,0.0,True
+mp-2045219,Li5BiO5,2.063650821811556,0.1499374810643786,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-2207782,Hf2Bi2O7,1.5697138153718238,1.121933049793274,[7.0],3.0,3.0,3.0,Face-capped octahedron,2c,1,7.0,Bi,0.0,True
+mp-23018,BiSbO4,1.629801874590203,0.9809758563315892,[8.0],3.0,3.0,3.0,Square antiprism,2e,1,8.0,Bi,0.0,True
+mp-23064,Bi2MoO6,2.2833593452757115,0.3306653851654926,"[6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",4a,2,6.0,Bi,0.0,True
+mp-23064,Bi2MoO6,2.2833593452757115,0.3306653851654926,"[6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",4a,2,7.0,Bi,0.0,True
+mp-23093,Sr2NdBiO6,2.168606502217338,-0.0803437166826105,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-23100,Sr2LuBiO6,2.1427149963128125,0.0041049176181003,[6.0],5.0,5.0,5.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-23101,Nb2Bi2PbO9,1.704404683491181,0.905332691210978,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2e,1,8.0,Bi,0.0,True
+mp-23136,KBi(WO4)2,2.272153520503015,0.1415143964747071,[6.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,2e,1,6.0,Bi,0.0,True
+mp-23195,Bi2O3,1.971364510755784,0.9789583950800916,[5.0],3.0,3.0,3.0,Square pyramid,8e,1,5.0,Bi,0.0,True
+mp-23262,Bi2O3,2.0609241147304087,0.7324301748455821,"[5.0, 6.0]",3.0,3.0,3.0,"Square pyramid, Octahedron",4e,2,5.0,Bi,0.0,True
+mp-23262,Bi2O3,2.0609241147304087,0.7324301748455821,"[5.0, 6.0]",3.0,3.0,3.0,"Square pyramid, Octahedron",4e,2,6.0,Bi,0.0,True
+mp-23334,Bi2TeO5,2.170560679834304,0.4069879114432251,"[5.0, 7.0, 8.0]",3.0,3.0,3.0,"Dodecahedron with triangular faces - p2345 plane normalized, Square pyramid, Square-face capped trigonal prism","4d, 2c",3,5.0,Bi,0.0,True
+mp-23334,Bi2TeO5,2.170560679834304,0.4069879114432251,"[5.0, 7.0, 8.0]",3.0,3.0,3.0,"Dodecahedron with triangular faces - p2345 plane normalized, Square pyramid, Square-face capped trigonal prism","4d, 2c",3,7.0,Bi,0.0,True
+mp-23334,Bi2TeO5,2.170560679834304,0.4069879114432251,"[5.0, 7.0, 8.0]",3.0,3.0,3.0,"Dodecahedron with triangular faces - p2345 plane normalized, Square pyramid, Square-face capped trigonal prism","4d, 2c",3,8.0,Bi,0.0,True
+mp-23341,Bi2Pt2O7,1.777482610311509,0.6920421851113041,[8.0],3.0,3.0,3.0,Cube,4d,1,8.0,Bi,0.0,True
+mp-23349,Bi(BO2)3,3.716093487393272,-1.7064840826213108,[6.0],3.0,3.0,3.0,Trigonal prism,1a,1,6.0,Bi,0.0,True
+mp-23352,Ge(Bi3O5)4,2.2748220311392275,0.3201512851309088,[5.0],3.0,3.0,3.0,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-23356,Bi4B2O9,1.9918248202861049,0.5664001487365087,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism, Octahedron",4e,3,6.0,Bi,0.0,True
+mp-23356,Bi4B2O9,1.9918248202861049,0.5664001487365087,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism, Octahedron",4e,3,7.0,Bi,0.0,True
+mp-23356,Bi4B2O9,1.9918248202861049,0.5664001487365087,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism, Octahedron",4e,3,8.0,Bi,0.0,True
+mp-23357,Sr2Bi2O5,2.0856104914708324,0.5506611139692563,[3.0],3.0,3.0,3.0,Triangular non-coplanar,4c,1,3.0,Bi,0.0,True
+mp-23372,Sn2Bi2O7,1.7963015929542177,0.7263067233483362,[8.0],3.0,3.0,3.0,Cube,4d,1,8.0,Bi,0.0,True
+mp-23388,Bi2(MoO4)3,2.6472317054877204,-0.1791917704459859,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4e,1,8.0,Bi,0.0,True
+mp-23413,NbBiO4,1.4110023587340688,1.4843283430374208,[6.0],3.0,3.0,3.0,Trigonal prism,4c,1,6.0,Bi,0.0,True
+mp-23423,Bi2MoO6,2.1642115218806737,0.3939355629824672,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, End-trigonal-face capped trigonal prism, Cube, Square antiprism",4e,5,6.0,Bi,0.0,True
+mp-23423,Bi2MoO6,2.1642115218806737,0.3939355629824672,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, End-trigonal-face capped trigonal prism, Cube, Square antiprism",4e,5,7.0,Bi,0.0,True
+mp-23423,Bi2MoO6,2.1642115218806737,0.3939355629824672,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, End-trigonal-face capped trigonal prism, Cube, Square antiprism",4e,5,8.0,Bi,0.0,True
+mp-23427,Ti3(BiO3)4,2.321343620795305,0.1832597957304002,[6.0],3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism",4b,2,6.0,Bi,0.0,True
+mp-23445,Bi2Ru2O7,1.7055962799274262,0.7506667159725934,[8.0],3.0,3.0,3.0,Cube,4d,1,8.0,Bi,0.0,True
+mp-23446,GeBi2O5,2.147482358720955,0.4720641779504245,[7.0],3.0,3.0,3.0,Pentagonal pyramid,4b,1,7.0,Bi,0.0,True
+mp-23480,Bi2WO6,2.188044887712618,0.4422667900859091,"[6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",4a,2,6.0,Bi,0.0,True
+mp-23480,Bi2WO6,2.188044887712618,0.4422667900859091,"[6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",4a,2,7.0,Bi,0.0,True
+mp-23492,Si(Bi3O5)4,2.25900361048002,0.3581324610546018,[5.0],3.0,3.0,3.0,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-23494,Ti(Bi3O5)4,2.283799032979493,0.2986247677116537,[5.0],3.0,3.0,3.0,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-23532,NiBiO3,0.787234089772534,1.8565235691697712,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4c,1,8.0,Bi,0.0,True
+mp-23544,Bi4Br2O5,1.870280643583836,0.7214411502529962,"[3.0, 3.0, 4.0, 5.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, End-trigonal-face capped trigonal prism, Square pyramid, Square non-coplanar, Triangular non-coplanar, Pentagonal plane",2a,6,3.0,Bi,0.0,True
+mp-23544,Bi4Br2O5,1.870280643583836,0.7214411502529962,"[3.0, 3.0, 4.0, 5.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, End-trigonal-face capped trigonal prism, Square pyramid, Square non-coplanar, Triangular non-coplanar, Pentagonal plane",2a,6,3.0,Bi,0.0,True
+mp-23544,Bi4Br2O5,1.870280643583836,0.7214411502529962,"[3.0, 3.0, 4.0, 5.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, End-trigonal-face capped trigonal prism, Square pyramid, Square non-coplanar, Triangular non-coplanar, Pentagonal plane",2a,6,4.0,Bi,0.0,True
+mp-23544,Bi4Br2O5,1.870280643583836,0.7214411502529962,"[3.0, 3.0, 4.0, 5.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, End-trigonal-face capped trigonal prism, Square pyramid, Square non-coplanar, Triangular non-coplanar, Pentagonal plane",2a,6,5.0,Bi,0.0,True
+mp-23544,Bi4Br2O5,1.870280643583836,0.7214411502529962,"[3.0, 3.0, 4.0, 5.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, End-trigonal-face capped trigonal prism, Square pyramid, Square non-coplanar, Triangular non-coplanar, Pentagonal plane",2a,6,5.0,Bi,0.0,True
+mp-23544,Bi4Br2O5,1.870280643583836,0.7214411502529962,"[3.0, 3.0, 4.0, 5.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, End-trigonal-face capped trigonal prism, Square pyramid, Square non-coplanar, Triangular non-coplanar, Pentagonal plane",2a,6,6.0,Bi,0.0,True
+mp-23544,Bi4Br2O5,1.870280643583836,0.7214411502529962,"[3.0, 3.0, 4.0, 5.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, End-trigonal-face capped trigonal prism, Square pyramid, Square non-coplanar, Triangular non-coplanar, Pentagonal plane",2a,6,7.0,Bi,0.0,True
+mp-23549,Bi3B5O12,2.1574234369059653,0.3732079480718816,"[3.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism","4c, 8d",2,3.0,Bi,0.0,True
+mp-23549,Bi3B5O12,2.1574234369059653,0.3732079480718816,"[3.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism","4c, 8d",2,7.0,Bi,0.0,True
+mp-23553,GeBi2O5,2.4267373119772144,0.1009525107837039,[7.0],3.0,3.0,3.0,Face-capped octahedron,4c,1,7.0,Bi,0.0,True
+mp-23558,Ag2BiO3,2.1713192121580422,0.1064530862926528,[6.0],3.0,3.0,3.0,Octahedron,"2b, 2a",1,6.0,Bi,0.0,True
+mp-23565,Cr4AgBiO14,1.2547238092770032,1.2061916385131606,[8.0],3.0,3.0,3.0,Square antiprism,1a,1,8.0,Bi,0.0,True
+mp-23595,CoBiPO5,1.7671633873262984,0.9342891550149468,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-23602,TaBi4ClO8,1.8530558165454365,0.8675814868533507,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",8d,2,4.0,Bi,0.0,True
+mp-23602,TaBi4ClO8,1.8530558165454365,0.8675814868533507,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",8d,2,7.0,Bi,0.0,True
+mp-23611,BaTa2Bi2O9,1.6980377263820363,0.9178724152305284,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2e,1,8.0,Bi,0.0,True
+mp-23621,NaBi(PO3)4,2.1608749850855844,0.3206619219308519,[8.0],3.0,3.0,3.0,Square antiprism,4e,1,8.0,Bi,0.0,True
+mp-23630,NbBi4ClO8,1.861462781840128,0.8481094585736757,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",8d,2,4.0,Bi,0.0,True
+mp-23630,NbBi4ClO8,1.861462781840128,0.8481094585736757,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",8d,2,7.0,Bi,0.0,True
+mp-23637,VBiPbO5,1.9693581055960148,0.6794607171913863,[5.0],3.0,3.0,3.0,Square-face capped trigonal prism,2i,1,5.0,Bi,0.0,True
+mp-23642,VBiPbO5,1.7574863362209263,0.912511803036706,[6.0],3.0,3.0,3.0,Trigonal prism,2i,1,6.0,Bi,0.0,True
+mp-23645,KBiS(ClO2)2,1.183075083115395,1.3679099840986797,[5.0],3.0,3.0,3.0,Pentagonal bipyramid,4a,1,5.0,Bi,0.0,True
+mp-24348,BiP4HO12,2.1943946832790813,0.2662701603841043,[7.0],3.0,3.0,3.0,Pentagonal bipyramid,2i,1,7.0,Bi,0.0,True
+mp-25096,NiBiO3,0.7787060740586979,1.8223808352487136,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2e,1,8.0,Bi,0.0,True
+mp-25257,Li15Bi4(PdO10)2,2.0517551386501074,0.5247303421599496,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-25881,LiBi(PO3)4,2.0358408113889928,0.4451351246442153,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4e,1,7.0,Bi,0.0,True
+mp-25929,Li3Bi2(PO4)3,1.8236421081343324,0.8021006118182299,[6.0],3.0,3.0,3.0,Octahedron,2c,1,6.0,Bi,0.0,True
+mp-25959,LiBi(PO3)4,0.6932261529483219,2.4279933362470723,[6.0],3.0,3.0,3.0,Trigonal prism,2i,1,6.0,Bi,0.0,True
+mp-26129,LiBiP2O7,1.3691829573346948,1.2963042805663556,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,8.0,Bi,0.0,True
+mp-26173,LiBi3(PO5)2,2.04598251814864,0.4912470983779789,"[5.0, 8.0]",3.0,3.0,3.0,"Square pyramid, Square antiprism",1a,2,5.0,Bi,0.0,True
+mp-26173,LiBi3(PO5)2,2.04598251814864,0.4912470983779789,"[5.0, 8.0]",3.0,3.0,3.0,"Square pyramid, Square antiprism",1a,2,8.0,Bi,0.0,True
+mp-26209,LiBiP2O7,2.034145715706869,0.4886841044277738,[6.0],3.0,3.0,3.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-26245,Li3Bi2P5O18,1.9859392838128,0.7926984203624798,[6.0],4.0,4.0,4.0,Octahedron,2i,1,6.0,Bi,0.0,True
+mp-26377,Li5Bi2P5O18,1.863950285128088,0.7482869014964738,[6.0],3.0,3.0,3.0,Octahedron,2i,1,6.0,Bi,0.0,True
+mp-26835,Li3Bi5(PO4)6,2.0337001683151428,0.5301306645125765,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-27069,Li3Bi2(PO4)3,2.189236963306469,0.2696137321160763,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-27135,Bi(PO3)3,1.7861885695849176,0.7665228559139037,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4e,1,7.0,Bi,0.0,True
+mp-27251,Bi2TeO6,2.4468794975489407,-0.1516023696074077,[5.0],3.0,3.0,3.0,Square-face capped square prism,4f,1,5.0,Bi,0.0,True
+mp-27345,Na3BiO4,1.9877629218212665,0.9250549031533152,[6.0],5.0,5.0,5.0,Octahedron,2e,1,6.0,Bi,0.0,True
+mp-2741710,Bi3PO7,1.9222394072943825,0.6423070259912146,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism",2b,4,6.0,Bi,0.0,True
+mp-2741710,Bi3PO7,1.9222394072943825,0.6423070259912146,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism",2b,4,7.0,Bi,0.0,True
+mp-2741710,Bi3PO7,1.9222394072943825,0.6423070259912146,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism",2b,4,8.0,Bi,0.0,True
+mp-2755713,Bi3IO4,2.05617892572852,0.4297011696661639,"[4.0, 8.0]",3.0,3.0,3.0,"Cube, Square non-coplanar","4b, 8f",2,4.0,Bi,0.0,True
+mp-2755713,Bi3IO4,2.05617892572852,0.4297011696661639,"[4.0, 8.0]",3.0,3.0,3.0,"Cube, Square non-coplanar","4b, 8f",2,8.0,Bi,0.0,True
+mp-2756056,Bi3ClO4,2.0501003006704392,0.4168906609478796,"[4.0, 8.0]",3.0,3.0,3.0,"Cube, Square non-coplanar","2a, 4i",2,4.0,Bi,0.0,True
+mp-2756056,Bi3ClO4,2.0501003006704392,0.4168906609478796,"[4.0, 8.0]",3.0,3.0,3.0,"Cube, Square non-coplanar","2a, 4i",2,8.0,Bi,0.0,True
+mp-2759927,Ca4Bi6O13,2.038077745313751,0.4899685788502589,"[3.0, 5.0, 6.0]",3.0,3.0,3.0,"Triangular non-coplanar, Square pyramid, Octahedron","1a, 1b, 2c",3,3.0,Bi,0.0,True
+mp-2759927,Ca4Bi6O13,2.038077745313751,0.4899685788502589,"[3.0, 5.0, 6.0]",3.0,3.0,3.0,"Triangular non-coplanar, Square pyramid, Octahedron","1a, 1b, 2c",3,5.0,Bi,0.0,True
+mp-2759927,Ca4Bi6O13,2.038077745313751,0.4899685788502589,"[3.0, 5.0, 6.0]",3.0,3.0,3.0,"Triangular non-coplanar, Square pyramid, Octahedron","1a, 1b, 2c",3,6.0,Bi,0.0,True
+mp-2762127,Ba8Bi4O17,2.0774472651912985,0.4117660891806606,"[5.0, 6.0]",4.5,4.5,4.5,"Trigonal bipyramid, Octahedron",1a,2,5.0,Bi,0.0,True
+mp-2762127,Ba8Bi4O17,2.0774472651912985,0.4117660891806606,"[5.0, 6.0]",4.5,4.5,4.5,"Trigonal bipyramid, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-2763318,La2Bi4O9,1.9131437294761628,0.8655070304303859,"[5.0, 6.0]",3.0,3.0,3.0,"Trigonal prism, Square pyramid",2c,2,5.0,Bi,0.0,True
+mp-2763318,La2Bi4O9,1.9131437294761628,0.8655070304303859,"[5.0, 6.0]",3.0,3.0,3.0,"Trigonal prism, Square pyramid",2c,2,6.0,Bi,0.0,True
+mp-28253,LiBiO2,2.0581148699500185,0.8025227509404156,[4.0],3.0,3.0,3.0,See-saw,4j,1,4.0,Bi,0.0,True
+mp-28287,ReBi3O8,2.2319780506884266,0.3560301393411512,"[7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism",12b,2,7.0,Bi,0.0,True
+mp-28287,ReBi3O8,2.2319780506884266,0.3560301393411512,"[7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism",12b,2,8.0,Bi,0.0,True
+mp-28510,Li3BiO3,2.091033773810636,-0.3296012359053714,[3.0],3.0,3.0,3.0,Triangular non-coplanar,2i,1,3.0,Bi,0.0,True
+mp-28541,Bi2P4O13,1.493511609609529,1.0564378288643117,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4f,1,8.0,Bi,0.0,True
+mp-28632,Ga(Bi3O5)4,2.2353884234322416,0.4681819639314776,[5.0],3.17,3.17,3.17,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-28670,Ba2Bi2O5,1.7633744682879666,1.855140826903217,[4.0],3.0,3.0,3.0,See-saw,4e,1,4.0,Bi,0.0,True
+mp-28812,Ag5BiO4,1.6784328253208856,1.2272708578723142,[5.0],3.0,3.0,3.0,Square pyramid,4e,1,5.0,Bi,0.0,True
+mp-28848,Ca2Bi2O5,2.0424936530672624,0.6941346252574699,"[4.0, 6.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",2i,3,4.0,Bi,0.0,True
+mp-28848,Ca2Bi2O5,2.0424936530672624,0.6941346252574699,"[4.0, 6.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",2i,3,6.0,Bi,0.0,True
+mp-28962,Ti4Bi2O11,3.270874723024611,-1.703703652209811,[5.0],3.0,3.0,3.0,Square pyramid,2i,1,5.0,Bi,0.0,True
+mp-28990,Bi2Te4O11,2.418092794746072,0.0999611729335006,"[7.0, 8.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face bicapped trigonal prism",4e,2,7.0,Bi,0.0,True
+mp-28990,Bi2Te4O11,2.418092794746072,0.0999611729335006,"[7.0, 8.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face bicapped trigonal prism",4e,2,8.0,Bi,0.0,True
+mp-28996,Ag4Bi2O5,2.663621989393433,-0.1937837374586221,[5.0],3.0,3.0,3.0,Square pyramid,8e,1,5.0,Bi,0.0,True
+mp-2903109,TlBi(SO4)2,3.6266727142366313,-1.1819219507607186,[8.0],3.0,3.0,3.0,no_data,no_data,1,8.0,Bi,0.0,True
+mp-29048,Sr(BiO2)2,2.037521262080912,0.4516818030143742,[4.0],3.0,3.0,3.0,See-saw,2i,1,4.0,Bi,0.0,True
+mp-29058,V3(Bi3O8)2,2.2115524742498245,0.4467308352544364,"[4.0, 6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism","4c, 8d",3,4.0,Bi,0.0,True
+mp-29058,V3(Bi3O8)2,2.2115524742498245,0.4467308352544364,"[4.0, 6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism","4c, 8d",3,6.0,Bi,0.0,True
+mp-29058,V3(Bi3O8)2,2.2115524742498245,0.4467308352544364,"[4.0, 6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism","4c, 8d",3,7.0,Bi,0.0,True
+mp-29365,Li5BiO5,2.08473107522492,0.1962504280320383,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-29447,Bi3BrO4,2.0300410066945647,0.5860113651007495,"[3.0, 8.0]",3.0,3.0,3.0,"Cube, Triangular non-coplanar","4c, 8e",2,3.0,Bi,0.0,True
+mp-29447,Bi3BrO4,2.0300410066945647,0.5860113651007495,"[3.0, 8.0]",3.0,3.0,3.0,"Cube, Triangular non-coplanar","4c, 8e",2,8.0,Bi,0.0,True
+mp-29542,K4Bi2O5,2.06660180974292,0.8468413025540876,"[3.0, 4.0]",3.0,3.0,3.0,"See-saw, Triangular non-coplanar",2i,2,3.0,Bi,0.0,True
+mp-29542,K4Bi2O5,2.06660180974292,0.8468413025540876,"[3.0, 4.0]",3.0,3.0,3.0,"See-saw, Triangular non-coplanar",2i,2,4.0,Bi,0.0,True
+mp-29558,Bi3ClO4,2.04423149723286,0.5941092595806665,"[3.0, 8.0]",3.0,3.0,3.0,"Cube, Triangular non-coplanar","2e, 4f",2,3.0,Bi,0.0,True
+mp-29558,Bi3ClO4,2.04423149723286,0.5941092595806665,"[3.0, 8.0]",3.0,3.0,3.0,"Cube, Triangular non-coplanar","2e, 4f",2,8.0,Bi,0.0,True
+mp-29680,Ta2Bi4O11,2.250286791129344,0.2287647414372621,"[6.0, 7.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron, Pentagonal pyramid",2i,3,6.0,Bi,0.0,True
+mp-29680,Ta2Bi4O11,2.250286791129344,0.2287647414372621,"[6.0, 7.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron, Pentagonal pyramid",2i,3,7.0,Bi,0.0,True
+mp-29782,Bi2W2O9,2.114164855714624,0.4838140452039764,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,8d,1,7.0,Bi,0.0,True
+mp-29833,Bi2(SeO3)3,1.8664545339495544,0.6910985555909278,[8.0],3.0,3.0,3.0,"Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",4e,2,8.0,Bi,0.0,True
+mp-29839,Bi2SeO5,2.143551597807756,0.4115453367835823,"[5.0, 7.0, 8.0]",3.0,3.0,3.0,"Dodecahedron with triangular faces - p2345 plane normalized, Square pyramid, Square-face capped trigonal prism","4d, 2c",3,5.0,Bi,0.0,True
+mp-29839,Bi2SeO5,2.143551597807756,0.4115453367835823,"[5.0, 7.0, 8.0]",3.0,3.0,3.0,"Dodecahedron with triangular faces - p2345 plane normalized, Square pyramid, Square-face capped trigonal prism","4d, 2c",3,7.0,Bi,0.0,True
+mp-29839,Bi2SeO5,2.143551597807756,0.4115453367835823,"[5.0, 7.0, 8.0]",3.0,3.0,3.0,"Dodecahedron with triangular faces - p2345 plane normalized, Square pyramid, Square-face capped trigonal prism","4d, 2c",3,8.0,Bi,0.0,True
+mp-30120,K3BiO4,2.1311584127752248,1.3789306876830472,[5.0],5.0,5.0,5.0,Trigonal bipyramid,2i,1,5.0,Bi,0.0,True
+mp-30205,Cr2(Bi2O5)3,2.2156892737652205,0.3040134780056682,"[4.0, 5.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square pyramid",4d,2,4.0,Bi,0.0,True
+mp-30205,Cr2(Bi2O5)3,2.2156892737652205,0.3040134780056682,"[4.0, 5.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square pyramid",4d,2,5.0,Bi,0.0,True
+mp-30303,Bi4O7,1.514543943883261,1.4452233906277328,"[6.0, 7.0]",3.5,3.5,3.5,"Square-face capped trigonal prism, Octahedron","1a, 2i, 1b",2,6.0,Bi,0.0,True
+mp-30303,Bi4O7,1.514543943883261,1.4452233906277328,"[6.0, 7.0]",3.5,3.5,3.5,"Square-face capped trigonal prism, Octahedron","1a, 2i, 1b",2,7.0,Bi,0.0,True
+mp-30304,Bi3SbO7,2.0059414890779044,0.6593666977037479,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Pentagonal pyramid, Square-face capped trigonal prism",2i,3,6.0,Bi,0.0,True
+mp-30304,Bi3SbO7,2.0059414890779044,0.6593666977037479,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Pentagonal pyramid, Square-face capped trigonal prism",2i,3,7.0,Bi,0.0,True
+mp-30900,TaBiO4,1.3548607828166876,1.566809048445937,[6.0],3.0,3.0,3.0,Trigonal prism,4c,1,6.0,Bi,0.0,True
+mp-31289,Bi5NO10,2.165214399235265,0.4562009186719555,"[3.0, 4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"See-saw, Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism",4e,4,3.0,Bi,0.0,True
+mp-31289,Bi5NO10,2.165214399235265,0.4562009186719555,"[3.0, 4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"See-saw, Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism",4e,4,4.0,Bi,0.0,True
+mp-31289,Bi5NO10,2.165214399235265,0.4562009186719555,"[3.0, 4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"See-saw, Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism",4e,4,5.0,Bi,0.0,True
+mp-31289,Bi5NO10,2.165214399235265,0.4562009186719555,"[3.0, 4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"See-saw, Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism",4e,4,6.0,Bi,0.0,True
+mp-31289,Bi5NO10,2.165214399235265,0.4562009186719555,"[3.0, 4.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"See-saw, Square-face capped trigonal prism, Pentagonal pyramid, Square antiprism",4e,4,7.0,Bi,0.0,True
+mp-32597,Bi13O20,2.101968379675358,0.5516358220926373,"[4.0, 5.0]",3.08,3.08,3.08,"Tetrahedron, Square pyramid","12f, 1a",2,4.0,Bi,0.0,True
+mp-32597,Bi13O20,2.101968379675358,0.5516358220926373,"[4.0, 5.0]",3.08,3.08,3.08,"Tetrahedron, Square pyramid","12f, 1a",2,5.0,Bi,0.0,True
+mp-35185,NbBi3O7,2.365148881153392,0.096226693377454,"[5.0, 7.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron, Trigonal bipyramid",1a,3,5.0,Bi,0.0,True
+mp-35185,NbBi3O7,2.365148881153392,0.096226693377454,"[5.0, 7.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron, Trigonal bipyramid",1a,3,7.0,Bi,0.0,True
+mp-35799,Hf2Bi2O7,1.5684519863812612,1.1242144808473775,[7.0],3.0,3.0,3.0,Face-capped octahedron,2c,1,7.0,Bi,0.0,True
+mp-38487,Li7BiO6,2.0182517899628767,0.5797592066013697,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-504354,LiBi(PO3)4,2.05618016987793,0.4070469390306231,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,2e,1,8.0,Bi,0.0,True
+mp-504468,Bi3Ru3O11,1.975024677619821,0.5225680242831804,"[8.0, 9.0]",3.0,3.0,3.0,"Cube, Tricapped triangular prism (three square-face caps)","4c, 8e",2,8.0,Bi,0.0,True
+mp-504468,Bi3Ru3O11,1.975024677619821,0.5225680242831804,"[8.0, 9.0]",3.0,3.0,3.0,"Cube, Tricapped triangular prism (three square-face caps)","4c, 8e",2,9.0,Bi,0.0,True
+mp-504697,Mn2BiO5,3.2132869787834464,-0.708650280204152,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4h,1,8.0,Bi,0.0,True
+mp-505104,Cu3BiSe2ClO8,1.7343194121574208,0.8172669894471923,[8.0],3.0,3.0,3.0,Cube,2a,1,8.0,Bi,0.0,True
+mp-505145,Ag3BiO3,1.7351147323123215,1.295816924996407,[5.0],3.0,3.0,3.0,Square pyramid,4b,1,5.0,Bi,0.0,True
+mp-505201,Mn(Bi3O5)4,2.304683681058512,0.3090535651320021,[5.0],3.0,3.0,3.0,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-505697,Bi6P4PbO20,1.983837929044252,0.6084958882588859,"[6.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Trigonal prism, Square antiprism",2i,3,6.0,Bi,0.0,True
+mp-505697,Bi6P4PbO20,1.983837929044252,0.6084958882588859,"[6.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Trigonal prism, Square antiprism",2i,3,8.0,Bi,0.0,True
+mp-531130,TlBi25O39,2.12959561596251,0.4430796849387773,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,3.0,Bi,0.0,True
+mp-531130,TlBi25O39,2.12959561596251,0.4430796849387773,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,4.0,Bi,0.0,True
+mp-531130,TlBi25O39,2.12959561596251,0.4430796849387773,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,5.0,Bi,0.0,True
+mp-532540,Sr3Ca6V7BiO28,1.747691134805533,0.788439374756447,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,2a,1,8.0,Bi,0.0,True
+mp-540977,Bi5IO7,2.1089667210198746,0.3625680800862051,"[4.0, 4.0, 5.0, 6.0, 8.0]",3.0,3.0,3.0,"See-saw, Cube, Pentagonal pyramid, Square pyramid",2i,4,4.0,Bi,0.0,True
+mp-540977,Bi5IO7,2.1089667210198746,0.3625680800862051,"[4.0, 4.0, 5.0, 6.0, 8.0]",3.0,3.0,3.0,"See-saw, Cube, Pentagonal pyramid, Square pyramid",2i,4,4.0,Bi,0.0,True
+mp-540977,Bi5IO7,2.1089667210198746,0.3625680800862051,"[4.0, 4.0, 5.0, 6.0, 8.0]",3.0,3.0,3.0,"See-saw, Cube, Pentagonal pyramid, Square pyramid",2i,4,5.0,Bi,0.0,True
+mp-540977,Bi5IO7,2.1089667210198746,0.3625680800862051,"[4.0, 4.0, 5.0, 6.0, 8.0]",3.0,3.0,3.0,"See-saw, Cube, Pentagonal pyramid, Square pyramid",2i,4,6.0,Bi,0.0,True
+mp-540977,Bi5IO7,2.1089667210198746,0.3625680800862051,"[4.0, 4.0, 5.0, 6.0, 8.0]",3.0,3.0,3.0,"See-saw, Cube, Pentagonal pyramid, Square pyramid",2i,4,8.0,Bi,0.0,True
+mp-541433,Cd(BiO2)2,2.05188673868761,0.6113845632144144,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid","8g, 8h",2,4.0,Bi,0.0,True
+mp-541433,Cd(BiO2)2,2.05188673868761,0.6113845632144144,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid","8g, 8h",2,5.0,Bi,0.0,True
+mp-542931,Bi2B8O15,1.6885039358235705,0.9843623597621722,[7.0],3.0,3.0,3.0,Face-capped octahedron,2a,1,7.0,Bi,0.0,True
+mp-545522,CoBiO3,1.7049542903077095,0.8028362826868962,[8.0],3.0,3.0,3.0,Cuboctahedron,1a,1,8.0,Bi,0.0,True
+mp-545544,Ba2TaBiO6,2.389711466825718,-0.0382022780484177,[6.0],3.0,3.0,3.0,Octahedron,1c,1,6.0,Bi,0.0,True
+mp-545769,MnCo(BiO3)2,2.2359870998011155,0.4176452113111993,"[4.0, 7.0]",3.0,3.0,3.0,Bicapped octahedron (cap faces with one atom in common),2c,1,4.0,Bi,0.0,True
+mp-545769,MnCo(BiO3)2,2.2359870998011155,0.4176452113111993,"[4.0, 7.0]",3.0,3.0,3.0,Bicapped octahedron (cap faces with one atom in common),2c,1,7.0,Bi,0.0,True
+mp-546321,Ba2NdBiO6,2.1423540877382137,0.0390971528037456,[6.0],5.0,5.0,5.0,Octahedron,1b,1,6.0,Bi,0.0,True
+mp-548598,U(BiO3)2,1.999899775070048,0.5147326759902864,[7.0],3.0,3.0,3.0,Face-capped octahedron,2d,1,7.0,Bi,0.0,True
+mp-550553,CdBiClO2,2.148200277186851,0.37993735656345,[4.0],3.0,3.0,3.0,Square non-coplanar,2e,1,4.0,Bi,0.0,True
+mp-553025,CaBiClO2,2.1160581838141588,0.4291185478597126,[4.0],3.0,3.0,3.0,Square non-coplanar,2e,1,4.0,Bi,0.0,True
+mp-553887,NaV2Bi3O10,2.017510018561474,0.5533259442197667,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Pentagonal pyramid",1a,2,6.0,Bi,0.0,True
+mp-553887,NaV2Bi3O10,2.017510018561474,0.5533259442197667,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Pentagonal pyramid",1a,2,7.0,Bi,0.0,True
+mp-553895,SrV4(Bi3O10)2,1.9306494937924448,0.6188069548241762,"[6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square antiprism, Octahedron",2i,3,6.0,Bi,0.0,True
+mp-553895,SrV4(Bi3O10)2,1.9306494937924448,0.6188069548241762,"[6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square antiprism, Octahedron",2i,3,8.0,Bi,0.0,True
+mp-554084,BaBi6(PO5)4,1.9665793974910328,0.6362160387353336,"[6.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Trigonal prism, Square antiprism",2i,3,6.0,Bi,0.0,True
+mp-554084,BaBi6(PO5)4,1.9665793974910328,0.6362160387353336,"[6.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Trigonal prism, Square antiprism",2i,3,8.0,Bi,0.0,True
+mp-554090,Bi7Mo2(AsO8)3,2.294142689143608,0.2823333791283956,[8.0],3.0,3.0,3.0,"Square antiprism, Cube, Dodecahedron with triangular faces - p2345 plane normalized, Octahedron","4c, 8d",4,8.0,Bi,0.0,True
+mp-554207,TaBi4BrO8,1.8517170535461087,0.8767546623367775,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",8d,2,4.0,Bi,0.0,True
+mp-554207,TaBi4BrO8,1.8517170535461087,0.8767546623367775,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",8d,2,7.0,Bi,0.0,True
+mp-554249,Bi6Cl3O7F,2.0036844593986776,0.5631490957562543,"[3.0, 4.0, 4.0, 4.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square non-coplanar, Trigonal bipyramid, Square-face capped trigonal prism",4c,4,3.0,Bi,0.0,True
+mp-554249,Bi6Cl3O7F,2.0036844593986776,0.5631490957562543,"[3.0, 4.0, 4.0, 4.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square non-coplanar, Trigonal bipyramid, Square-face capped trigonal prism",4c,4,4.0,Bi,0.0,True
+mp-554249,Bi6Cl3O7F,2.0036844593986776,0.5631490957562543,"[3.0, 4.0, 4.0, 4.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square non-coplanar, Trigonal bipyramid, Square-face capped trigonal prism",4c,4,4.0,Bi,0.0,True
+mp-554249,Bi6Cl3O7F,2.0036844593986776,0.5631490957562543,"[3.0, 4.0, 4.0, 4.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square non-coplanar, Trigonal bipyramid, Square-face capped trigonal prism",4c,4,4.0,Bi,0.0,True
+mp-554249,Bi6Cl3O7F,2.0036844593986776,0.5631490957562543,"[3.0, 4.0, 4.0, 4.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square non-coplanar, Trigonal bipyramid, Square-face capped trigonal prism",4c,4,7.0,Bi,0.0,True
+mp-554381,Ca2VBiO6,1.4561272754472905,1.2756959893098538,[7.0],3.0,3.0,3.0,Face-capped octahedron,2a,1,7.0,Bi,0.0,True
+mp-554435,TcBi3O8,2.2159848944650866,0.3614910295301338,"[7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism",12b,2,7.0,Bi,0.0,True
+mp-554435,TcBi3O8,2.2159848944650866,0.3614910295301338,"[7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism",12b,2,8.0,Bi,0.0,True
+mp-554445,Bi5IO7,2.0466878144522225,0.661279979595931,"[4.0, 4.0, 6.0]",3.0,3.0,3.0,"See-saw, Pentagonal pyramid, Square non-coplanar","8f, 4e",3,4.0,Bi,0.0,True
+mp-554445,Bi5IO7,2.0466878144522225,0.661279979595931,"[4.0, 4.0, 6.0]",3.0,3.0,3.0,"See-saw, Pentagonal pyramid, Square non-coplanar","8f, 4e",3,4.0,Bi,0.0,True
+mp-554445,Bi5IO7,2.0466878144522225,0.661279979595931,"[4.0, 4.0, 6.0]",3.0,3.0,3.0,"See-saw, Pentagonal pyramid, Square non-coplanar","8f, 4e",3,6.0,Bi,0.0,True
+mp-554493,BiAsPbO5,1.8743250571444687,0.8846997056826809,[5.0],3.0,3.0,3.0,Square-face capped trigonal prism,2i,1,5.0,Bi,0.0,True
+mp-554500,Bi2WO6,2.3369479187037348,0.1492365253320237,"[6.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square-face capped trigonal prism",2i,2,6.0,Bi,0.0,True
+mp-554500,Bi2WO6,2.3369479187037348,0.1492365253320237,"[6.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square-face capped trigonal prism",2i,2,8.0,Bi,0.0,True
+mp-554545,Bi2Os2O7,1.7126555074483611,0.7649857918227165,[8.0],3.0,3.0,3.0,Cube,4d,1,8.0,Bi,0.0,True
+mp-554675,SrTa2Bi2O9,1.6998967649265058,0.9081416067742528,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2e,1,8.0,Bi,0.0,True
+mp-554718,Bi(BO2)3,0.150013765268919,2.790804444927138,[7.0],3.0,3.0,3.0,Square antiprism,4a,1,7.0,Bi,0.0,True
+mp-554740,CdGe(BiO3)2,1.355013864764627,1.5581199909228112,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-554839,MnBiAsO5,1.9881299382634647,0.7010568701268938,[5.0],3.0,3.0,3.0,Square pyramid,4i,1,5.0,Bi,0.0,True
+mp-554906,Zn2BiPO6,1.4784627312336216,1.2963666663826612,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4c,1,7.0,Bi,0.0,True
+mp-555027,CdGe(BiO3)2,1.2865565374837655,1.727941108671488,[6.0],3.0,3.0,3.0,Octahedron,8d,1,6.0,Bi,0.0,True
+mp-555100,NbBiO4,1.8712358734093428,0.7504333044084637,"[7.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Square antiprism",2i,2,7.0,Bi,0.0,True
+mp-555100,NbBiO4,1.8712358734093428,0.7504333044084637,"[7.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Square antiprism",2i,2,8.0,Bi,0.0,True
+mp-555117,Cs2Bi4O7,1.817140546423473,1.0884004139628494,[5.0],3.0,3.0,3.0,Square pyramid,4f,1,5.0,Bi,0.0,True
+mp-555225,Bi2Rh2O7,1.7395957231109993,0.698552062005486,[8.0],3.0,3.0,3.0,Cube,4d,1,8.0,Bi,0.0,True
+mp-555231,Ba3Bi2(PO4)4,0.8581115035516891,2.0463382891634083,[7.0],3.0,3.0,3.0,End-trigonal-face capped trigonal prism,4f,1,7.0,Bi,0.0,True
+mp-555313,ScBiO3,2.091183099930912,0.6316695807539119,"[4.0, 5.0]",3.0,3.0,3.0,"Trigonal bipyramid, Square-face capped trigonal prism",2a,2,4.0,Bi,0.0,True
+mp-555313,ScBiO3,2.091183099930912,0.6316695807539119,"[4.0, 5.0]",3.0,3.0,3.0,"Trigonal bipyramid, Square-face capped trigonal prism",2a,2,5.0,Bi,0.0,True
+mp-555393,KBi6BrO9,3.262037146281115,-1.9414133055358456,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid","24f, 24g",2,4.0,Bi,0.0,True
+mp-555393,KBi6BrO9,3.262037146281115,-1.9414133055358456,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid","24f, 24g",2,5.0,Bi,0.0,True
+mp-555658,Bi2MoO6,1.4546723949498626,1.3558132998763672,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4f,1,7.0,Bi,0.0,True
+mp-555748,Bi2MoO6,2.222078563094681,0.4612680239117915,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,8c,1,8.0,Bi,0.0,True
+mp-555769,ScBiO3,2.083361796832384,0.9658450265577484,[4.0],3.0,3.0,3.0,Square-face capped trigonal prism,4f,1,4.0,Bi,0.0,True
+mp-555839,MnNi(BiO3)2,1.4776981478477238,1.1573095924727803,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4e,1,8.0,Bi,0.0,True
+mp-555880,ZnBi2B2O7,2.0855433745495167,0.4574670400132843,"[6.0, 8.0]",3.0,3.0,3.0,Octahedron,4c,1,6.0,Bi,0.0,True
+mp-555880,ZnBi2B2O7,2.0855433745495167,0.4574670400132843,"[6.0, 8.0]",3.0,3.0,3.0,Octahedron,4c,1,8.0,Bi,0.0,True
+mp-556210,Bi2CO5,1.936385577089378,0.6483014471882355,"[7.0, 8.0]",3.0,3.0,3.0,"Dodecahedron with triangular faces - p2345 plane normalized, Square-face capped trigonal prism",4a,2,7.0,Bi,0.0,True
+mp-556210,Bi2CO5,1.936385577089378,0.6483014471882355,"[7.0, 8.0]",3.0,3.0,3.0,"Dodecahedron with triangular faces - p2345 plane normalized, Square-face capped trigonal prism",4a,2,8.0,Bi,0.0,True
+mp-556287,NaBi2Sb3O11,1.8492690112853551,0.6668113902353945,[9.0],3.0,3.0,3.0,Tricapped triangular prism (three square-face caps),8e,1,9.0,Bi,0.0,True
+mp-556303,CuBi2(SeO3)4,1.96422795276341,0.701311750105647,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,8.0,Bi,0.0,True
+mp-556362,BiSeClO3,1.7508222287981945,0.8397985921227775,[5.0],3.0,3.0,3.0,Square antiprism,4c,1,5.0,Bi,0.0,True
+mp-556378,BiSeClO3,1.687194491722885,0.8533682811905254,[5.0],3.0,3.0,3.0,Pentagonal bipyramid,4a,1,5.0,Bi,0.0,True
+mp-556407,Ba3Bi2TeO9,1.4945856366385133,1.2419688424187685,[6.0],3.0,3.0,3.0,Octahedron,4d,1,6.0,Bi,0.0,True
+mp-556533,Sr2V3BiO11,1.6442642585045082,1.0196443003401257,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,2i,1,7.0,Bi,0.0,True
+mp-556548,Bi(BO2)3,1.906706598799995,0.6532502094945288,[9.0],3.0,3.0,3.0,Tricapped octahedron (cap faces are aligned),4e,1,9.0,Bi,0.0,True
+mp-556549,Bi2O3,2.3592859160783632,0.2354302115015215,[5.0],3.0,3.0,3.0,Square pyramid,8e,1,5.0,Bi,0.0,True
+mp-556586,Bi2Mo2O9,1.99377325729778,0.5131887718599822,[8.0],3.0,3.0,3.0,"Cube, Square antiprism",4e,2,8.0,Bi,0.0,True
+mp-556606,K2BiMoPO8,2.279150049618317,0.2216342646789066,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4d,1,8.0,Bi,0.0,True
+mp-556615,CaBi6(PO5)4,2.0451773581173622,0.5251774203277023,"[5.0, 6.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square pyramid, Square-face capped trigonal prism",2i,3,5.0,Bi,0.0,True
+mp-556615,CaBi6(PO5)4,2.0451773581173622,0.5251774203277023,"[5.0, 6.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square pyramid, Square-face capped trigonal prism",2i,3,6.0,Bi,0.0,True
+mp-556615,CaBi6(PO5)4,2.0451773581173622,0.5251774203277023,"[5.0, 6.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square pyramid, Square-face capped trigonal prism",2i,3,8.0,Bi,0.0,True
+mp-556635,CuBi2(SeO3)4,2.235089930280385,0.3106111995661076,[7.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,7.0,Bi,0.0,True
+mp-556640,CuBi(WO4)2,2.367094797577532,0.0174350747741728,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-556666,CaBiCO4F,1.7792442457018909,0.7818822623269549,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4c,1,8.0,Bi,0.0,True
+mp-556735,Rb2Bi4O7,1.861733208202247,1.053545938190145,[5.0],3.0,3.0,3.0,no_data,no_data,1,5.0,Bi,0.0,True
+mp-556878,BiPPbO5,2.2406247306680824,0.2018886009102775,[5.0],3.0,3.0,3.0,Square pyramid,2i,1,5.0,Bi,0.0,True
+mp-556993,NiBiPO5,1.6284933976177505,1.0909946105341943,[6.0],3.0,3.0,3.0,Square-face capped trigonal prism,4e,1,6.0,Bi,0.0,True
+mp-557071,KBi6ClO9,3.0938654709123874,-1.6768695128257272,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid","24f, 24g",2,4.0,Bi,0.0,True
+mp-557071,KBi6ClO9,3.0938654709123874,-1.6768695128257272,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid","24f, 24g",2,5.0,Bi,0.0,True
+mp-557209,NiBiAsO5,1.973413894247217,0.6615376100907376,[5.0],3.0,3.0,3.0,Square pyramid,4i,1,5.0,Bi,0.0,True
+mp-557351,Bi(BO2)3,1.2718216843536367,1.3926122487194523,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4e,1,8.0,Bi,0.0,True
+mp-557371,CaBi2B2O7,1.2368910811835616,1.9822062942433103,[6.0],3.0,3.0,3.0,Trigonal prism,8d,1,6.0,Bi,0.0,True
+mp-557438,Sm2Ti3(BiO6)2,1.7366188217527423,0.8231807652945433,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2e,1,8.0,Bi,0.0,True
+mp-557475,BaBi12Mo4WO34,2.0136204599058707,0.5914636643712614,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",4g,5,4.0,Bi,0.0,True
+mp-557475,BaBi12Mo4WO34,2.0136204599058707,0.5914636643712614,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",4g,5,6.0,Bi,0.0,True
+mp-557475,BaBi12Mo4WO34,2.0136204599058707,0.5914636643712614,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",4g,5,7.0,Bi,0.0,True
+mp-557475,BaBi12Mo4WO34,2.0136204599058707,0.5914636643712614,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",4g,5,8.0,Bi,0.0,True
+mp-557498,NaBi2AuO5,1.826773045407825,1.025166630067607,[5.0],3.0,3.0,3.0,Square pyramid,8i,1,5.0,Bi,0.0,True
+mp-557599,Rb2Bi(ClO4)5,0.8846495235421934,1.5459010615878153,[9.0],3.0,3.0,3.0,Square-face monocapped antiprism,2i,1,9.0,Bi,0.0,True
+mp-557738,Li3BiO4,1.9921931190641529,0.6528556426999693,[6.0],5.0,5.0,5.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-557876,V2Cu3(Bi2O7)2,1.7234935477664988,0.8402573366537215,[8.0],3.0,3.0,3.0,"Square-face monocapped antiprism, Square antiprism",2i,2,8.0,Bi,0.0,True
+mp-558215,Bi10(MoO8)3,2.0810919257447624,0.4485316301364938,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Cube, Square pyramid, Square antiprism",2c,4,6.0,Bi,0.0,True
+mp-558215,Bi10(MoO8)3,2.0810919257447624,0.4485316301364938,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Cube, Square pyramid, Square antiprism",2c,4,7.0,Bi,0.0,True
+mp-558215,Bi10(MoO8)3,2.0810919257447624,0.4485316301364938,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Cube, Square pyramid, Square antiprism",2c,4,8.0,Bi,0.0,True
+mp-558277,Ti3(BiO3)4,2.174353016200802,0.3604234765274547,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Octahedron",2a,4,6.0,Bi,0.0,True
+mp-558277,Ti3(BiO3)4,2.174353016200802,0.3604234765274547,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Octahedron",2a,4,8.0,Bi,0.0,True
+mp-558285,GaBiO3,1.856431965634258,0.7911734884902637,[6.0],3.0,3.0,3.0,Octahedron,4d,1,6.0,Bi,0.0,True
+mp-558302,Bi5BrO7,2.1037437234017617,0.6046119834020415,"[4.0, 4.0, 6.0]",3.0,3.0,3.0,"See-saw, Pentagonal pyramid, Square non-coplanar","8g, 4f",3,4.0,Bi,0.0,True
+mp-558302,Bi5BrO7,2.1037437234017617,0.6046119834020415,"[4.0, 4.0, 6.0]",3.0,3.0,3.0,"See-saw, Pentagonal pyramid, Square non-coplanar","8g, 4f",3,4.0,Bi,0.0,True
+mp-558302,Bi5BrO7,2.1037437234017617,0.6046119834020415,"[4.0, 4.0, 6.0]",3.0,3.0,3.0,"See-saw, Pentagonal pyramid, Square non-coplanar","8g, 4f",3,6.0,Bi,0.0,True
+mp-558323,SrBi2B2O7,1.7230351178805785,1.0558854904660977,[7.0],3.0,3.0,3.0,Pentagonal bipyramid,12i,1,7.0,Bi,0.0,True
+mp-558392,Bi2Ir2O7,1.757876609618382,0.695183913284508,[8.0],3.0,3.0,3.0,Cube,4d,1,8.0,Bi,0.0,True
+mp-558409,Bi2Te2W3O16,2.290223196209548,0.2544630703661089,[8.0],3.0,3.0,3.0,Square antiprism,4f,1,8.0,Bi,0.0,True
+mp-558501,KBi6IO9,3.2429116749059106,-1.8983988003924293,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid","24f, 24g",2,4.0,Bi,0.0,True
+mp-558501,KBi6IO9,3.2429116749059106,-1.8983988003924293,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid","24f, 24g",2,5.0,Bi,0.0,True
+mp-558712,Ag2BiO3,2.172789643390229,0.1481338586758255,[6.0],3.0,3.0,3.0,Octahedron,4c,1,6.0,Bi,0.0,True
+mp-558751,Ca(BiO2)2,1.909661771039341,0.9509394014735189,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square non-coplanar",4f,2,4.0,Bi,0.0,True
+mp-558751,Ca(BiO2)2,1.909661771039341,0.9509394014735189,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square non-coplanar",4f,2,5.0,Bi,0.0,True
+mp-558753,BiB2O4F,1.4851740676227938,1.1251338845737422,[7.0],3.0,3.0,3.0,Tricapped triangular prism (two square-face caps and one triangular-face cap),3a,1,7.0,Bi,0.0,True
+mp-558816,RbBi(MoO4)2,1.8355667925321328,0.7316455373939482,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,8.0,Bi,0.0,True
+mp-558859,VCdBiO5,1.451882818430342,1.2441354896645958,[7.0],3.0,3.0,3.0,"Pentagonal bipyramid, Square-face capped trigonal prism",4a,2,7.0,Bi,0.0,True
+mp-558892,MnVBiO5,2.093420145546488,0.4715555911962243,[5.0],3.0,3.0,3.0,Square pyramid,2i,1,5.0,Bi,0.0,True
+mp-559020,KBi(PO3)4,2.3845661452394937,0.0845161765798722,[8.0],3.0,3.0,3.0,Square antiprism,4e,1,8.0,Bi,0.0,True
+mp-559052,LiNb3(Bi2O7)2,2.075894525482269,0.5146662477248187,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Square-face capped trigonal prism",4f,2,7.0,Bi,0.0,True
+mp-559052,LiNb3(Bi2O7)2,2.075894525482269,0.5146662477248187,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Square-face capped trigonal prism",4f,2,8.0,Bi,0.0,True
+mp-559109,ErGeBiO5,2.205381046920934,0.2336700259491054,[5.0],3.0,3.0,3.0,Square pyramid,8c,1,5.0,Bi,0.0,True
+mp-559154,Ti4Bi2O11,4.299076461372526,-3.2991834553300103,[5.0],3.0,3.0,3.0,Octahedron,4f,1,5.0,Bi,0.0,True
+mp-559185,Li8Bi2(MoO4)7,1.812113961516102,0.6887094530323352,[8.0],3.0,3.0,3.0,Square antiprism,4g,1,8.0,Bi,0.0,True
+mp-559186,BaBiBO4,1.807384521857656,1.0602803059127075,[5.0],3.0,3.0,3.0,Square pyramid,4c,1,5.0,Bi,0.0,True
+mp-559332,BiTeIO3,2.886560266122989,-0.3836408396649355,[5.0],3.0,3.0,3.0,Square-face capped trigonal prism,4e,1,5.0,Bi,0.0,True
+mp-559352,Ba4Na(BiO4)3,1.9657434362602533,0.895003141785881,[6.0],5.0,5.0,5.0,Octahedron,3b,1,6.0,Bi,0.0,True
+mp-559364,SrBi2(B2O5)2,1.8751011154582893,0.8764764048513154,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Octahedron",2i,2,6.0,Bi,0.0,True
+mp-559364,SrBi2(B2O5)2,1.8751011154582893,0.8764764048513154,"[6.0, 7.0]",3.0,3.0,3.0,"Square-face capped trigonal prism, Octahedron",2i,2,7.0,Bi,0.0,True
+mp-559422,Bi4Au2O9,2.185574207047845,0.4364120722480627,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square antiprism, Octahedron",8c,3,6.0,Bi,0.0,True
+mp-559422,Bi4Au2O9,2.185574207047845,0.4364120722480627,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square antiprism, Octahedron",8c,3,7.0,Bi,0.0,True
+mp-559422,Bi4Au2O9,2.185574207047845,0.4364120722480627,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square antiprism, Octahedron",8c,3,8.0,Bi,0.0,True
+mp-559482,Ti2Bi2O7,1.6657746236847708,0.8493504436816657,[8.0],3.0,3.0,3.0,Cube,4c,1,8.0,Bi,0.0,True
+mp-559498,K9Bi5O13,2.014649813097348,1.4516387938576674,[4.0],3.4,3.4,3.4,no_data,no_data,1,4.0,Bi,0.0,True
+mp-559583,BiP3Pb4O13,2.326273471868288,0.1997360580326267,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4c,1,7.0,Bi,0.0,True
+mp-559620,Cu5Bi2(B2O7)2,1.8582410818673905,0.8168976239363523,[6.0],3.0,3.0,3.0,Pentagonal pyramid,1a,1,6.0,Bi,0.0,True
+mp-559631,Bi6Rh12O29,2.501009771995045,-0.0494609007058183,[6.0],3.0,3.0,3.0,"Octahedron, Trigonal prism, Pentagonal pyramid, Dodecahedron with triangular faces","4j, 2i",4,6.0,Bi,0.0,True
+mp-559837,Bi2Te2WO10,2.177297176923523,0.4237010390083545,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4f,1,7.0,Bi,0.0,True
+mp-559851,CrBiO3,1.5415310881547095,1.0777022416784805,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4c,1,8.0,Bi,0.0,True
+mp-559861,NbBi(TeO4)2,2.412927206463238,0.0887814656596067,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,8c,1,7.0,Bi,0.0,True
+mp-559941,Ba2V3BiO11,1.5838486400471712,1.3519936840007207,[6.0],3.0,3.0,3.0,Square antiprism,4e,1,6.0,Bi,0.0,True
+mp-560085,Bi24Cl10O31,1.935180851855953,0.6093328721718099,"[3.0, 3.0, 4.0, 5.0, 6.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped square prism, Square pyramid, Cube, Square non-coplanar, Triangular non-coplanar",4g,6,3.0,Bi,0.0,True
+mp-560085,Bi24Cl10O31,1.935180851855953,0.6093328721718099,"[3.0, 3.0, 4.0, 5.0, 6.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped square prism, Square pyramid, Cube, Square non-coplanar, Triangular non-coplanar",4g,6,3.0,Bi,0.0,True
+mp-560085,Bi24Cl10O31,1.935180851855953,0.6093328721718099,"[3.0, 3.0, 4.0, 5.0, 6.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped square prism, Square pyramid, Cube, Square non-coplanar, Triangular non-coplanar",4g,6,4.0,Bi,0.0,True
+mp-560085,Bi24Cl10O31,1.935180851855953,0.6093328721718099,"[3.0, 3.0, 4.0, 5.0, 6.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped square prism, Square pyramid, Cube, Square non-coplanar, Triangular non-coplanar",4g,6,5.0,Bi,0.0,True
+mp-560085,Bi24Cl10O31,1.935180851855953,0.6093328721718099,"[3.0, 3.0, 4.0, 5.0, 6.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped square prism, Square pyramid, Cube, Square non-coplanar, Triangular non-coplanar",4g,6,6.0,Bi,0.0,True
+mp-560085,Bi24Cl10O31,1.935180851855953,0.6093328721718099,"[3.0, 3.0, 4.0, 5.0, 6.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped square prism, Square pyramid, Cube, Square non-coplanar, Triangular non-coplanar",4g,6,8.0,Bi,0.0,True
+mp-560085,Bi24Cl10O31,1.935180851855953,0.6093328721718099,"[3.0, 3.0, 4.0, 5.0, 6.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped square prism, Square pyramid, Cube, Square non-coplanar, Triangular non-coplanar",4g,6,9.0,Bi,0.0,True
+mp-560123,FeBi3(MoO6)2,2.06316081175104,0.4365266991618862,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,"2e, 4f",1,8.0,Bi,0.0,True
+mp-560153,MnBiPO5,1.6660224576129892,1.1032434168180931,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-560261,TaBiO4,1.9376089471121536,0.6854939015459106,[7.0],3.0,3.0,3.0,"Square-face capped trigonal prism, Square antiprism",2i,2,7.0,Bi,0.0,True
+mp-560373,Bi3Pt3O11,1.8634699850461127,0.6960724980122668,"[8.0, 9.0]",3.33,3.33,3.33,"Cube, Tricapped triangular prism (three square-face caps)","4b, 8e",2,8.0,Bi,0.0,True
+mp-560373,Bi3Pt3O11,1.8634699850461127,0.6960724980122668,"[8.0, 9.0]",3.33,3.33,3.33,"Cube, Tricapped triangular prism (three square-face caps)","4b, 8e",2,9.0,Bi,0.0,True
+mp-560420,K3Bi2(PO4)3,1.7979326182469584,0.912717740936551,[6.0],3.0,3.0,3.0,Square-face capped trigonal prism,4f,1,6.0,Bi,0.0,True
+mp-560550,BaBi2(B2O5)2,1.706047885830991,1.0529330370205758,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Octahedron",4e,2,6.0,Bi,0.0,True
+mp-560550,BaBi2(B2O5)2,1.706047885830991,1.0529330370205758,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Octahedron",4e,2,7.0,Bi,0.0,True
+mp-560555,Li8Bi2PdO10,2.03895107080007,0.6101084093746548,[6.0],5.0,5.0,5.0,Octahedron,2i,1,6.0,Bi,0.0,True
+mp-560624,Na5Bi(P2O7)2,1.4148896448322847,1.2652536198230642,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,2i,1,7.0,Bi,0.0,True
+mp-560658,Na5Bi2As5O18,2.038556687778638,0.5082800391781027,[6.0],3.0,3.0,3.0,Octahedron,2i,1,6.0,Bi,0.0,True
+mp-560699,VBiPbO5,1.8689474485344733,0.8188901708706974,"[5.0, 6.0]",3.0,3.0,3.0,Trigonal prism,1a,1,5.0,Bi,0.0,True
+mp-560699,VBiPbO5,1.8689474485344733,0.8188901708706974,"[5.0, 6.0]",3.0,3.0,3.0,Trigonal prism,1a,1,6.0,Bi,0.0,True
+mp-560736,K3V3(BiO6)2,1.999156874536028,0.6001403128939002,[6.0],3.0,3.0,3.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-560755,CaVBiO5,2.043690161820813,0.5675611872902868,[5.0],3.0,3.0,3.0,Square pyramid,8c,1,5.0,Bi,0.0,True
+mp-561005,SrBi6(PO5)4,1.7228614042231354,0.8651107279793615,"[6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Bicapped octahedron (cap faces with one atom in common), Square antiprism",2i,3,6.0,Bi,0.0,True
+mp-561005,SrBi6(PO5)4,1.7228614042231354,0.8651107279793615,"[6.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Bicapped octahedron (cap faces with one atom in common), Square antiprism",2i,3,8.0,Bi,0.0,True
+mp-561083,Na3Bi(PO4)2,1.55851684133432,0.9861202000873251,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4e,1,8.0,Bi,0.0,True
+mp-561102,InBiO3,1.5198942174809074,1.325310355083586,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4c,1,8.0,Bi,0.0,True
+mp-561113,Ag2BiO3,2.1915910489231782,0.1264276168068349,[6.0],3.0,3.0,3.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-561147,Ba2BiRuO6,2.0264373570004204,0.3615793298220923,[6.0],3.0,3.0,3.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-561230,K2BiPWO8,2.231282844474909,0.2743750302137114,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4d,1,8.0,Bi,0.0,True
+mp-561369,K3Bi2(AsO4)3,1.8342309584800247,0.8679247319309088,[6.0],3.0,3.0,3.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-561382,NbBi4BrO8,1.8655865579500617,0.8867082276580625,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",8d,2,4.0,Bi,0.0,True
+mp-561382,NbBi4BrO8,1.8655865579500617,0.8867082276580625,"[4.0, 7.0]",3.0,3.0,3.0,"Square non-coplanar, Square-face capped trigonal prism",8d,2,7.0,Bi,0.0,True
+mp-561538,MgVBiO5,1.6966113501010185,1.0396699102947262,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-562612,MnNi(BiO3)2,2.238329403424619,0.3983952550186629,"[4.0, 7.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one atom in common), Square-face capped trigonal prism",2c,2,4.0,Bi,0.0,True
+mp-562612,MnNi(BiO3)2,2.238329403424619,0.3983952550186629,"[4.0, 7.0]",3.0,3.0,3.0,"Bicapped octahedron (cap faces with one atom in common), Square-face capped trigonal prism",2c,2,7.0,Bi,0.0,True
+mp-562854,CsNb2BiO7,2.0939806875789,0.4219510317193636,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2a,1,8.0,Bi,0.0,True
+mp-562862,CoBi2SO7,2.286738492197076,-0.0482761063933132,[4.0],3.0,3.0,3.0,"Tricapped triangular prism (two square-face caps and one triangular-face cap), Square-face capped trigonal prism",4d,2,4.0,Bi,0.0,True
+mp-565692,K3Bi5(PO4)6,1.800173707733969,0.7475701853356872,[8.0],3.0,3.0,3.0,"Tricapped triangular prism (two square-face caps and one triangular-face cap), Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized","2e, 4f",3,8.0,Bi,0.0,True
+mp-567022,K3Bi5(AsO4)6,1.9100638250096225,0.666306334500754,"[7.0, 8.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face monocapped antiprism, Square-face bicapped trigonal prism","2e, 4f",3,7.0,Bi,0.0,True
+mp-567022,K3Bi5(AsO4)6,1.9100638250096225,0.666306334500754,"[7.0, 8.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face monocapped antiprism, Square-face bicapped trigonal prism","2e, 4f",3,8.0,Bi,0.0,True
+mp-573429,Cs5Bi(MoO4)4,0.2208140738617156,3.121027114144725,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-581609,BiP(PbO2)4,2.082537399799377,0.6623452590752603,[4.0],3.0,3.0,3.0,See-saw,2i,1,4.0,Bi,0.0,True
+mp-581875,Ta3Bi7O18,2.0855969879248555,0.4783770210159628,"[6.0, 7.0]",3.0,3.0,3.0,"Cube, Pentagonal pyramid, Pentagonal bipyramid","4j, 2i",3,6.0,Bi,0.0,True
+mp-581875,Ta3Bi7O18,2.0855969879248555,0.4783770210159628,"[6.0, 7.0]",3.0,3.0,3.0,"Cube, Pentagonal pyramid, Pentagonal bipyramid","4j, 2i",3,7.0,Bi,0.0,True
+mp-584134,LiBiP2O7,2.2666448733626465,0.2484574119530163,[7.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2i,1,7.0,Bi,0.0,True
+mp-585305,Li9Bi3P8O29,2.4979605062425625,-0.2080663783502732,[6.0],3.0,3.0,3.0,Octahedron,6f,1,6.0,Bi,0.0,True
+mp-616232,TlCr4BiO14,3.0081767003474225,-0.5646277682917564,[8.0],3.0,3.0,3.0,Square antiprism,4e,1,8.0,Bi,0.0,True
+mp-618309,Bi2AuO5,1.4267573987335262,1.2776104638352763,[8.0],3.5,3.5,3.5,Square antiprism,8f,1,8.0,Bi,0.0,True
+mp-622198,Ti3(BiO3)4,2.095491149248532,0.7292041541131743,"[5.0, 8.0]",3.0,3.0,3.0,"Bicapped square prism (adjacent faces), Square-face bicapped trigonal prism",4b,2,5.0,Bi,0.0,True
+mp-622198,Ti3(BiO3)4,2.095491149248532,0.7292041541131743,"[5.0, 8.0]",3.0,3.0,3.0,"Bicapped square prism (adjacent faces), Square-face bicapped trigonal prism",4b,2,8.0,Bi,0.0,True
+mp-628637,Cu3BiSe2BrO8,1.69397465124318,0.8765307841212062,[8.0],3.0,3.0,3.0,Cube,2a,1,8.0,Bi,0.0,True
+mp-631621,VBi(PbO3)2,1.459732862400658,1.4867874318571168,[6.0],3.0,3.0,3.0,Trigonal prism,4c,1,6.0,Bi,0.0,True
+mp-635020,Cs6Bi4O9,2.0371873469393607,0.9938481949927224,"[3.0, 4.0]",3.0,3.0,3.0,"See-saw, Triangular non-coplanar",2i,2,3.0,Bi,0.0,True
+mp-635020,Cs6Bi4O9,2.0371873469393607,0.9938481949927224,"[3.0, 4.0]",3.0,3.0,3.0,"See-saw, Triangular non-coplanar",2i,2,4.0,Bi,0.0,True
+mp-636654,LaTiNbBi2O9,1.7484454704809476,0.8575190804127477,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,"4g, 4h",1,8.0,Bi,0.0,True
+mp-640883,VBi(PbO3)2,1.709786500481275,1.0295830228926943,[6.0],3.0,3.0,3.0,Trigonal prism,4e,1,6.0,Bi,0.0,True
+mp-642320,Bi32P10Pb3O76,2.0561377062955044,0.5551566116527894,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,3.0,Bi,0.0,True
+mp-642320,Bi32P10Pb3O76,2.0561377062955044,0.5551566116527894,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,4.0,Bi,0.0,True
+mp-642320,Bi32P10Pb3O76,2.0561377062955044,0.5551566116527894,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,5.0,Bi,0.0,True
+mp-642320,Bi32P10Pb3O76,2.0561377062955044,0.5551566116527894,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,6.0,Bi,0.0,True
+mp-642320,Bi32P10Pb3O76,2.0561377062955044,0.5551566116527894,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,7.0,Bi,0.0,True
+mp-642320,Bi32P10Pb3O76,2.0561377062955044,0.5551566116527894,"[3.0, 4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,8.0,Bi,0.0,True
+mp-642792,BaBi2(MoO4)4,1.936924513657105,0.6144063001798035,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4f,1,8.0,Bi,0.0,True
+mp-642938,RbCr4BiO14,1.898592056334244,0.5645114366254512,[8.0],3.0,3.0,3.0,Square antiprism,4e,1,8.0,Bi,0.0,True
+mp-642974,SrCrBi12(Mo2O17)2,2.227249302994242,0.3280318933995107,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Pentagonal bipyramid, Square pyramid, Octahedron, Cube",4g,5,5.0,Bi,0.0,True
+mp-642974,SrCrBi12(Mo2O17)2,2.227249302994242,0.3280318933995107,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Pentagonal bipyramid, Square pyramid, Octahedron, Cube",4g,5,6.0,Bi,0.0,True
+mp-642974,SrCrBi12(Mo2O17)2,2.227249302994242,0.3280318933995107,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Pentagonal bipyramid, Square pyramid, Octahedron, Cube",4g,5,7.0,Bi,0.0,True
+mp-642974,SrCrBi12(Mo2O17)2,2.227249302994242,0.3280318933995107,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Pentagonal bipyramid, Square pyramid, Octahedron, Cube",4g,5,8.0,Bi,0.0,True
+mp-642975,CrBi12Mo4PbO34,2.018737098490881,0.5798052548293195,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,4.0,Bi,0.0,True
+mp-642975,CrBi12Mo4PbO34,2.018737098490881,0.5798052548293195,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,6.0,Bi,0.0,True
+mp-642975,CrBi12Mo4PbO34,2.018737098490881,0.5798052548293195,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,7.0,Bi,0.0,True
+mp-642975,CrBi12Mo4PbO34,2.018737098490881,0.5798052548293195,"[4.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,no_data,no_data,1,8.0,Bi,0.0,True
+mp-644925,Cs5Bi(MoO4)4,0.9227639248120658,2.151141676879739,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-645159,FeBiO3,1.512728745399017,1.142511960917166,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4c,1,8.0,Bi,0.0,True
+mp-645375,ZnBi6P2O15,2.02283281241247,0.5660662554055669,"[5.0, 7.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Cube",2c,5,5.0,Bi,0.0,True
+mp-645375,ZnBi6P2O15,2.02283281241247,0.5660662554055669,"[5.0, 7.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square pyramid, Cube",2c,5,7.0,Bi,0.0,True
+mp-647265,V2Bi7O15,2.003802530911583,0.6120431481969302,"[4.0, 5.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw",4f,6,4.0,Bi,0.0,True
+mp-647265,V2Bi7O15,2.003802530911583,0.6120431481969302,"[4.0, 5.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw",4f,6,5.0,Bi,0.0,True
+mp-647265,V2Bi7O15,2.003802530911583,0.6120431481969302,"[4.0, 5.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw",4f,6,7.0,Bi,0.0,True
+mp-647265,V2Bi7O15,2.003802530911583,0.6120431481969302,"[4.0, 5.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw",4f,6,8.0,Bi,0.0,True
+mp-649415,KBiN(ClO)3,3.4018076925018184,-0.7333981397239936,[2.0],3.0,3.0,3.0,Square-face capped trigonal prism,4e,1,2.0,Bi,0.0,True
+mp-650024,RbLiBi2(MoO4)4,2.12281287549394,0.4045999436097161,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4f,1,8.0,Bi,0.0,True
+mp-651836,Bi4Cl2O5,2.0488071918614628,0.5268237663956722,"[4.0, 4.0, 5.0, 6.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square non-coplanar, Trigonal bipyramid, Tricapped triangular prism (three square-face caps)",4c,6,4.0,Bi,0.0,True
+mp-651836,Bi4Cl2O5,2.0488071918614628,0.5268237663956722,"[4.0, 4.0, 5.0, 6.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square non-coplanar, Trigonal bipyramid, Tricapped triangular prism (three square-face caps)",4c,6,4.0,Bi,0.0,True
+mp-651836,Bi4Cl2O5,2.0488071918614628,0.5268237663956722,"[4.0, 4.0, 5.0, 6.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square non-coplanar, Trigonal bipyramid, Tricapped triangular prism (three square-face caps)",4c,6,5.0,Bi,0.0,True
+mp-651836,Bi4Cl2O5,2.0488071918614628,0.5268237663956722,"[4.0, 4.0, 5.0, 6.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square non-coplanar, Trigonal bipyramid, Tricapped triangular prism (three square-face caps)",4c,6,6.0,Bi,0.0,True
+mp-651836,Bi4Cl2O5,2.0488071918614628,0.5268237663956722,"[4.0, 4.0, 5.0, 6.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square non-coplanar, Trigonal bipyramid, Tricapped triangular prism (three square-face caps)",4c,6,7.0,Bi,0.0,True
+mp-651836,Bi4Cl2O5,2.0488071918614628,0.5268237663956722,"[4.0, 4.0, 5.0, 6.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism, Square non-coplanar, Trigonal bipyramid, Tricapped triangular prism (three square-face caps)",4c,6,7.0,Bi,0.0,True
+mp-667342,Bi12PbO20,2.3102327506057847,0.2290833618727365,[5.0],3.0,3.0,3.0,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-667426,Bi2Te2O7,2.550253005342012,0.0319816059779388,"[7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square-face capped trigonal prism, Pentagonal bipyramid, Dodecahedron with triangular faces - p2345 plane normalized",8d,4,7.0,Bi,0.0,True
+mp-667426,Bi2Te2O7,2.550253005342012,0.0319816059779388,"[7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Square-face capped trigonal prism, Pentagonal bipyramid, Dodecahedron with triangular faces - p2345 plane normalized",8d,4,8.0,Bi,0.0,True
+mp-669361,Cu2BiAsO6,1.8768558492354583,0.7799613658238959,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4c,1,7.0,Bi,0.0,True
+mp-669425,Cu3BiSe2IO8,1.5791356857470715,1.021013926002896,[8.0],3.0,3.0,3.0,Cube,2a,1,8.0,Bi,0.0,True
+mp-672979,LiBiP2O7,2.307143529157123,0.0984603220076197,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-673023,LiBi(PO3)4,1.843189204045578,0.651344660699998,[8.0],3.0,3.0,3.0,Square antiprism,4e,1,8.0,Bi,0.0,True
+mp-673098,LiBi(PO3)4,2.053742079793058,0.4305529054566451,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,2a,1,8.0,Bi,0.0,True
+mp-673837,Ba8Bi4O17,2.0846419256636084,0.4721924985366479,"[5.0, 6.0]",4.5,4.5,4.5,"Square pyramid, Octahedron",1a,2,5.0,Bi,0.0,True
+mp-673837,Ba8Bi4O17,2.0846419256636084,0.4721924985366479,"[5.0, 6.0]",4.5,4.5,4.5,"Square pyramid, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-676536,KBiO3,2.105597592551164,0.3215735012471487,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-677295,Co(Bi3O5)4,2.28486748813419,0.2909983994399809,[5.0],3.0,3.0,3.0,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-677372,Ti10Bi(Pb3O10)3,0.0796473624911671,2.5261872377997685,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,1a,1,8.0,Bi,0.0,True
+mp-680322,Bi17P5Pb5O43,2.022292520592772,0.6029662788250127,"[3.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, End-trigonal-face capped trigonal prism, Octahedron, See-saw","1a, 2b",6,3.0,Bi,0.0,True
+mp-680322,Bi17P5Pb5O43,2.022292520592772,0.6029662788250127,"[3.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, End-trigonal-face capped trigonal prism, Octahedron, See-saw","1a, 2b",6,5.0,Bi,0.0,True
+mp-680322,Bi17P5Pb5O43,2.022292520592772,0.6029662788250127,"[3.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, End-trigonal-face capped trigonal prism, Octahedron, See-saw","1a, 2b",6,6.0,Bi,0.0,True
+mp-680322,Bi17P5Pb5O43,2.022292520592772,0.6029662788250127,"[3.0, 5.0, 6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, End-trigonal-face capped trigonal prism, Octahedron, See-saw","1a, 2b",6,7.0,Bi,0.0,True
+mp-684028,Li3Bi(PO4)2,2.037310746633972,0.4998625471804357,"[12.0, 6.0]",3.0,3.0,3.0,"Icosahedron, Octahedron","2d, 1b",2,12.0,Bi,0.0,True
+mp-684028,Li3Bi(PO4)2,2.037310746633972,0.4998625471804357,"[12.0, 6.0]",3.0,3.0,3.0,"Icosahedron, Octahedron","2d, 1b",2,6.0,Bi,0.0,True
+mp-684042,Li3Bi2(PO4)3,2.5123430979039827,-0.1843497222589564,[6.0],3.0,3.0,3.0,Square-face capped trigonal prism,4f,1,6.0,Bi,0.0,True
+mp-684093,LiBi(PO3)4,2.17396617219606,0.2918997372962544,[7.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4c,1,7.0,Bi,0.0,True
+mp-684096,Bi(PO3)4,2.652238665061015,-0.7227969871482585,[7.0],5.0,5.0,5.0,Square-face capped trigonal prism,4e,1,7.0,Bi,0.0,True
+mp-684109,LiBiP2O7,2.031507827427586,0.4870740346485248,[6.0],3.0,3.0,3.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-684489,LiBiP2O7,2.2204568664709177,0.246183416656105,[7.0],3.0,3.0,3.0,Face-capped octahedron,4e,1,7.0,Bi,0.0,True
+mp-684497,LiBi(PO3)4,2.1048992454950937,0.3699413286627505,[8.0],3.0,3.0,3.0,Square antiprism,4e,1,8.0,Bi,0.0,True
+mp-684504,Li3Bi2(PO4)3,1.9840068282535728,0.5660417284196079,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-684506,LiBi(PO3)4,2.3173046253156984,0.0385189699321351,[6.0],3.0,3.0,3.0,Octahedron,4c,1,6.0,Bi,0.0,True
+mp-684747,Bi2O3,2.1272207706675275,0.4487382214365643,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,no_data,no_data,1,3.0,Bi,0.0,True
+mp-684747,Bi2O3,2.1272207706675275,0.4487382214365643,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,no_data,no_data,1,4.0,Bi,0.0,True
+mp-684747,Bi2O3,2.1272207706675275,0.4487382214365643,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,no_data,no_data,1,5.0,Bi,0.0,True
+mp-685318,Bi15AsO25,2.103802950075258,0.5018484150769945,[5.0],3.0,3.0,3.0,Square pyramid,3b,1,5.0,Bi,0.0,True
+mp-685339,Bi12Ir12O41,2.028141413870604,0.4507876608880213,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","1a, 3d, 1b, 1c",2,7.0,Bi,0.0,True
+mp-685339,Bi12Ir12O41,2.028141413870604,0.4507876608880213,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","1a, 3d, 1b, 1c",2,8.0,Bi,0.0,True
+mp-685341,Bi16Ru16O55,2.2774742439938125,0.1666146854682587,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","3e, 3d, 6h, 2c",2,7.0,Bi,0.0,True
+mp-685341,Bi16Ru16O55,2.2774742439938125,0.1666146854682587,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","3e, 3d, 6h, 2c",2,8.0,Bi,0.0,True
+mp-685353,Bi15PO25,2.0824379357615994,0.5546083224763958,"[4.0, 5.0, 6.0]",3.0,3.0,3.0,Square pyramid,3b,1,4.0,Bi,0.0,True
+mp-685353,Bi15PO25,2.0824379357615994,0.5546083224763958,"[4.0, 5.0, 6.0]",3.0,3.0,3.0,Square pyramid,3b,1,5.0,Bi,0.0,True
+mp-685353,Bi15PO25,2.0824379357615994,0.5546083224763958,"[4.0, 5.0, 6.0]",3.0,3.0,3.0,Square pyramid,3b,1,6.0,Bi,0.0,True
+mp-685468,Cr2Bi28O47,2.102483372888269,0.4862492913360897,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,5.0,Bi,0.0,True
+mp-685468,Cr2Bi28O47,2.102483372888269,0.4862492913360897,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,6.0,Bi,0.0,True
+mp-685468,Cr2Bi28O47,2.102483372888269,0.4862492913360897,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,7.0,Bi,0.0,True
+mp-685468,Cr2Bi28O47,2.102483372888269,0.4862492913360897,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,8.0,Bi,0.0,True
+mp-686044,Bi12Rh12O41,2.1578180394553206,0.2884332572622853,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","1a, 3d, 1b, 1c",2,7.0,Bi,0.0,True
+mp-686044,Bi12Rh12O41,2.1578180394553206,0.2884332572622853,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","1a, 3d, 1b, 1c",2,8.0,Bi,0.0,True
+mp-686128,Bi15Ru16O55,2.1756375878864427,0.2934752007967109,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","1a, 2b",2,7.0,Bi,0.0,True
+mp-686128,Bi15Ru16O55,2.1756375878864427,0.2934752007967109,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","1a, 2b",2,8.0,Bi,0.0,True
+mp-686175,Si(Bi3O5)5,2.084876387183631,0.5496592034257846,[5.0],3.07,3.07,3.07,Square pyramid,3b,1,5.0,Bi,0.0,True
+mp-686183,Zn(Bi25O38)2,2.139240808817493,0.448096207455756,"[3.0, 4.0, 5.0, 6.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,3.0,Bi,0.0,True
+mp-686183,Zn(Bi25O38)2,2.139240808817493,0.448096207455756,"[3.0, 4.0, 5.0, 6.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,4.0,Bi,0.0,True
+mp-686183,Zn(Bi25O38)2,2.139240808817493,0.448096207455756,"[3.0, 4.0, 5.0, 6.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,5.0,Bi,0.0,True
+mp-686183,Zn(Bi25O38)2,2.139240808817493,0.448096207455756,"[3.0, 4.0, 5.0, 6.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,6.0,Bi,0.0,True
+mp-686311,Na7Bi3P12(Pb5O24)2,0.7199097576597644,1.710145378177777,[9.0],3.0,3.0,3.0,Tricapped triangular prism (three square-face caps),1a,1,9.0,Bi,0.0,True
+mp-686514,Co(Bi5O8)5,2.2403737354662727,0.2336833568123976,"[4.0, 5.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","1b, 2c",2,4.0,Bi,0.0,True
+mp-686514,Co(Bi5O8)5,2.2403737354662727,0.2336833568123976,"[4.0, 5.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","1b, 2c",2,5.0,Bi,0.0,True
+mp-686514,Co(Bi5O8)5,2.2403737354662727,0.2336833568123976,"[4.0, 5.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","1b, 2c",2,5.0,Bi,0.0,True
+mp-686736,Sr5Li25La7(BiO6)8,2.077283529602398,0.4571647171992676,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-691119,Bi14MoO24,2.057400026283177,0.5117728320825868,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,5,5.0,Bi,0.0,True
+mp-691119,Bi14MoO24,2.057400026283177,0.5117728320825868,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,5,6.0,Bi,0.0,True
+mp-691119,Bi14MoO24,2.057400026283177,0.5117728320825868,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,5,7.0,Bi,0.0,True
+mp-691119,Bi14MoO24,2.057400026283177,0.5117728320825868,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,5,8.0,Bi,0.0,True
+mp-693759,Zr12Si2Bi2P16PbO72,1.95248321971589,0.7269636207169548,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-695154,Na7Bi3P12(Pb5O24)2,1.6241508972272136,0.8964624651895905,[9.0],3.0,3.0,3.0,no_data,no_data,1,9.0,Bi,0.0,True
+mp-695325,Ti5ZnBi2(Pb2O9)2,1.7479678735978226,0.8833072354031815,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,1a,1,8.0,Bi,0.0,True
+mp-698353,KBiH10C4O13,2.5431862447123903,-0.0647475869364361,[8.0],3.0,3.0,3.0,Square antiprism,2a,1,8.0,Bi,0.0,True
+mp-698567,Cr(Bi7O12)2,2.025575071335762,0.545824719448858,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,5,5.0,Bi,0.0,True
+mp-698567,Cr(Bi7O12)2,2.025575071335762,0.545824719448858,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,5,6.0,Bi,0.0,True
+mp-698567,Cr(Bi7O12)2,2.025575071335762,0.545824719448858,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,5,7.0,Bi,0.0,True
+mp-698567,Cr(Bi7O12)2,2.025575071335762,0.545824719448858,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,5,8.0,Bi,0.0,True
+mp-698573,FeBi25O39,2.1284928544198536,0.4569169425947909,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar","1a, 3b",3,3.0,Bi,0.0,True
+mp-698573,FeBi25O39,2.1284928544198536,0.4569169425947909,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar","1a, 3b",3,4.0,Bi,0.0,True
+mp-698573,FeBi25O39,2.1284928544198536,0.4569169425947909,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar","1a, 3b",3,5.0,Bi,0.0,True
+mp-704114,VBi(PbO3)2,1.7852699564035344,0.8857377584568406,"[6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism",2a,2,6.0,Bi,0.0,True
+mp-704114,VBi(PbO3)2,1.7852699564035344,0.8857377584568406,"[6.0, 7.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism",2a,2,7.0,Bi,0.0,True
+mp-705013,CrBi8O15,2.073017824226855,0.5084952154550724,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Face-capped octahedron, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","2e, 4f",7,4.0,Bi,0.0,True
+mp-705013,CrBi8O15,2.073017824226855,0.5084952154550724,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Face-capped octahedron, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","2e, 4f",7,5.0,Bi,0.0,True
+mp-705013,CrBi8O15,2.073017824226855,0.5084952154550724,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Face-capped octahedron, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","2e, 4f",7,6.0,Bi,0.0,True
+mp-705013,CrBi8O15,2.073017824226855,0.5084952154550724,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Face-capped octahedron, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","2e, 4f",7,7.0,Bi,0.0,True
+mp-705013,CrBi8O15,2.073017824226855,0.5084952154550724,"[4.0, 5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Face-capped octahedron, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube, See-saw","2e, 4f",7,8.0,Bi,0.0,True
+mp-705713,Bi14WO24,2.026695133217096,0.5517315971751353,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,5.0,Bi,0.0,True
+mp-705713,Bi14WO24,2.026695133217096,0.5517315971751353,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,6.0,Bi,0.0,True
+mp-705713,Bi14WO24,2.026695133217096,0.5517315971751353,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,7.0,Bi,0.0,True
+mp-705713,Bi14WO24,2.026695133217096,0.5517315971751353,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,8.0,Bi,0.0,True
+mp-720079,Ba2Na7Ti16Bi7O48,1.8614011685788217,0.7623034782881473,"[6.0, 7.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square-face capped trigonal prism, Octahedron",1a,3,6.0,Bi,0.0,True
+mp-720079,Ba2Na7Ti16Bi7O48,1.8614011685788217,0.7623034782881473,"[6.0, 7.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square-face capped trigonal prism, Octahedron",1a,3,7.0,Bi,0.0,True
+mp-720079,Ba2Na7Ti16Bi7O48,1.8614011685788217,0.7623034782881473,"[6.0, 7.0, 9.0]",3.0,3.0,3.0,"Triangular cupola, Square-face capped trigonal prism, Octahedron",1a,3,9.0,Bi,0.0,True
+mp-723064,Ti3(BiO3)4,2.121293880469626,0.4268026580827856,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism",2a,3,6.0,Bi,0.0,True
+mp-723064,Ti3(BiO3)4,2.121293880469626,0.4268026580827856,"[6.0, 8.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face bicapped trigonal prism, Square-face capped trigonal prism",2a,3,8.0,Bi,0.0,True
+mp-731583,Ca8V7ZnBiO28,1.33858578235233,1.200220845521799,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,2a,1,8.0,Bi,0.0,True
+mp-744682,Cr8Bi4O29,2.499364719624157,-0.0131422420327933,"[7.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Tricapped triangular prism (three square-face caps), Square antiprism",2i,3,7.0,Bi,0.0,True
+mp-744682,Cr8Bi4O29,2.499364719624157,-0.0131422420327933,"[7.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Tricapped triangular prism (three square-face caps), Square antiprism",2i,3,8.0,Bi,0.0,True
+mp-744682,Cr8Bi4O29,2.499364719624157,-0.0131422420327933,"[7.0, 8.0, 9.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Tricapped triangular prism (three square-face caps), Square antiprism",2i,3,9.0,Bi,0.0,True
+mp-752501,LiSiBiO4,1.9551653475113933,0.7452351476059225,[5.0],3.0,3.0,3.0,Square pyramid,4c,1,5.0,Bi,0.0,True
+mp-752685,ZrBiO4,2.324275988532804,-0.2315967506976133,[6.0],5.0,5.0,5.0,"Square antiprism, Octahedron",2i,2,6.0,Bi,0.0,True
+mp-752910,Na3BiO4,1.963677392210176,1.266225152945078,[6.0],5.0,5.0,5.0,Octahedron,1d,1,6.0,Bi,0.0,True
+mp-753102,La2Bi4O9,1.91185842465161,0.9335561932296864,"[5.0, 6.0]",3.0,3.0,3.0,"Trigonal prism, Tetrahedron, Trigonal bipyramid",1a,3,5.0,Bi,0.0,True
+mp-753102,La2Bi4O9,1.91185842465161,0.9335561932296864,"[5.0, 6.0]",3.0,3.0,3.0,"Trigonal prism, Tetrahedron, Trigonal bipyramid",1a,3,6.0,Bi,0.0,True
+mp-753124,Ba5Bi3O11,2.1458148127273926,0.1985292904278874,"[5.0, 6.0]",4.0,4.0,4.0,"Trigonal bipyramid, Octahedron","1a, 1b",2,5.0,Bi,0.0,True
+mp-753124,Ba5Bi3O11,2.1458148127273926,0.1985292904278874,"[5.0, 6.0]",4.0,4.0,4.0,"Trigonal bipyramid, Octahedron","1a, 1b",2,6.0,Bi,0.0,True
+mp-753327,LiSiBiO4,2.136898776371384,0.3972131612748786,[6.0],3.0,3.0,3.0,Octahedron,4c,1,6.0,Bi,0.0,True
+mp-753755,Bi3O4F,2.0314523878073123,0.5842286643872836,"[3.0, 6.0]",3.0,3.0,3.0,"See-saw, Cube","1a, 1b, 2c",2,3.0,Bi,0.0,True
+mp-753755,Bi3O4F,2.0314523878073123,0.5842286643872836,"[3.0, 6.0]",3.0,3.0,3.0,"See-saw, Cube","1a, 1b, 2c",2,6.0,Bi,0.0,True
+mp-756205,ScBiO3,1.472453183189406,1.335093757137064,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4c,1,8.0,Bi,0.0,True
+mp-756241,PrBiO4,1.872255669762443,1.4787360087925987,[6.0],5.0,5.0,5.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-756282,VBiO3,1.5413119770477897,1.1306179809435917,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4e,1,8.0,Bi,0.0,True
+mp-756400,NdBiO4,2.045739644407884,0.8981003272355462,[6.0],5.0,5.0,5.0,Octahedron,2e,1,6.0,Bi,0.0,True
+mp-756718,Li4Bi2O5,2.0928212264820507,0.76202581192293,"[3.0, 4.0]",3.0,3.0,3.0,"See-saw, Triangular non-coplanar",2i,2,3.0,Bi,0.0,True
+mp-756718,Li4Bi2O5,2.0928212264820507,0.76202581192293,"[3.0, 4.0]",3.0,3.0,3.0,"See-saw, Triangular non-coplanar",2i,2,4.0,Bi,0.0,True
+mp-756721,NaBi5O8,2.003928453135392,0.6739591165070691,"[4.0, 5.0, 6.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Octahedron",2i,3,4.0,Bi,0.0,True
+mp-756721,NaBi5O8,2.003928453135392,0.6739591165070691,"[4.0, 5.0, 6.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Octahedron",2i,3,5.0,Bi,0.0,True
+mp-756721,NaBi5O8,2.003928453135392,0.6739591165070691,"[4.0, 5.0, 6.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Octahedron",2i,3,6.0,Bi,0.0,True
+mp-757038,LiSiBiO4,0.9634440565568884,2.037098682936405,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4a,1,7.0,Bi,0.0,True
+mp-757152,V2Bi4O11,2.1736511330209187,0.3493711270056963,"[6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",2a,2,6.0,Bi,0.0,True
+mp-757152,V2Bi4O11,2.1736511330209187,0.3493711270056963,"[6.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Square-face capped trigonal prism",2a,2,7.0,Bi,0.0,True
+mp-757162,Bi3O4F,2.05945680840359,0.5981509106999793,"[3.0, 6.0]",3.0,3.0,3.0,"Square pyramid, Octahedron","4g, 2f",2,3.0,Bi,0.0,True
+mp-757162,Bi3O4F,2.05945680840359,0.5981509106999793,"[3.0, 6.0]",3.0,3.0,3.0,"Square pyramid, Octahedron","4g, 2f",2,6.0,Bi,0.0,True
+mp-757274,Bi17W3O34,2.1232872673458147,0.4371122536781572,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,5.0,Bi,0.0,True
+mp-757274,Bi17W3O34,2.1232872673458147,0.4371122536781572,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,6.0,Bi,0.0,True
+mp-757274,Bi17W3O34,2.1232872673458147,0.4371122536781572,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,7.0,Bi,0.0,True
+mp-757274,Bi17W3O34,2.1232872673458147,0.4371122536781572,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube",1a,6,8.0,Bi,0.0,True
+mp-757343,Ca4Bi6O13,2.06985822529358,0.4908028744545981,"[3.0, 5.0, 6.0]",3.0,3.0,3.0,"Octahedron, Square pyramid, Triangular non-coplanar","1a, 2b",3,3.0,Bi,0.0,True
+mp-757343,Ca4Bi6O13,2.06985822529358,0.4908028744545981,"[3.0, 5.0, 6.0]",3.0,3.0,3.0,"Octahedron, Square pyramid, Triangular non-coplanar","1a, 2b",3,5.0,Bi,0.0,True
+mp-757343,Ca4Bi6O13,2.06985822529358,0.4908028744545981,"[3.0, 5.0, 6.0]",3.0,3.0,3.0,"Octahedron, Square pyramid, Triangular non-coplanar","1a, 2b",3,6.0,Bi,0.0,True
+mp-757434,LiSi6Bi9O26,2.0977348189906686,0.4525995296094524,"[6.0, 7.0, 9.0]",3.0,3.0,3.0,"Tricapped triangular prism (three square-face caps), Pentagonal bipyramid","3d, 1b, 1c",2,6.0,Bi,0.0,True
+mp-757434,LiSi6Bi9O26,2.0977348189906686,0.4525995296094524,"[6.0, 7.0, 9.0]",3.0,3.0,3.0,"Tricapped triangular prism (three square-face caps), Pentagonal bipyramid","3d, 1b, 1c",2,7.0,Bi,0.0,True
+mp-757434,LiSi6Bi9O26,2.0977348189906686,0.4525995296094524,"[6.0, 7.0, 9.0]",3.0,3.0,3.0,"Tricapped triangular prism (three square-face caps), Pentagonal bipyramid","3d, 1b, 1c",2,9.0,Bi,0.0,True
+mp-757766,FeBi25O39,2.131440974268643,0.4560306337092516,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,3.0,Bi,0.0,True
+mp-757766,FeBi25O39,2.131440974268643,0.4560306337092516,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,4.0,Bi,0.0,True
+mp-757766,FeBi25O39,2.131440974268643,0.4560306337092516,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,5.0,Bi,0.0,True
+mp-757768,Cu10Bi25O48,2.216680734334329,0.4571483662555298,"[4.0, 6.0]",3.0,3.0,3.0,"Square antiprism, Octahedron","1a, 4d",2,4.0,Bi,0.0,True
+mp-757768,Cu10Bi25O48,2.216680734334329,0.4571483662555298,"[4.0, 6.0]",3.0,3.0,3.0,"Square antiprism, Octahedron","1a, 4d",2,6.0,Bi,0.0,True
+mp-757777,LiSiBi3O7,2.566617661554885,0.2308580070962489,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,6c,1,7.0,Bi,0.0,True
+mp-757785,Bi12PbO19,2.140831580530185,0.4967481752202476,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid",3b,2,4.0,Bi,0.0,True
+mp-757785,Bi12PbO19,2.140831580530185,0.4967481752202476,"[4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid",3b,2,5.0,Bi,0.0,True
+mp-757798,Bi12PO20,2.1377964005694965,0.7321324041354775,[6.0],3.0,3.0,3.0,Square pyramid,12f,1,6.0,Bi,0.0,True
+mp-757801,Mn(Bi5O8)5,2.1198466340068536,0.4546533859324263,"[4.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","1b, 2c",2,4.0,Bi,0.0,True
+mp-757801,Mn(Bi5O8)5,2.1198466340068536,0.4546533859324263,"[4.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","1b, 2c",2,5.0,Bi,0.0,True
+mp-757852,Bi16O25,2.310186237316338,0.1484665464834343,"[6.0, 7.0]",3.12,3.12,3.12,"Pentagonal pyramid, Pentagonal bipyramid","8j, 4i",2,6.0,Bi,0.0,True
+mp-757852,Bi16O25,2.310186237316338,0.1484665464834343,"[6.0, 7.0]",3.12,3.12,3.12,"Pentagonal pyramid, Pentagonal bipyramid","8j, 4i",2,7.0,Bi,0.0,True
+mp-757874,LiSiBiO4,2.0733378096360617,0.5677834423089754,"[5.0, 7.0]",3.0,3.0,3.0,"Square pyramid, Square-face capped trigonal prism",4a,2,5.0,Bi,0.0,True
+mp-757874,LiSiBiO4,2.0733378096360617,0.5677834423089754,"[5.0, 7.0]",3.0,3.0,3.0,"Square pyramid, Square-face capped trigonal prism",4a,2,7.0,Bi,0.0,True
+mp-757916,Bi12AsO20,2.2538364479611404,0.3616186961939924,[5.0],2.92,2.92,2.92,Square pyramid,12f,1,5.0,Bi,0.0,True
+mp-758225,Bi10(Pb2O7)3,1.9676085637001115,0.7522070889756115,[5.0],3.0,3.0,3.0,Square pyramid,2i,1,5.0,Bi,0.0,True
+mp-758316,La10Bi8O27,1.972872293721459,0.7808581308116662,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square non-coplanar, Square pyramid, Triangular non-coplanar",1a,4,3.0,Bi,0.0,True
+mp-758316,La10Bi8O27,1.972872293721459,0.7808581308116662,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square non-coplanar, Square pyramid, Triangular non-coplanar",1a,4,4.0,Bi,0.0,True
+mp-758316,La10Bi8O27,1.972872293721459,0.7808581308116662,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square non-coplanar, Square pyramid, Triangular non-coplanar",1a,4,5.0,Bi,0.0,True
+mp-758482,V2Bi24O41,2.1627216163891463,0.44514388435246,"[5.0, 6.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square pyramid",4u,2,5.0,Bi,0.0,True
+mp-758482,V2Bi24O41,2.1627216163891463,0.44514388435246,"[5.0, 6.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square pyramid",4u,2,6.0,Bi,0.0,True
+mp-758626,Bi17(WO11)3,2.193525787396975,0.3402185186434611,"[4.0, 4.0, 5.0, 6.0, 7.0, 8.0]",2.833333333333333,2.0,3.0,no_data,no_data,1,4.0,Bi,1.0,False
+mp-758626,Bi17(WO11)3,2.193525787396975,0.3402185186434611,"[4.0, 4.0, 5.0, 6.0, 7.0, 8.0]",2.833333333333333,2.0,3.0,no_data,no_data,1,4.0,Bi,1.0,False
+mp-758626,Bi17(WO11)3,2.193525787396975,0.3402185186434611,"[4.0, 4.0, 5.0, 6.0, 7.0, 8.0]",2.833333333333333,2.0,3.0,no_data,no_data,1,5.0,Bi,1.0,False
+mp-758626,Bi17(WO11)3,2.193525787396975,0.3402185186434611,"[4.0, 4.0, 5.0, 6.0, 7.0, 8.0]",2.833333333333333,2.0,3.0,no_data,no_data,1,6.0,Bi,1.0,False
+mp-758626,Bi17(WO11)3,2.193525787396975,0.3402185186434611,"[4.0, 4.0, 5.0, 6.0, 7.0, 8.0]",2.833333333333333,2.0,3.0,no_data,no_data,1,7.0,Bi,1.0,False
+mp-758626,Bi17(WO11)3,2.193525787396975,0.3402185186434611,"[4.0, 4.0, 5.0, 6.0, 7.0, 8.0]",2.833333333333333,2.0,3.0,no_data,no_data,1,8.0,Bi,1.0,False
+mp-759031,Bi19(O9F)3,2.0216805674415856,0.548212131922676,"[5.0, 6.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism, Octahedron","2a, 6c",3,5.0,Bi,0.0,True
+mp-759031,Bi19(O9F)3,2.0216805674415856,0.548212131922676,"[5.0, 6.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism, Octahedron","2a, 6c",3,6.0,Bi,0.0,True
+mp-759031,Bi19(O9F)3,2.0216805674415856,0.548212131922676,"[5.0, 6.0, 8.0]",3.0,3.0,3.0,"Square-face bicapped trigonal prism, Square-face capped trigonal prism, Octahedron","2a, 6c",3,8.0,Bi,0.0,True
+mp-759405,Bi3O2F5,2.0303376348502784,0.4668662266030852,"[2.0, 4.0]",3.0,3.0,3.0,Square-face bicapped trigonal prism,"4c, 8d",1,2.0,Bi,0.0,True
+mp-759405,Bi3O2F5,2.0303376348502784,0.4668662266030852,"[2.0, 4.0]",3.0,3.0,3.0,Square-face bicapped trigonal prism,"4c, 8d",1,4.0,Bi,0.0,True
+mp-759526,Bi2O3,2.127494917673835,0.440817172641643,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Tetrahedron, Square pyramid, Triangular non-coplanar","1a, 3b",4,3.0,Bi,0.0,True
+mp-759526,Bi2O3,2.127494917673835,0.440817172641643,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Tetrahedron, Square pyramid, Triangular non-coplanar","1a, 3b",4,4.0,Bi,0.0,True
+mp-759526,Bi2O3,2.127494917673835,0.440817172641643,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Tetrahedron, Square pyramid, Triangular non-coplanar","1a, 3b",4,5.0,Bi,0.0,True
+mp-759680,LiSi2BiO6,2.8746334208723177,-2.113730219200664,[4.0],3.0,3.0,3.0,Square antiprism,2e,1,4.0,Bi,0.0,True
+mp-759730,Fe(Bi5O8)5,2.1498583976348566,0.3786430456318039,"[4.0, 5.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","12j, 1b",2,4.0,Bi,0.0,True
+mp-759730,Fe(Bi5O8)5,2.1498583976348566,0.3786430456318039,"[4.0, 5.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","12j, 1b",2,5.0,Bi,0.0,True
+mp-759730,Fe(Bi5O8)5,2.1498583976348566,0.3786430456318039,"[4.0, 5.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","12j, 1b",2,5.0,Bi,0.0,True
+mp-759798,Bi7(O2F3)3,2.037978709561195,0.5007544616753055,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4b,3,3.0,Bi,0.0,True
+mp-759798,Bi7(O2F3)3,2.037978709561195,0.5007544616753055,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4b,3,2.0,Bi,0.0,True
+mp-759798,Bi7(O2F3)3,2.037978709561195,0.5007544616753055,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4b,3,4.0,Bi,0.0,True
+mp-759798,Bi7(O2F3)3,2.037978709561195,0.5007544616753055,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4b,3,4.0,Bi,0.0,True
+mp-759870,BiOF,1.9656368503028072,0.7563236687216205,"[3.0, 4.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron",8c,2,3.0,Bi,0.0,True
+mp-759870,BiOF,1.9656368503028072,0.7563236687216205,"[3.0, 4.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron",8c,2,4.0,Bi,0.0,True
+mp-759894,Bi7(O2F3)3,1.9551443695711128,0.701013735813737,"[2.0, 0, 4.0, 6.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism","4d, 2c",3,2.0,Bi,0.0,True
+mp-759894,Bi7(O2F3)3,1.9551443695711128,0.701013735813737,"[2.0, 0, 4.0, 6.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism","4d, 2c",3,0.0,Bi,0.0,True
+mp-759894,Bi7(O2F3)3,1.9551443695711128,0.701013735813737,"[2.0, 0, 4.0, 6.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism","4d, 2c",3,4.0,Bi,0.0,True
+mp-759894,Bi7(O2F3)3,1.9551443695711128,0.701013735813737,"[2.0, 0, 4.0, 6.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism","4d, 2c",3,6.0,Bi,0.0,True
+mp-759924,Bi14SO24,1.910281511096434,0.7229611224290965,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube","1a, 2b",5,5.0,Bi,0.0,True
+mp-759924,Bi14SO24,1.910281511096434,0.7229611224290965,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube","1a, 2b",5,6.0,Bi,0.0,True
+mp-759924,Bi14SO24,1.910281511096434,0.7229611224290965,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube","1a, 2b",5,7.0,Bi,0.0,True
+mp-759924,Bi14SO24,1.910281511096434,0.7229611224290965,"[5.0, 6.0, 7.0, 8.0]",3.0,3.0,3.0,"Trigonal prism, Square-face capped trigonal prism, Square pyramid, Octahedron, Cube","1a, 2b",5,8.0,Bi,0.0,True
+mp-759985,Bi3O2F5,2.0296477294468795,0.6029464196659167,"[0, 1.0, 4.0, 4.0]",3.0,3.0,3.0,"Trigonal prism, Pentagonal bipyramid, Square antiprism, Dodecahedron with triangular faces","4g, 2f, 2e",4,0.0,Bi,0.0,True
+mp-759985,Bi3O2F5,2.0296477294468795,0.6029464196659167,"[0, 1.0, 4.0, 4.0]",3.0,3.0,3.0,"Trigonal prism, Pentagonal bipyramid, Square antiprism, Dodecahedron with triangular faces","4g, 2f, 2e",4,1.0,Bi,0.0,True
+mp-759985,Bi3O2F5,2.0296477294468795,0.6029464196659167,"[0, 1.0, 4.0, 4.0]",3.0,3.0,3.0,"Trigonal prism, Pentagonal bipyramid, Square antiprism, Dodecahedron with triangular faces","4g, 2f, 2e",4,4.0,Bi,0.0,True
+mp-759985,Bi3O2F5,2.0296477294468795,0.6029464196659167,"[0, 1.0, 4.0, 4.0]",3.0,3.0,3.0,"Trigonal prism, Pentagonal bipyramid, Square antiprism, Dodecahedron with triangular faces","4g, 2f, 2e",4,4.0,Bi,0.0,True
+mp-760121,Bi12Rh12O41,1.925114745980893,0.5598633319502628,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","2d, 4e, 2c",2,7.0,Bi,0.0,True
+mp-760121,Bi12Rh12O41,1.925114745980893,0.5598633319502628,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","2d, 4e, 2c",2,8.0,Bi,0.0,True
+mp-760162,BiOF,2.4487519146362247,-0.449217719493349,"[3.0, 3.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square pyramid",8c,2,3.0,Bi,0.0,True
+mp-760162,BiOF,2.4487519146362247,-0.449217719493349,"[3.0, 3.0]",3.0,3.0,3.0,"Pentagonal bipyramid, Square pyramid",8c,2,3.0,Bi,0.0,True
+mp-760230,Bi5O4F7,2.1335096917085337,0.3689917333250319,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4b,3,3.0,Bi,0.0,True
+mp-760230,Bi5O4F7,2.1335096917085337,0.3689917333250319,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4b,3,2.0,Bi,0.0,True
+mp-760230,Bi5O4F7,2.1335096917085337,0.3689917333250319,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4b,3,4.0,Bi,0.0,True
+mp-760230,Bi5O4F7,2.1335096917085337,0.3689917333250319,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4b,3,4.0,Bi,0.0,True
+mp-760370,Bi6O5F8,2.062364721636341,0.4734682097927155,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4e,3,3.0,Bi,0.0,True
+mp-760370,Bi6O5F8,2.062364721636341,0.4734682097927155,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4e,3,2.0,Bi,0.0,True
+mp-760370,Bi6O5F8,2.062364721636341,0.4734682097927155,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4e,3,4.0,Bi,0.0,True
+mp-760370,Bi6O5F8,2.062364721636341,0.4734682097927155,"[3.0, 2.0, 4.0, 4.0]",3.0,3.0,3.0,"Cube, Square-face bicapped trigonal prism, Square-face capped trigonal prism",4e,3,4.0,Bi,0.0,True
+mp-760400,Na5BiO5,1.966433348331868,1.0841680636803417,[6.0],5.0,5.0,5.0,Octahedron,1b,1,6.0,Bi,0.0,True
+mp-760411,Bi2CO5,1.7096870826204664,0.8185473443966169,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,2c,1,8.0,Bi,0.0,True
+mp-760510,Sr2Bi2O5,2.0861321580150176,0.543052994546671,[3.0],3.0,3.0,3.0,Triangular non-coplanar,2e,1,3.0,Bi,0.0,True
+mp-761090,Na3BiO3,2.109040880471724,0.2008656325404664,[3.0],3.0,3.0,3.0,Triangular non-coplanar,2i,1,3.0,Bi,0.0,True
+mp-761704,Bi4O5F2,1.9940506536240865,0.580036260507566,"[3.0, 4.0, 4.0, 5.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, Cube, See-saw",2a,5,3.0,Bi,0.0,True
+mp-761704,Bi4O5F2,1.9940506536240865,0.580036260507566,"[3.0, 4.0, 4.0, 5.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, Cube, See-saw",2a,5,4.0,Bi,0.0,True
+mp-761704,Bi4O5F2,1.9940506536240865,0.580036260507566,"[3.0, 4.0, 4.0, 5.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, Cube, See-saw",2a,5,4.0,Bi,0.0,True
+mp-761704,Bi4O5F2,1.9940506536240865,0.580036260507566,"[3.0, 4.0, 4.0, 5.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, Cube, See-saw",2a,5,5.0,Bi,0.0,True
+mp-761704,Bi4O5F2,1.9940506536240865,0.580036260507566,"[3.0, 4.0, 4.0, 5.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, Cube, See-saw",2a,5,7.0,Bi,0.0,True
+mp-761704,Bi4O5F2,1.9940506536240865,0.580036260507566,"[3.0, 4.0, 4.0, 5.0, 7.0, 7.0]",3.0,3.0,3.0,"Pentagonal pyramid, Trigonal prism, Square-face capped trigonal prism, Cube, See-saw",2a,5,7.0,Bi,0.0,True
+mp-765612,Ba8Bi4O17,2.088021558525099,0.434235555153791,"[5.0, 6.0]",4.5,4.5,4.5,"Trigonal bipyramid, Octahedron",1a,2,5.0,Bi,0.0,True
+mp-765612,Ba8Bi4O17,2.088021558525099,0.434235555153791,"[5.0, 6.0]",4.5,4.5,4.5,"Trigonal bipyramid, Octahedron",1a,2,6.0,Bi,0.0,True
+mp-766025,V2Bi4O11,2.3250687010976594,0.2019772822634192,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Square-face capped trigonal prism",2c,2,7.0,Bi,0.0,True
+mp-766025,V2Bi4O11,2.3250687010976594,0.2019772822634192,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Square-face capped trigonal prism",2c,2,8.0,Bi,0.0,True
+mp-766176,LiSiBiO4,2.221844443151025,0.2930521622362187,[7.0],3.0,3.0,3.0,Square-face capped trigonal prism,4e,1,7.0,Bi,0.0,True
+mp-766286,Bi8Rh8O27,1.997439782419373,0.4806110054253539,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","1a, 3b",2,7.0,Bi,0.0,True
+mp-766286,Bi8Rh8O27,1.997439782419373,0.4806110054253539,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Face-capped octahedron","1a, 3b",2,8.0,Bi,0.0,True
+mp-767265,V(Bi5O8)5,2.103387157985166,0.4859946002026595,"[4.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","1b, 2c",2,4.0,Bi,0.0,True
+mp-767265,V(Bi5O8)5,2.103387157985166,0.4859946002026595,"[4.0, 5.0]",3.0,3.0,3.0,"Tetrahedron, Square pyramid","1b, 2c",2,5.0,Bi,0.0,True
+mp-768045,V5BiO10,2.340205825374192,0.0958977951601325,[4.0],1.0,1.0,1.0,Square plane,1a,1,4.0,Bi,0.0,True
+mp-768140,Na2BiPCO7,0.917119725975226,1.890862690391324,[7.0],3.0,3.0,3.0,Pentagonal bipyramid,2e,1,7.0,Bi,0.0,True
+mp-768216,Li2BiPCO7,2.323000981611832,0.1086194573669701,[6.0],3.0,3.0,3.0,Pentagonal bipyramid,2a,1,6.0,Bi,0.0,True
+mp-768383,SmBiO4,2.047120961109117,0.8886754724275564,[6.0],5.0,5.0,5.0,Octahedron,2e,1,6.0,Bi,0.0,True
+mp-768452,Li5Bi2(BO3)4,1.785383011272211,0.8243555255964703,[8.0],3.5,3.5,3.5,Dodecahedron with triangular faces - p2345 plane normalized,2a,1,8.0,Bi,0.0,True
+mp-768582,Na3BiBPO7,0.2686709293239026,3.089553819665966,[6.0],3.0,3.0,3.0,Pentagonal bipyramid,2e,1,6.0,Bi,0.0,True
+mp-768663,Na3SiBiCO7,1.590621657703038,1.1703123361253294,[6.0],3.0,3.0,3.0,Pentagonal bipyramid,2e,1,6.0,Bi,0.0,True
+mp-768738,Li3Bi(BO3)2,1.9836944759080968,1.0063758125196824,[4.0],3.0,3.0,3.0,Tetrahedron,2i,1,4.0,Bi,0.0,True
+mp-768740,Li2Bi5B3O13,2.198551278813427,0.3120421314697107,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Square-face capped trigonal prism, Octahedron",2e,3,6.0,Bi,0.0,True
+mp-768740,Li2Bi5B3O13,2.198551278813427,0.3120421314697107,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Square-face capped trigonal prism, Octahedron",2e,3,7.0,Bi,0.0,True
+mp-768771,Li3Bi(BO3)2,1.8402725533162223,0.9889047596981436,[5.0],3.0,3.0,3.0,Octahedron,4e,1,5.0,Bi,0.0,True
+mp-768798,Li3Bi2(BO3)3,1.3374139923799464,1.1358959201884484,[9.0],3.0,3.0,3.0,Square-face capped square prism,4e,1,9.0,Bi,0.0,True
+mp-768820,Li3Bi(BO3)2,1.274127446022859,1.2842750082764285,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,8.0,Bi,0.0,True
+mp-768923,Bi4(B2O5)3,1.709316316105769,0.8798436705176371,[8.0],3.0,3.0,3.0,"Bicapped octahedron (cap faces with one edge in common), Square-face bicapped trigonal prism",4f,2,8.0,Bi,0.0,True
+mp-768986,Li5BiO4,2.170784074403805,0.3538109274300516,[4.0],3.0,3.0,3.0,Tetrahedron,8g,1,4.0,Bi,0.0,True
+mp-768992,Li6Bi2O7,1.7734183248144593,1.1259821436531894,[6.0],4.0,4.0,4.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-769004,Li3BiO4,2.023026566168377,0.7428260503612792,[6.0],5.0,5.0,5.0,Octahedron,4c,1,6.0,Bi,0.0,True
+mp-769868,Li3BiH8O7,2.2027832430817296,0.2761279170152463,[5.0],3.0,3.0,3.0,Square pyramid,2i,1,5.0,Bi,0.0,True
+mp-770111,PrBiO4,2.042670999092908,0.9822580697119097,[6.0],5.0,5.0,5.0,Octahedron,4c,1,6.0,Bi,0.0,True
+mp-770280,Li6Bi(BO3)3,1.9489783167217785,0.5846447334325463,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,8.0,Bi,0.0,True
+mp-770332,NaBiCSO7,1.6232395012810972,1.1031041883521726,[6.0],3.0,3.0,3.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-770475,Na3BiBAsO7,0.2283946620631792,3.154413182604068,[6.0],3.0,3.0,3.0,Pentagonal bipyramid,2e,1,6.0,Bi,0.0,True
+mp-770830,HoBiO3,1.6535837818899015,1.3043923496625052,[8.0],3.0,3.0,3.0,Square-face bicapped trigonal prism,4c,1,8.0,Bi,0.0,True
+mp-771168,Na2SiBiCO7,2.3676753604681897,-0.3659556615258349,[6.0],5.0,5.0,5.0,Octahedron,2e,1,6.0,Bi,0.0,True
+mp-772189,Bi3Ir3O11,2.212469773350337,0.2367761811623616,"[9.0, 8.0]",2.5,2.0,3.0,"Cube, Tricapped triangular prism (three square-face caps)","4b, 8e",2,9.0,Bi,1.0,False
+mp-772189,Bi3Ir3O11,2.212469773350337,0.2367761811623616,"[9.0, 8.0]",2.5,2.0,3.0,"Cube, Tricapped triangular prism (three square-face caps)","4b, 8e",2,8.0,Bi,1.0,False
+mp-772194,La3Bi3O11,1.5592860076046309,2.061235223619959,[6.0],4.33,4.33,4.33,Octahedron,12g,1,6.0,Bi,0.0,True
+mp-772569,Li2Ni2BiO6,2.065108874213113,0.1235219863485066,[6.0],3.0,3.0,3.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-772721,LiSi6Bi9O26,2.076312867725649,0.4895151965048197,"[6.0, 7.0, 9.0]",3.0,3.0,3.0,"Tricapped triangular prism (three square-face caps), Pentagonal bipyramid","2d, 6g",2,6.0,Bi,0.0,True
+mp-772721,LiSi6Bi9O26,2.076312867725649,0.4895151965048197,"[6.0, 7.0, 9.0]",3.0,3.0,3.0,"Tricapped triangular prism (three square-face caps), Pentagonal bipyramid","2d, 6g",2,7.0,Bi,0.0,True
+mp-772721,LiSi6Bi9O26,2.076312867725649,0.4895151965048197,"[6.0, 7.0, 9.0]",3.0,3.0,3.0,"Tricapped triangular prism (three square-face caps), Pentagonal bipyramid","2d, 6g",2,9.0,Bi,0.0,True
+mp-772808,K2BiPCO7,2.674738821020552,-0.3976781433659787,[6.0],3.0,3.0,3.0,Octahedron,2e,1,6.0,Bi,0.0,True
+mp-772867,La2Bi2O7,2.254933113122083,-0.0007164187772551,[6.0],4.0,4.0,4.0,Octahedron,2a,1,6.0,Bi,0.0,True
+mp-772874,CaBi2O5,2.105250483429798,0.4289593961306325,[6.0],4.0,4.0,4.0,Octahedron,4f,1,6.0,Bi,0.0,True
+mp-772910,Bi3IO4,2.043292937472432,0.6411112196965635,"[3.0, 8.0]",3.0,3.0,3.0,"Cube, Triangular non-coplanar","4c, 8e",2,3.0,Bi,0.0,True
+mp-772910,Bi3IO4,2.043292937472432,0.6411112196965635,"[3.0, 8.0]",3.0,3.0,3.0,"Cube, Triangular non-coplanar","4c, 8e",2,8.0,Bi,0.0,True
+mp-772967,Li2Cr3BiO8,2.26541360066162,-0.0049479493861199,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-773884,Bi19O30,1.9716240683181183,0.8086804680929669,"[4.0, 5.0]",3.16,3.16,3.16,"Tetrahedron, Square pyramid","3d, 1b, 1c",2,4.0,Bi,0.0,True
+mp-773884,Bi19O30,1.9716240683181183,0.8086804680929669,"[4.0, 5.0]",3.16,3.16,3.16,"Tetrahedron, Square pyramid","3d, 1b, 1c",2,5.0,Bi,0.0,True
+mp-773887,TiBi2O5,2.343954527807701,0.1926254905650715,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Pentagonal bipyramid",4c,2,7.0,Bi,0.0,True
+mp-773887,TiBi2O5,2.343954527807701,0.1926254905650715,"[7.0, 8.0]",3.0,3.0,3.0,"Cube, Pentagonal bipyramid",4c,2,8.0,Bi,0.0,True
+mp-774702,Li3BiO4,1.988547323464502,0.7808363162757592,[6.0],5.0,5.0,5.0,Octahedron,2e,1,6.0,Bi,0.0,True
+mp-774832,Ba10Li2Bi4O21,2.085271169748224,0.4359606932019568,"[5.0, 6.0]",5.0,5.0,5.0,no_data,no_data,1,5.0,Bi,0.0,True
+mp-774832,Ba10Li2Bi4O21,2.085271169748224,0.4359606932019568,"[5.0, 6.0]",5.0,5.0,5.0,no_data,no_data,1,6.0,Bi,0.0,True
+mp-775429,Ba4LiBi3O11,2.100742115691206,0.2222726440790722,"[5.0, 6.0]",4.33,4.33,4.33,"Square pyramid, Octahedron","1a, 1b",2,5.0,Bi,0.0,True
+mp-775429,Ba4LiBi3O11,2.100742115691206,0.2222726440790722,"[5.0, 6.0]",4.33,4.33,4.33,"Square pyramid, Octahedron","1a, 1b",2,6.0,Bi,0.0,True
+mp-775485,Bi3PO7,1.9933924361169133,0.5730539899236337,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Trigonal prism, Square-face capped trigonal prism",2b,3,6.0,Bi,0.0,True
+mp-775485,Bi3PO7,1.9933924361169133,0.5730539899236337,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Trigonal prism, Square-face capped trigonal prism",2b,3,7.0,Bi,0.0,True
+mp-775485,Bi3PO7,1.9933924361169133,0.5730539899236337,"[6.0, 7.0, 8.0]",3.0,3.0,3.0,"Square antiprism, Trigonal prism, Square-face capped trigonal prism",2b,3,8.0,Bi,0.0,True
+mp-775774,AgBiO3,2.5546574902215062,-1.6478103271588984,[6.0],5.0,5.0,5.0,Octahedron,2f,1,6.0,Bi,0.0,True
+mp-775830,Na3Bi(BO3)2,0.5526328128095448,2.097168354862008,[8.0],3.0,3.0,3.0,Dodecahedron with triangular faces - p2345 plane normalized,4e,1,8.0,Bi,0.0,True
+mp-776005,Li4FeBi(TeO6)2,2.1554280647611024,-0.062175575997091,[6.0],5.0,5.0,5.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-776348,Na4Bi2C4SO16,1.99402284602732,0.5736243303692066,[6.0],3.0,3.0,3.0,Octahedron,1a,1,6.0,Bi,0.0,True
+mp-778009,LiBi6B3O14,2.1564984532066385,0.3738658998758294,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism",4e,3,6.0,Bi,0.0,True
+mp-778009,LiBi6B3O14,2.1564984532066385,0.3738658998758294,"[6.0, 7.0]",3.0,3.0,3.0,"Face-capped octahedron, Trigonal prism, Square-face capped trigonal prism",4e,3,7.0,Bi,0.0,True
+mp-779515,Na4Bi2C4SO16,2.3642912522913573,0.0230416672430054,[6.0],3.0,3.0,3.0,Octahedron,4c,1,6.0,Bi,0.0,True
+mp-780246,Na2Bi4O7,2.002698906173375,0.7818942450498814,[4.0],3.0,3.0,3.0,See-saw,4f,1,4.0,Bi,0.0,True
+mp-780333,Li3Bi2(PO4)3,2.0182565168401423,0.5090300441116045,[6.0],3.0,3.0,3.0,Octahedron,4e,1,6.0,Bi,0.0,True
+mp-849761,GaBi25O39,2.1272739285601063,0.4558894560976837,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,3.0,Bi,0.0,True
+mp-849761,GaBi25O39,2.1272739285601063,0.4558894560976837,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,4.0,Bi,0.0,True
+mp-849761,GaBi25O39,2.1272739285601063,0.4558894560976837,"[3.0, 4.0, 5.0]",3.0,3.0,3.0,"See-saw, Square pyramid, Triangular non-coplanar",1a,3,5.0,Bi,0.0,True
+mp-849779,LiSi6BiO14,1.9344671945436576,0.5965116804554352,[8.0],3.0,3.0,3.0,Square antiprism,4g,1,8.0,Bi,0.0,True
+mp-850713,Bi2CO5,1.7408859859941994,0.817425482547768,[8.0],3.0,3.0,3.0,"Square-face bicapped trigonal prism, Dodecahedron with triangular faces - p2345 plane normalized",1a,2,8.0,Bi,0.0,True
+mp-857352,Na4Bi2O5,2.045511047097793,0.9126729987286378,"[3.0, 5.0]",3.0,3.0,3.0,"See-saw, Triangular non-coplanar",2i,2,3.0,Bi,0.0,True
+mp-857352,Na4Bi2O5,2.045511047097793,0.9126729987286378,"[3.0, 5.0]",3.0,3.0,3.0,"See-saw, Triangular non-coplanar",2i,2,5.0,Bi,0.0,True
+mp-859110,Ta7BiO19,1.794006730153319,0.7402270777630202,[8.0],3.0,3.0,3.0,Bicapped octahedron (opposed cap faces),2d,1,8.0,Bi,0.0,True
+mp-863374,BiTeO4,2.243627823110791,0.1225610414459148,"[6.0, 8.0]",2.0,2.0,2.0,"Trigonal prism, Square antiprism",2a,2,6.0,Bi,0.0,True
+mp-863374,BiTeO4,2.243627823110791,0.1225610414459148,"[6.0, 8.0]",2.0,2.0,2.0,"Trigonal prism, Square antiprism",2a,2,8.0,Bi,0.0,True
+mp-866311,Bi3BrO4,2.049963115008845,0.4224326417202742,"[4.0, 8.0]",3.0,3.0,3.0,"Cube, Square non-coplanar","2i, 1b",2,4.0,Bi,0.0,True
+mp-866311,Bi3BrO4,2.049963115008845,0.4224326417202742,"[4.0, 8.0]",3.0,3.0,3.0,"Cube, Square non-coplanar","2i, 1b",2,8.0,Bi,0.0,True
+mp-867542,Ba8(Bi2O7)3,1.998954724627476,0.6899377623824815,[6.0],4.33,4.33,4.33,Octahedron,"1a, 2i, 1d",1,6.0,Bi,0.0,True
+mp-975106,Rb2Bi2O5,1.096415797034528,4.786308634972589,[5.0],4.0,4.0,4.0,Square pyramid,2h,1,5.0,Bi,0.0,True
+mp-996968,AgBiO2,1.939996585379251,0.8651568635491598,[5.0],3.0,3.0,3.0,Square pyramid,2e,1,5.0,Bi,0.0,True
